@@ -1,0 +1,1929 @@
+{
+ "hits": [
+  {
+   "id": 36,
+   "name": "Dubai Marina",
+   "name_l1": "دبي مارينا",
+   "name_l2": "迪拜码头",
+   "name_l3": "Дубай Марина",
+   "name_l4": "Dubai Marina",
+   "name_l5": "Dubai Marina",
+   "name_l6": "Dubai Marina",
+   "name_l7": "Dubai Marina",
+   "name_l8": "Dubai Marina",
+   "name_l9": "Dubai Marina",
+   "name_l10": "Dubai Marina",
+   "name_l11": "Dubai Marina",
+   "name_l12": "Dubai Marina",
+   "name_l13": "Dubai Marina",
+   "name_l14": "Dubai Marina",
+   "externalID": "5003",
+   "slug": "/dubai/dubai-marina",
+   "slug_l1": "/dubai/dubai-marina",
+   "slug_l2": "/dubai/dubai-marina",
+   "slug_l3": "/dubai/dubai-marina",
+   "_geoloc": {
+    "lat": 25.083189748036,
+    "lng": 55.14430056087
+   },
+   "geography": {
+    "lat": 25.083189748036,
+    "lng": 55.14430056087
+   },
+   "geo_point": [
+    55.14430056087,
+    25.083189748036
+   ],
+   "level": 2,
+   "hierarchy": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "name_l4": "VAE",
+     "name_l5": "EAU",
+     "name_l6": "EAU",
+     "name_l7": "EAU",
+     "name_l8": "VAE",
+     "name_l9": "UAE",
+     "name_l10": "UAE",
+     "name_l11": "UAE",
+     "name_l12": "UAE",
+     "name_l13": "UAE",
+     "name_l14": "UAE",
+     "slug": "/uae",
+     "slug_l1": "/uae",
+     "slug_l2": "/uae",
+     "slug_l3": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "name_l4": "Dubai",
+     "name_l5": "Dubai",
+     "name_l6": "Dubai",
+     "name_l7": "Dubai",
+     "name_l8": "Dubai",
+     "name_l9": "Dubai",
+     "name_l10": "Dubai",
+     "name_l11": "Dubai",
+     "name_l12": "Dubai",
+     "name_l13": "Dubai",
+     "name_l14": "Dubai",
+     "slug": "/dubai",
+     "slug_l1": "/dubai",
+     "slug_l2": "/dubai",
+     "slug_l3": "/dubai"
+    },
+    {
+     "id": 36,
+     "level": 2,
+     "externalID": "5003",
+     "name": "Dubai Marina",
+     "name_l1": "دبي مارينا",
+     "name_l2": "迪拜码头",
+     "name_l3": "Дубай Марина",
+     "name_l4": "Dubai Marina",
+     "name_l5": "Dubai Marina",
+     "name_l6": "Dubai Marina",
+     "name_l7": "Dubai Marina",
+     "name_l8": "Dubai Marina",
+     "name_l9": "Dubai Marina",
+     "name_l10": "Dubai Marina",
+     "name_l11": "Dubai Marina",
+     "name_l12": "Dubai Marina",
+     "name_l13": "Dubai Marina",
+     "name_l14": "Dubai Marina",
+     "slug": "/dubai/dubai-marina",
+     "slug_l1": "/dubai/dubai-marina",
+     "slug_l2": "/dubai/dubai-marina",
+     "slug_l3": "/dubai/dubai-marina",
+     "type": "neighbourhood"
+    }
+   ],
+   "adCount": 10277,
+   "aliases": [
+    "Marina Dubai",
+    "Marsa Dubai",
+    "Dubai Marsa"
+   ],
+   "type": "neighbourhood",
+   "trackID": "5003",
+   "roles": null,
+   "completionStatus": "both",
+   "hasChildren": true,
+   "objectID": "36",
+   "_highlightResult": {
+    "name": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l1": {
+     "value": "دبي مارينا",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "迪拜码头",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Дубай Марина",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l4": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l5": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l6": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l7": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l8": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l9": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l10": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l11": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l12": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l13": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l14": {
+     "value": "Dubai <em>Marina</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "externalID": {
+     "value": "5003",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "hierarchy": [
+     {
+      "externalID": {
+       "value": "5001",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5002",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5003",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l1": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l2": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l3": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      }
+     }
+    ],
+    "aliases": [
+     {
+      "value": "<em>Marina</em> Dubai",
+      "matchLevel": "full",
+      "fullyHighlighted": false,
+      "matchedWords": [
+       "marina"
+      ]
+     },
+     {
+      "value": "Marsa Dubai",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     {
+      "value": "Dubai Marsa",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    ]
+   }
+  },
+  {
+   "id": 397,
+   "name": "Marina Square",
+   "name_l1": "مارينا سكوير",
+   "name_l2": "滨海广场",
+   "name_l3": "Марина Сквер",
+   "name_l4": "Marina Square",
+   "name_l5": "Marina Square",
+   "name_l6": "Marina Square",
+   "name_l7": "Marina Square",
+   "name_l8": "Marina Square",
+   "name_l9": "Marina Square",
+   "name_l10": "Marina Square",
+   "name_l11": "Marina Square",
+   "name_l12": "Marina Square",
+   "name_l13": "Marina Square",
+   "name_l14": "Marina Square",
+   "externalID": "7482",
+   "slug": "/abu-dhabi/al-reem-island/marina-square",
+   "slug_l1": "/abu-dhabi/al-reem-island/marina-square",
+   "slug_l2": "/abu-dhabi/al-reem-island/marina-square",
+   "slug_l3": "/abu-dhabi/al-reem-island/marina-square",
+   "_geoloc": {
+    "lat": 24.489469768491,
+    "lng": 54.392954215103
+   },
+   "geography": {
+    "lat": 24.489469768491,
+    "lng": 54.392954215103
+   },
+   "geo_point": [
+    54.392954215103,
+    24.489469768491
+   ],
+   "level": 3,
+   "hierarchy": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "name_l4": "VAE",
+     "name_l5": "EAU",
+     "name_l6": "EAU",
+     "name_l7": "EAU",
+     "name_l8": "VAE",
+     "name_l9": "UAE",
+     "name_l10": "UAE",
+     "name_l11": "UAE",
+     "name_l12": "UAE",
+     "name_l13": "UAE",
+     "name_l14": "UAE",
+     "slug": "/uae",
+     "slug_l1": "/uae",
+     "slug_l2": "/uae",
+     "slug_l3": "/uae"
+    },
+    {
+     "id": 3,
+     "level": 1,
+     "externalID": "6020",
+     "name": "Abu Dhabi",
+     "name_l1": "أبوظبي",
+     "name_l2": "阿布扎比",
+     "name_l3": "Абу-Даби",
+     "name_l4": "Abu Dhabi",
+     "name_l5": "Abu Dhabi",
+     "name_l6": "Abu Dhabi",
+     "name_l7": "Abu Dhabi",
+     "name_l8": "Abu Dhabi",
+     "name_l9": "Abu Dhabi",
+     "name_l10": "Abu Dhabi",
+     "name_l11": "Abu Dhabi",
+     "name_l12": "Abu Dhabi",
+     "name_l13": "Abu Dhabi",
+     "name_l14": "Abu Dhabi",
+     "slug": "/abu-dhabi",
+     "slug_l1": "/abu-dhabi",
+     "slug_l2": "/abu-dhabi",
+     "slug_l3": "/abu-dhabi"
+    },
+    {
+     "id": 394,
+     "level": 2,
+     "externalID": "6232",
+     "name": "Al Reem Island",
+     "name_l1": "جزيرة الريم",
+     "name_l2": "阿尔雷姆岛",
+     "name_l3": "Остров Аль Рим",
+     "name_l4": "Al Reem Island",
+     "name_l5": "Al Reem Island",
+     "name_l6": "Al Reem Island",
+     "name_l7": "Al Reem Island",
+     "name_l8": "Al Reem Island",
+     "name_l9": "Al Reem Island",
+     "name_l10": "Al Reem Island",
+     "name_l11": "Al Reem Island",
+     "name_l12": "Al Reem Island",
+     "name_l13": "Al Reem Island",
+     "name_l14": "Al Reem Island",
+     "slug": "/abu-dhabi/al-reem-island",
+     "slug_l1": "/abu-dhabi/al-reem-island",
+     "slug_l2": "/abu-dhabi/al-reem-island",
+     "slug_l3": "/abu-dhabi/al-reem-island",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 397,
+     "level": 3,
+     "externalID": "7482",
+     "name": "Marina Square",
+     "name_l1": "مارينا سكوير",
+     "name_l2": "滨海广场",
+     "name_l3": "Марина Сквер",
+     "name_l4": "Marina Square",
+     "name_l5": "Marina Square",
+     "name_l6": "Marina Square",
+     "name_l7": "Marina Square",
+     "name_l8": "Marina Square",
+     "name_l9": "Marina Square",
+     "name_l10": "Marina Square",
+     "name_l11": "Marina Square",
+     "name_l12": "Marina Square",
+     "name_l13": "Marina Square",
+     "name_l14": "Marina Square",
+     "slug": "/abu-dhabi/al-reem-island/marina-square",
+     "slug_l1": "/abu-dhabi/al-reem-island/marina-square",
+     "slug_l2": "/abu-dhabi/al-reem-island/marina-square",
+     "slug_l3": "/abu-dhabi/al-reem-island/marina-square",
+     "type": "neighbourhood"
+    }
+   ],
+   "adCount": 845,
+   "aliases": [],
+   "type": "neighbourhood",
+   "trackID": "7482",
+   "roles": null,
+   "completionStatus": "both",
+   "hasChildren": true,
+   "objectID": "397",
+   "_highlightResult": {
+    "name": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l1": {
+     "value": "مارينا سكوير",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "滨海广场",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Марина Сквер",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l4": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l5": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l6": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l7": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l8": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l9": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l10": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l11": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l12": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l13": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l14": {
+     "value": "<em>Marina</em> Square",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "externalID": {
+     "value": "7482",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "hierarchy": [
+     {
+      "externalID": {
+       "value": "5001",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "6020",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/abu-dhabi",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/abu-dhabi",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/abu-dhabi",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/abu-dhabi",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "6232",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/abu-dhabi/al-reem-island",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/abu-dhabi/al-reem-island",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/abu-dhabi/al-reem-island",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/abu-dhabi/al-reem-island",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "7482",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/abu-dhabi/al-reem-island/<em>marina</em>-square",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l1": {
+       "value": "/abu-dhabi/al-reem-island/<em>marina</em>-square",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l2": {
+       "value": "/abu-dhabi/al-reem-island/<em>marina</em>-square",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l3": {
+       "value": "/abu-dhabi/al-reem-island/<em>marina</em>-square",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": 772,
+   "name": "Marina Gate",
+   "name_l1": "مارينا جيت",
+   "name_l2": "滨海之门",
+   "name_l3": "Марина Гейт",
+   "name_l4": "Marina Gate",
+   "name_l5": "Marina Gate",
+   "name_l6": "Marina Gate",
+   "name_l7": "Marina Gate",
+   "name_l8": "Marina Gate",
+   "name_l9": "Marina Gate",
+   "name_l10": "Marina Gate",
+   "name_l11": "Marina Gate",
+   "name_l12": "Marina Gate",
+   "name_l13": "Marina Gate",
+   "name_l14": "Marina Gate",
+   "externalID": "8500",
+   "slug": "/dubai/dubai-marina/marina-gate",
+   "slug_l1": "/dubai/dubai-marina/marina-gate",
+   "slug_l2": "/dubai/dubai-marina/marina-gate",
+   "slug_l3": "/dubai/dubai-marina/marina-gate",
+   "_geoloc": {
+    "lat": 25.086879894236,
+    "lng": 55.147474408041
+   },
+   "geography": {
+    "lat": 25.086879894236,
+    "lng": 55.147474408041
+   },
+   "geo_point": [
+    55.147474408041,
+    25.086879894236
+   ],
+   "level": 3,
+   "hierarchy": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "name_l4": "VAE",
+     "name_l5": "EAU",
+     "name_l6": "EAU",
+     "name_l7": "EAU",
+     "name_l8": "VAE",
+     "name_l9": "UAE",
+     "name_l10": "UAE",
+     "name_l11": "UAE",
+     "name_l12": "UAE",
+     "name_l13": "UAE",
+     "name_l14": "UAE",
+     "slug": "/uae",
+     "slug_l1": "/uae",
+     "slug_l2": "/uae",
+     "slug_l3": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "name_l4": "Dubai",
+     "name_l5": "Dubai",
+     "name_l6": "Dubai",
+     "name_l7": "Dubai",
+     "name_l8": "Dubai",
+     "name_l9": "Dubai",
+     "name_l10": "Dubai",
+     "name_l11": "Dubai",
+     "name_l12": "Dubai",
+     "name_l13": "Dubai",
+     "name_l14": "Dubai",
+     "slug": "/dubai",
+     "slug_l1": "/dubai",
+     "slug_l2": "/dubai",
+     "slug_l3": "/dubai"
+    },
+    {
+     "id": 36,
+     "level": 2,
+     "externalID": "5003",
+     "name": "Dubai Marina",
+     "name_l1": "دبي مارينا",
+     "name_l2": "迪拜码头",
+     "name_l3": "Дубай Марина",
+     "name_l4": "Dubai Marina",
+     "name_l5": "Dubai Marina",
+     "name_l6": "Dubai Marina",
+     "name_l7": "Dubai Marina",
+     "name_l8": "Dubai Marina",
+     "name_l9": "Dubai Marina",
+     "name_l10": "Dubai Marina",
+     "name_l11": "Dubai Marina",
+     "name_l12": "Dubai Marina",
+     "name_l13": "Dubai Marina",
+     "name_l14": "Dubai Marina",
+     "slug": "/dubai/dubai-marina",
+     "slug_l1": "/dubai/dubai-marina",
+     "slug_l2": "/dubai/dubai-marina",
+     "slug_l3": "/dubai/dubai-marina",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 772,
+     "level": 3,
+     "externalID": "8500",
+     "name": "Marina Gate",
+     "name_l1": "مارينا جيت",
+     "name_l2": "滨海之门",
+     "name_l3": "Марина Гейт",
+     "name_l4": "Marina Gate",
+     "name_l5": "Marina Gate",
+     "name_l6": "Marina Gate",
+     "name_l7": "Marina Gate",
+     "name_l8": "Marina Gate",
+     "name_l9": "Marina Gate",
+     "name_l10": "Marina Gate",
+     "name_l11": "Marina Gate",
+     "name_l12": "Marina Gate",
+     "name_l13": "Marina Gate",
+     "name_l14": "Marina Gate",
+     "slug": "/dubai/dubai-marina/marina-gate",
+     "slug_l1": "/dubai/dubai-marina/marina-gate",
+     "slug_l2": "/dubai/dubai-marina/marina-gate",
+     "slug_l3": "/dubai/dubai-marina/marina-gate"
+    }
+   ],
+   "adCount": 403,
+   "aliases": [],
+   "type": null,
+   "trackID": "8500",
+   "roles": null,
+   "completionStatus": "completed",
+   "hasChildren": true,
+   "objectID": "772",
+   "_highlightResult": {
+    "name": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l1": {
+     "value": "مارينا جيت",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "滨海之门",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Марина Гейт",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l4": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l5": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l6": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l7": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l8": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l9": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l10": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l11": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l12": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l13": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l14": {
+     "value": "<em>Marina</em> Gate",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "externalID": {
+     "value": "8500",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "hierarchy": [
+     {
+      "externalID": {
+       "value": "5001",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5002",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5003",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l1": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l2": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l3": {
+       "value": "/dubai/dubai-<em>marina</em>",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      }
+     },
+     {
+      "externalID": {
+       "value": "8500",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai/dubai-<em>marina</em>/<em>marina</em>-gate",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l1": {
+       "value": "/dubai/dubai-<em>marina</em>/<em>marina</em>-gate",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l2": {
+       "value": "/dubai/dubai-<em>marina</em>/<em>marina</em>-gate",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l3": {
+       "value": "/dubai/dubai-<em>marina</em>/<em>marina</em>-gate",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": 1905,
+   "name": "Al Hamra Marina Residences",
+   "name_l1": "الحمرا مارينا ريزيدنسز",
+   "name_l2": "哈姆拉村滨海公寓",
+   "name_l3": "Аль Хамра Вилладж Марина Апартментс",
+   "name_l4": "Al Hamra Marina Residences",
+   "name_l5": "Al Hamra Marina Residences",
+   "name_l6": "Al Hamra Marina Residences",
+   "name_l7": "Al Hamra Marina Residences",
+   "name_l8": "Al Hamra Marina Residences",
+   "name_l9": "Al Hamra Marina Residences",
+   "name_l10": "Al Hamra Marina Residences",
+   "name_l11": "Al Hamra Marina Residences",
+   "name_l12": "Al Hamra Marina Residences",
+   "name_l13": "Al Hamra Marina Residences",
+   "name_l14": "Al Hamra Marina Residences",
+   "externalID": "5511",
+   "slug": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences",
+   "slug_l1": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences",
+   "slug_l2": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences",
+   "slug_l3": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences",
+   "_geoloc": {
+    "lat": 25.697158,
+    "lng": 55.781096
+   },
+   "geography": {
+    "lat": 25.697158,
+    "lng": 55.781096
+   },
+   "geo_point": [
+    55.781096,
+    25.697158
+   ],
+   "level": 3,
+   "hierarchy": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "name_l4": "VAE",
+     "name_l5": "EAU",
+     "name_l6": "EAU",
+     "name_l7": "EAU",
+     "name_l8": "VAE",
+     "name_l9": "UAE",
+     "name_l10": "UAE",
+     "name_l11": "UAE",
+     "name_l12": "UAE",
+     "name_l13": "UAE",
+     "name_l14": "UAE",
+     "slug": "/uae",
+     "slug_l1": "/uae",
+     "slug_l2": "/uae",
+     "slug_l3": "/uae"
+    },
+    {
+     "id": 7,
+     "level": 1,
+     "externalID": "5509",
+     "name": "Ras Al Khaimah",
+     "name_l1": "رأس الخيمة",
+     "name_l2": "拉斯海玛",
+     "name_l3": "Рас-эль-Хайма",
+     "name_l4": "Ras Al Khaimah",
+     "name_l5": "Ras Al Khaimah",
+     "name_l6": "Ras Al Khaimah",
+     "name_l7": "Ras Al Khaimah",
+     "name_l8": "Ras Al Khaimah",
+     "name_l9": "Ras Al Khaimah",
+     "name_l10": "Ras Al Khaimah",
+     "name_l11": "Ras Al Khaimah",
+     "name_l12": "Ras Al Khaimah",
+     "name_l13": "Ras Al Khaimah",
+     "name_l14": "Ras Al Khaimah",
+     "slug": "/ras-al-khaimah",
+     "slug_l1": "/ras-al-khaimah",
+     "slug_l2": "/ras-al-khaimah",
+     "slug_l3": "/ras-al-khaimah"
+    },
+    {
+     "id": 1904,
+     "level": 2,
+     "externalID": "6359",
+     "name": "Al Hamra Village",
+     "name_l1": "قرية الحمراء",
+     "name_l2": "阿尔哈姆拉小镇",
+     "name_l3": "Аль Хамра Вилладж",
+     "name_l4": "Al Hamra Village",
+     "name_l5": "Al Hamra Village",
+     "name_l6": "Al Hamra Village",
+     "name_l7": "Al Hamra Village",
+     "name_l8": "Al Hamra Village",
+     "name_l9": "Al Hamra Village",
+     "name_l10": "Al Hamra Village",
+     "name_l11": "Al Hamra Village",
+     "name_l12": "Al Hamra Village",
+     "name_l13": "Al Hamra Village",
+     "name_l14": "Al Hamra Village",
+     "slug": "/ras-al-khaimah/al-hamra-village",
+     "slug_l1": "/ras-al-khaimah/al-hamra-village",
+     "slug_l2": "/ras-al-khaimah/al-hamra-village",
+     "slug_l3": "/ras-al-khaimah/al-hamra-village",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 1905,
+     "level": 3,
+     "externalID": "5511",
+     "name": "Al Hamra Marina Residences",
+     "name_l1": "الحمرا مارينا ريزيدنسز",
+     "name_l2": "哈姆拉村滨海公寓",
+     "name_l3": "Аль Хамра Вилладж Марина Апартментс",
+     "name_l4": "Al Hamra Marina Residences",
+     "name_l5": "Al Hamra Marina Residences",
+     "name_l6": "Al Hamra Marina Residences",
+     "name_l7": "Al Hamra Marina Residences",
+     "name_l8": "Al Hamra Marina Residences",
+     "name_l9": "Al Hamra Marina Residences",
+     "name_l10": "Al Hamra Marina Residences",
+     "name_l11": "Al Hamra Marina Residences",
+     "name_l12": "Al Hamra Marina Residences",
+     "name_l13": "Al Hamra Marina Residences",
+     "name_l14": "Al Hamra Marina Residences",
+     "slug": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences",
+     "slug_l1": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences",
+     "slug_l2": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences",
+     "slug_l3": "/ras-al-khaimah/al-hamra-village/al-hamra-marina-residences"
+    }
+   ],
+   "adCount": 379,
+   "aliases": [],
+   "type": null,
+   "trackID": "5511",
+   "roles": null,
+   "completionStatus": "completed",
+   "hasChildren": true,
+   "objectID": "1905",
+   "_highlightResult": {
+    "name": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l1": {
+     "value": "الحمرا مارينا ريزيدنسز",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "哈姆拉村滨海公寓",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Аль Хамра Вилладж Марина Апартментс",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l4": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l5": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l6": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l7": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l8": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l9": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l10": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l11": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l12": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l13": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l14": {
+     "value": "Al Hamra <em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "externalID": {
+     "value": "5511",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "hierarchy": [
+     {
+      "externalID": {
+       "value": "5001",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5509",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/ras-al-khaimah",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/ras-al-khaimah",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/ras-al-khaimah",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/ras-al-khaimah",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "6359",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/ras-al-khaimah/al-hamra-village",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/ras-al-khaimah/al-hamra-village",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/ras-al-khaimah/al-hamra-village",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/ras-al-khaimah/al-hamra-village",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5511",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/ras-al-khaimah/al-hamra-village/al-hamra-<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l1": {
+       "value": "/ras-al-khaimah/al-hamra-village/al-hamra-<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l2": {
+       "value": "/ras-al-khaimah/al-hamra-village/al-hamra-<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l3": {
+       "value": "/ras-al-khaimah/al-hamra-village/al-hamra-<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": 27,
+   "name": "Marina Residences",
+   "name_l1": "مارينا ريزيدنسز",
+   "name_l2": "滨海公馆",
+   "name_l3": "Марина Резиденции",
+   "name_l4": "Marina Residences",
+   "name_l5": "Marina Residences",
+   "name_l6": "Marina Residences",
+   "name_l7": "Marina Residences",
+   "name_l8": "Marina Residences",
+   "name_l9": "Marina Residences",
+   "name_l10": "Marina Residences",
+   "name_l11": "Marina Residences",
+   "name_l12": "Marina Residences",
+   "name_l13": "Marina Residences",
+   "name_l14": "Marina Residences",
+   "externalID": "5485",
+   "slug": "/dubai/palm-jumeirah/marina-residences",
+   "slug_l1": "/dubai/palm-jumeirah/marina-residences",
+   "slug_l2": "/dubai/palm-jumeirah/marina-residences",
+   "slug_l3": "/dubai/palm-jumeirah/marina-residences",
+   "_geoloc": {
+    "lat": 25.114047,
+    "lng": 55.135875
+   },
+   "geography": {
+    "lat": 25.114047,
+    "lng": 55.135875
+   },
+   "geo_point": [
+    55.135875,
+    25.114047
+   ],
+   "level": 3,
+   "hierarchy": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "name_l4": "VAE",
+     "name_l5": "EAU",
+     "name_l6": "EAU",
+     "name_l7": "EAU",
+     "name_l8": "VAE",
+     "name_l9": "UAE",
+     "name_l10": "UAE",
+     "name_l11": "UAE",
+     "name_l12": "UAE",
+     "name_l13": "UAE",
+     "name_l14": "UAE",
+     "slug": "/uae",
+     "slug_l1": "/uae",
+     "slug_l2": "/uae",
+     "slug_l3": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "name_l4": "Dubai",
+     "name_l5": "Dubai",
+     "name_l6": "Dubai",
+     "name_l7": "Dubai",
+     "name_l8": "Dubai",
+     "name_l9": "Dubai",
+     "name_l10": "Dubai",
+     "name_l11": "Dubai",
+     "name_l12": "Dubai",
+     "name_l13": "Dubai",
+     "name_l14": "Dubai",
+     "slug": "/dubai",
+     "slug_l1": "/dubai",
+     "slug_l2": "/dubai",
+     "slug_l3": "/dubai"
+    },
+    {
+     "id": 14,
+     "level": 2,
+     "externalID": "5460",
+     "name": "Palm Jumeirah",
+     "name_l1": "نخلة جميرا",
+     "name_l2": "朱美拉棕榈岛",
+     "name_l3": "Палм Джумейра",
+     "name_l4": "Palm Jumeirah",
+     "name_l5": "Palm Jumeirah",
+     "name_l6": "Palm Jumeirah",
+     "name_l7": "Palm Jumeirah",
+     "name_l8": "Palm Jumeirah",
+     "name_l9": "Palm Jumeirah",
+     "name_l10": "Palm Jumeirah",
+     "name_l11": "Palm Jumeirah",
+     "name_l12": "Palm Jumeirah",
+     "name_l13": "Palm Jumeirah",
+     "name_l14": "Palm Jumeirah",
+     "slug": "/dubai/palm-jumeirah",
+     "slug_l1": "/dubai/palm-jumeirah",
+     "slug_l2": "/dubai/palm-jumeirah",
+     "slug_l3": "/dubai/palm-jumeirah",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 27,
+     "level": 3,
+     "externalID": "5485",
+     "name": "Marina Residences",
+     "name_l1": "مارينا ريزيدنسز",
+     "name_l2": "滨海公馆",
+     "name_l3": "Марина Резиденции",
+     "name_l4": "Marina Residences",
+     "name_l5": "Marina Residences",
+     "name_l6": "Marina Residences",
+     "name_l7": "Marina Residences",
+     "name_l8": "Marina Residences",
+     "name_l9": "Marina Residences",
+     "name_l10": "Marina Residences",
+     "name_l11": "Marina Residences",
+     "name_l12": "Marina Residences",
+     "name_l13": "Marina Residences",
+     "name_l14": "Marina Residences",
+     "slug": "/dubai/palm-jumeirah/marina-residences",
+     "slug_l1": "/dubai/palm-jumeirah/marina-residences",
+     "slug_l2": "/dubai/palm-jumeirah/marina-residences",
+     "slug_l3": "/dubai/palm-jumeirah/marina-residences"
+    }
+   ],
+   "adCount": 325,
+   "aliases": [],
+   "type": null,
+   "trackID": "5485",
+   "roles": null,
+   "completionStatus": "completed",
+   "hasChildren": true,
+   "objectID": "27",
+   "_highlightResult": {
+    "name": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l1": {
+     "value": "مارينا ريزيدنسز",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "滨海公馆",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Марина Резиденции",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l4": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l5": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l6": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l7": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l8": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l9": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l10": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l11": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l12": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l13": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "name_l14": {
+     "value": "<em>Marina</em> Residences",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "marina"
+     ]
+    },
+    "externalID": {
+     "value": "5485",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "hierarchy": [
+     {
+      "externalID": {
+       "value": "5001",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5002",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5460",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai/palm-jumeirah",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/dubai/palm-jumeirah",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/dubai/palm-jumeirah",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/dubai/palm-jumeirah",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5485",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai/palm-jumeirah/<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l1": {
+       "value": "/dubai/palm-jumeirah/<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l2": {
+       "value": "/dubai/palm-jumeirah/<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      },
+      "slug_l3": {
+       "value": "/dubai/palm-jumeirah/<em>marina</em>-residences",
+       "matchLevel": "full",
+       "fullyHighlighted": false,
+       "matchedWords": [
+        "marina"
+       ]
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "nbHits": 1182,
+ "page": 0,
+ "nbPages": 237,
+ "hitsPerPage": 5,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "marina",
+ "params": "hitsPerPage=5&query=marina",
+ "processingTimeMS": 2,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 27
+  },
+  "fetch": {
+   "query": 1,
+   "total": 2
+  },
+  "total": 2
+ },
+ "serverTimeMS": 3
+}

@@ -1,0 +1,2163 @@
+{
+ "hits": [
+  {
+   "id": 29709988,
+   "name": "K U N Real Estate",
+   "name_l1": "كيه يو ان للعقارات",
+   "name_l2": "K U N Real Estate",
+   "name_l3": "K U N Real Estate",
+   "agentsCount": 11,
+   "externalID": "102520",
+   "product": "premium",
+   "productScore": 2,
+   "location": "Dubai",
+   "location_l1": "دبي",
+   "location_l2": "迪拜",
+   "location_l3": "Дубай",
+   "licenses": [
+    {
+     "number": "30343",
+     "authority": "RERA"
+    }
+   ],
+   "logo": {
+    "id": 375848687,
+    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/375848687/a940b19d5dc64c61bd4c0f71a2d46e7f"
+   },
+   "slug": "k-u-n-real-estate-102520",
+   "slug_l1": "k-u-n-real-estate-102520",
+   "slug_l2": "k-u-n-real-estate-102520",
+   "slug_l3": "k-u-n-real-estate-102520",
+   "locations": [
+    {
+     "id": 2,
+     "objectID": 2,
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "name_l4": "Dubai",
+     "name_l5": "Dubai",
+     "name_l6": "Dubai",
+     "name_l7": "Dubai",
+     "name_l8": "Dubai",
+     "name_l9": "Dubai",
+     "name_l10": "Dubai",
+     "name_l11": "Dubai",
+     "name_l12": "Dubai",
+     "name_l13": "Dubai",
+     "name_l14": "Dubai",
+     "externalID": "5002",
+     "slug": "/dubai",
+     "slug_l1": "/dubai",
+     "slug_l2": "/dubai",
+     "slug_l3": "/dubai",
+     "_geoloc": {
+      "lat": 25.024769324449,
+      "lng": 55.359007938377
+     },
+     "geography": {
+      "lat": 25.024769324449,
+      "lng": 55.359007938377
+     },
+     "geo_point": [
+      55.359007938377,
+      25.024769324449
+     ],
+     "level": 1,
+     "hierarchy": [
+      {
+       "id": 1,
+       "level": 0,
+       "externalID": "5001",
+       "name": "UAE",
+       "name_l1": "الإمارات",
+       "name_l2": "阿联酋",
+       "name_l3": "ОАЭ",
+       "name_l4": "VAE",
+       "name_l5": "EAU",
+       "name_l6": "EAU",
+       "name_l7": "EAU",
+       "name_l8": "VAE",
+       "name_l9": "UAE",
+       "name_l10": "UAE",
+       "name_l11": "UAE",
+       "name_l12": "UAE",
+       "name_l13": "UAE",
+       "name_l14": "UAE",
+       "slug": "/uae",
+       "slug_l1": "/uae",
+       "slug_l2": "/uae",
+       "slug_l3": "/uae"
+      },
+      {
+       "id": 2,
+       "level": 1,
+       "externalID": "5002",
+       "name": "Dubai",
+       "name_l1": "دبي",
+       "name_l2": "迪拜",
+       "name_l3": "Дубай",
+       "name_l4": "Dubai",
+       "name_l5": "Dubai",
+       "name_l6": "Dubai",
+       "name_l7": "Dubai",
+       "name_l8": "Dubai",
+       "name_l9": "Dubai",
+       "name_l10": "Dubai",
+       "name_l11": "Dubai",
+       "name_l12": "Dubai",
+       "name_l13": "Dubai",
+       "name_l14": "Dubai",
+       "slug": "/dubai",
+       "slug_l1": "/dubai",
+       "slug_l2": "/dubai",
+       "slug_l3": "/dubai"
+      }
+     ],
+     "adCount": 292154,
+     "aliases": [],
+     "type": null,
+     "trackID": "5002",
+     "roles": null,
+     "completionStatus": "both",
+     "hasChildren": true
+    }
+   ],
+   "stats": {
+    "adsSaleCount": 198,
+    "adsRentCount": 4,
+    "agentCount": 6,
+    "trubrokerAgentCount": 5,
+    "trubrokerAgentsProfileImageIDs": [
+     378481151,
+     432391663,
+     734421243,
+     803724222,
+     829843600
+    ],
+    "serviceAreasCount": 44,
+    "categoryTypesCount": 5,
+    "categoryTypes": [
+     "Offices",
+     "Villas",
+     "Apartments",
+     "Hotel Apartments",
+     "Townhouses"
+    ],
+    "categoryTypes_l1": [
+     "مکاتب",
+     "فلل",
+     "شقق",
+     "شقق فندقية",
+     "تاون هاوس"
+    ],
+    "categoryTypes_l2": [
+     "写字楼",
+     "别墅",
+     "公寓",
+     "酒店式公寓",
+     "联排别墅"
+    ],
+    "categoryTypes_l3": [
+     "Офисы",
+     "Виллы",
+     "Апартаменты",
+     "Апартаменты в отеле",
+     "Таунхаусы"
+    ],
+    "categoryTypes_l4": [
+     "Büros",
+     "Villen",
+     "Wohnungen",
+     "Hotelwohnungen",
+     "Reihenhäuser"
+    ],
+    "categoryTypes_l5": [
+     "Bureaux",
+     "Villas",
+     "Appartements",
+     "Appartements hôteliers",
+     "Maisons de ville"
+    ],
+    "categoryTypes_l6": [
+     "Oficinas",
+     "Villas",
+     "Apartamentos",
+     "Apartamentos de hotel",
+     "Casas adosadas"
+    ],
+    "categoryTypes_l7": [
+     "Uffici",
+     "Ville",
+     "Appartamenti",
+     "Appartamenti in hotel",
+     "Villette a schiera"
+    ],
+    "categoryTypes_l8": [
+     "Kantoren",
+     "Villa's",
+     "Appartementen",
+     "Hotelflats",
+     "Rijwoningen"
+    ],
+    "categoryTypes_l9": [
+     "Kontorer",
+     "Villaer",
+     "Lejligheder",
+     "Hotellejligheder",
+     "Rækkehuse"
+    ],
+    "categoryTypes_l10": [
+     "Kontorer",
+     "Villaer",
+     "Leiligheter",
+     "Hotelleiligheter",
+     "Rekkehus"
+    ],
+    "categoryTypes_l11": [
+     "Kontor",
+     "Villor",
+     "Lägenheter",
+     "Hotellägenheter",
+     "Radhus"
+    ],
+    "categoryTypes_l12": [
+     "Toimistot",
+     "Huvilat",
+     "Asunnot",
+     "Hotelliasunnot",
+     "Rivitalot"
+    ],
+    "categoryTypes_l13": [
+     "Escritórios",
+     "Moradias",
+     "Apartamentos",
+     "Apartamentos de hotel",
+     "Casas geminadas"
+    ],
+    "categoryTypes_l14": [
+     "Γραφεία",
+     "Βίλες",
+     "Διαμερίσματα",
+     "Ξενοδοχειακά διαμερίσματα",
+     "Μεζονέτες"
+    ],
+    "categoryTypesSample": [
+     "Offices",
+     "Villas",
+     "Apartments"
+    ],
+    "categoryTypesSample_l1": [
+     "مکاتب",
+     "فلل",
+     "شقق"
+    ],
+    "categoryTypesSample_l2": [
+     "写字楼",
+     "别墅",
+     "公寓"
+    ],
+    "categoryTypesSample_l3": [
+     "Офисы",
+     "Виллы",
+     "Апартаменты"
+    ],
+    "categoryTypesSample_l4": [
+     "Büros",
+     "Villen",
+     "Wohnungen"
+    ],
+    "categoryTypesSample_l5": [
+     "Bureaux",
+     "Villas",
+     "Appartements"
+    ],
+    "categoryTypesSample_l6": [
+     "Oficinas",
+     "Villas",
+     "Apartamentos"
+    ],
+    "categoryTypesSample_l7": [
+     "Uffici",
+     "Ville",
+     "Appartamenti"
+    ],
+    "categoryTypesSample_l8": [
+     "Kantoren",
+     "Villa's",
+     "Appartementen"
+    ],
+    "categoryTypesSample_l9": [
+     "Kontorer",
+     "Villaer",
+     "Lejligheder"
+    ],
+    "categoryTypesSample_l10": [
+     "Kontorer",
+     "Villaer",
+     "Leiligheter"
+    ],
+    "categoryTypesSample_l11": [
+     "Kontor",
+     "Villor",
+     "Lägenheter"
+    ],
+    "categoryTypesSample_l12": [
+     "Toimistot",
+     "Huvilat",
+     "Asunnot"
+    ],
+    "categoryTypesSample_l13": [
+     "Escritórios",
+     "Moradias",
+     "Apartamentos"
+    ],
+    "categoryTypesSample_l14": [
+     "Γραφεία",
+     "Βίλες",
+     "Διαμερίσματα"
+    ],
+    "serviceAreas": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l1": [
+     "داماك لاجونز",
+     "زعبيل",
+     "داماك هيلز",
+     "دبي الجنوب",
+     "دبي هيلز استيت",
+     "الخليج التجاري",
+     "جزر دبي",
+     "داماك آيلاندز",
+     "مجمع دبي لاند ريزيدنس (DLRC)",
+     "(أكويا من داماك) داماك هيلز 2",
+     "جبل علي",
+     "غاف وودز",
+     "شوبا سنترال",
+     "مدينة دبي الملاحية",
+     "دبي هاربور‬",
+     "جراند بولو كلوب آند ريزورت",
+     "أثلون من الدار",
+     "شوبا هارتلاند",
+     "الجادة",
+     "الممزر",
+     "شوبا إلوود",
+     "جزيرة المرجان",
+     "ميدان",
+     "جزر داماك 2",
+     "جزيرة السينية",
+     "مجان",
+     "لا مير",
+     "عزيزي ميلان",
+     "داون تاون جبل علي",
+     "مرسيدس-بنز بليسز بن غاطي سيتي",
+     "داماك ريفرسايد",
+     "تلال الجميرا‬",
+     "ميدان هورايزون",
+     "داماك صن سيتي",
+     "تلال الغاف",
+     "الجداف",
+     "موتور سيتي",
+     "سيتي أوف أرابيا",
+     "غرينز من دانوب",
+     "الزاهية",
+     "السیف",
+     "أرجان",
+     "المدينة العالمية المرحلة 2 (ورسان 4)",
+     "شوبا سانكتشواري"
+    ],
+    "serviceAreas_l2": [
+     "大马士革湖住宅",
+     "萨阿比尔",
+     "达马克山庄",
+     "迪拜南部街区",
+     "迪拜山庄",
+     "商业湾",
+     "迪拉岛",
+     "DAMAC Islands",
+     "迪拜公寓大楼",
+     "达马克山庄2号（达马克阿克雅）",
+     "杰贝阿里",
+     "Ghaf Woods",
+     "Sobha Central",
+     "迪拜海港城",
+     "迪拜港",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "苏巴哈特兰社区",
+     "阿尔加达",
+     "阿尔马扎尔街区",
+     "Sobha Elwood",
+     "阿尔马扬岛",
+     "梅丹城",
+     "DAMAC Islands 2",
+     "艾尔-塞纳赫",
+     "马岩街区",
+     "海洋社区",
+     "Azizi Milan",
+     "杰贝阿里市区",
+     "梅丹商业园",
+     "DAMAC Riverside",
+     "朱美拉山庄",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "蒂拉尔阿尔加夫综合社区",
+     "阿尔贾达法住宅区",
+     "汽车城",
+     "阿拉伯城",
+     "Greenz by Danube",
+     "阿尔扎希亚",
+     "阿尔塞夫",
+     "阿尔扬街区",
+     "国际城二期（瓦尔萨4区）",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l3": [
+     "Дамак Лагунс",
+     "Заабил",
+     "Дамак Хиллс",
+     "Дубай Саут",
+     "Дубай Хиллс Истейт",
+     "Бизнес Бей",
+     "Дейра Айленд",
+     "DAMAC Islands",
+     "Комплекс Дубай Резиденс",
+     "Дамак Хиллс 2",
+     "Джебель Али",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Дубай Морской Город",
+     "Дубай Харбор",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Собха Хартланд",
+     "Альжада",
+     "Аль Мамзар",
+     "Sobha Elwood",
+     "Аль Марджан Айленд",
+     "Мейдан Сити",
+     "DAMAC Islands 2",
+     "Аль Сеанниа",
+     "Маджан",
+     "Ла Мер",
+     "Azizi Milan",
+     "Даунтаун Джебел Али",
+     "Мейдан Бизнес Парк",
+     "DAMAC Riverside",
+     "Джумейра Хайтс",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Тилал Аль Гаф",
+     "Аль Джадаф",
+     "Мотор Сити",
+     "Сити оф Арабия",
+     "Greenz by Danube",
+     "Аль Захия",
+     "Аль Сиф",
+     "Арджан",
+     "Интернашнл Сити Фейз 2 (Варсан 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l4": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l5": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l6": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l7": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l8": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l9": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l10": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l11": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l12": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l13": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreas_l14": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills",
+     "Dubai South",
+     "Dubai Hills Estate",
+     "Business Bay",
+     "Dubai Islands",
+     "DAMAC Islands",
+     "Dubai Land Residence Complex (DLRC)",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "Jebel Ali",
+     "Ghaf Woods",
+     "Sobha Central",
+     "Dubai Maritime City",
+     "Dubai Harbour",
+     "Grand Polo Club & Resort",
+     "Athlon by Aldar",
+     "Sobha Hartland",
+     "Aljada",
+     "Al Mamzar",
+     "Sobha Elwood",
+     "Al Marjan Island",
+     "Meydan",
+     "DAMAC Islands 2",
+     "Al Seanneeah",
+     "Majan",
+     "La Mer",
+     "Azizi Milan",
+     "Downtown Jebel Ali",
+     "Mercedes-Benz Places Binghatti City",
+     "DAMAC Riverside",
+     "Jumeirah Heights",
+     "Meydan Horizon",
+     "DAMAC Sun City",
+     "Tilal Al Ghaf",
+     "Al Jaddaf",
+     "Motor City",
+     "City of Arabia",
+     "Greenz by Danube",
+     "Al Zahia",
+     "Al Seef",
+     "Arjan",
+     "International City Phase 2 (Warsan 4)",
+     "Sobha Sanctuary"
+    ],
+    "serviceAreasSample": [
+     "DAMAC Lagoons",
+     "Za'abeel",
+     "DAMAC Hills"
+    ],
+    "serviceAreasSample_l1": [
+     "داماك لاجونز",
+     "زعبيل",
+     "داماك هيلز"
+    ],
+    "serviceAreasSample_l2": [
+     "大马士革湖住宅",
+     "萨阿比尔",
+     "达马克山庄"
+    ],
+    "serviceAreasSample_l3": [
+     "Дамак Лагунс",
+     "Заабил",
+     "Дамак Хиллс"
+    ],
+    "adsCount": 202,
+    "purposes": [
+     "for-rent",
+     "for-sale"
+    ],
+    "locationsWithAds": [
+     90624,
+     1,
+     2,
+     75266,
+     4097,
+     5,
+     89606,
+     90628,
+     8,
+     7,
+     1034,
+     89103,
+     90128,
+     5137,
+     89108,
+     98837,
+     1556,
+     89111,
+     88606,
+     87070,
+     88610,
+     86052,
+     87078,
+     43,
+     92211,
+     53,
+     54,
+     5173,
+     86585,
+     5178,
+     1082,
+     582,
+     89164,
+     89168,
+     90196,
+     99415,
+     99416,
+     92761,
+     603,
+     91,
+     88157,
+     89182,
+     99419,
+     90212,
+     90213,
+     89189,
+     103,
+     104,
+     89700,
+     90216,
+     90737,
+     87158,
+     88697,
+     87675,
+     87165,
+     89726,
+     75396,
+     75908,
+     2705,
+     88209,
+     97938,
+     86676,
+     86679,
+     97944,
+     89756,
+     98462,
+     80544,
+     98984,
+     83627,
+     86707,
+     698,
+     98492,
+     89789,
+     88770,
+     88780,
+     84186,
+     92898,
+     89828,
+     92902,
+     2281,
+     235,
+     94444,
+     90349,
+     94960,
+     84720,
+     87801,
+     98555,
+     1788,
+     98558,
+     87302,
+     268,
+     89878,
+     279,
+     87321,
+     87322,
+     3355,
+     86814,
+     800,
+     2848,
+     76065,
+     89382,
+     89901,
+     86831,
+     75569,
+     75570,
+     89907,
+     84274,
+     89909,
+     99126,
+     89404,
+     99134,
+     3903,
+     835,
+     87876,
+     89927,
+     89928,
+     88910,
+     76622,
+     88913,
+     88914,
+     87890,
+     99153,
+     849,
+     88919,
+     80727,
+     88416,
+     352,
+     22373,
+     87397,
+     1902,
+     89977,
+     90490,
+     90493,
+     89984,
+     89985,
+     89488,
+     89490,
+     98194,
+     90004,
+     90007,
+     95136,
+     87459,
+     87465,
+     90547,
+     1973,
+     89013,
+     75701,
+     94648,
+     3512,
+     84419,
+     84934,
+     89031,
+     93646,
+     90578,
+     90069,
+     5081,
+     90074,
+     5083,
+     93660,
+     1509,
+     2533,
+     3562,
+     87530,
+     87020,
+     87535,
+     87031
+    ]
+   },
+   "agentStats": {
+    "agentCount": 9,
+    "trubrokerAgentCount": 7,
+    "trubrokerAgentsProfileImageIDs": [
+     378481151,
+     540763881,
+     803724222,
+     829843600,
+     836670216,
+     837157252,
+     868961923
+    ],
+    "languageCodes": [
+     "ar",
+     "en",
+     "hi",
+     "mr",
+     "pa",
+     "ru",
+     "uk",
+     "ur",
+     "ur-hi"
+    ]
+   },
+   "phoneNumber": {
+    "mobile": "+971585039019",
+    "phone": "+97143289786",
+    "phoneNumbers": [
+     "+97143289786"
+    ],
+    "mobileNumbers": [
+     "+971585039019"
+    ]
+   },
+   "contactMethodAvailability": {
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "createdAt": "2023-05-08T11:13:36+00:00",
+   "language_codes": [
+    "en",
+    "ur-hi",
+    "hi",
+    "ar",
+    "ur",
+    "pa",
+    "uk",
+    "mr",
+    "ru"
+   ],
+   "speciality_codes": [
+    "residential_sales",
+    "residential_leasing",
+    "commercial_leasing",
+    "commercial_sales",
+    "off_plan_sales"
+   ],
+   "isFeatured": false,
+   "type": "agency",
+   "hash": "4d60a55",
+   "agencySg": 3,
+   "exStatus": 2,
+   "eliteStatus": false,
+   "purpose": [
+    "for-rent",
+    "for-sale"
+   ],
+   "roles": [],
+   "objectID": "29709988",
+   "_highlightResult": {
+    "id": {
+     "value": "29709988",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name": {
+     "value": "K U N Real Estate",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l1": {
+     "value": "كيه يو ان للعقارات",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "K U N Real Estate",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "K U N Real Estate",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "102520",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "stats": {
+     "locationsWithAds": [
+      {
+       "value": "90624",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75266",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "4097",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "5",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89606",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90628",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "8",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "7",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1034",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89103",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90128",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "5137",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89108",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "98837",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1556",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89111",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88606",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87070",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88610",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86052",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87078",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "43",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "92211",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "53",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "54",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "5173",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86585",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "5178",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1082",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "582",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89164",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89168",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90196",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "99415",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "99416",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "92761",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "603",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88157",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89182",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "99419",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90212",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90213",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89189",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "103",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "104",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89700",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90216",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90737",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87158",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88697",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87675",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87165",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89726",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75396",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75908",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2705",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88209",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "97938",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86676",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86679",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "97944",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89756",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "98462",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80544",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "98984",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83627",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86707",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "698",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "98492",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89789",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88770",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88780",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84186",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "92898",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89828",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "92902",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2281",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "235",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94444",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90349",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94960",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84720",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87801",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "98555",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1788",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "98558",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87302",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "268",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89878",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "279",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87321",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87322",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3355",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86814",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "800",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2848",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76065",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89382",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89901",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86831",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75569",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75570",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89907",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84274",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89909",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "99126",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89404",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "99134",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3903",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "835",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87876",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89927",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89928",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88910",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76622",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88913",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88914",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87890",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "99153",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "849",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88919",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80727",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88416",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "352",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "22373",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87397",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1902",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89977",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90490",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90493",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89984",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89985",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89488",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89490",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "98194",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90004",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90007",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "95136",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87459",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87465",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90547",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1973",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89013",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75701",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94648",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3512",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84419",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84934",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89031",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "93646",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90578",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90069",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "5081",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90074",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "5083",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "93660",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1509",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2533",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3562",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87530",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87020",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87535",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87031",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "hitsPerPage=1&filters=externalID:102520",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 30
+  },
+  "total": 1
+ },
+ "serverTimeMS": 2
+}

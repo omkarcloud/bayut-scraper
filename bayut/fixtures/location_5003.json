@@ -1,0 +1,330 @@
+{
+ "hits": [
+  {
+   "id": 36,
+   "name": "Dubai Marina",
+   "name_l1": "دبي مارينا",
+   "name_l2": "迪拜码头",
+   "name_l3": "Дубай Марина",
+   "name_l4": "Dubai Marina",
+   "name_l5": "Dubai Marina",
+   "name_l6": "Dubai Marina",
+   "name_l7": "Dubai Marina",
+   "name_l8": "Dubai Marina",
+   "name_l9": "Dubai Marina",
+   "name_l10": "Dubai Marina",
+   "name_l11": "Dubai Marina",
+   "name_l12": "Dubai Marina",
+   "name_l13": "Dubai Marina",
+   "name_l14": "Dubai Marina",
+   "externalID": "5003",
+   "slug": "/dubai/dubai-marina",
+   "slug_l1": "/dubai/dubai-marina",
+   "slug_l2": "/dubai/dubai-marina",
+   "slug_l3": "/dubai/dubai-marina",
+   "_geoloc": {
+    "lat": 25.083189748036,
+    "lng": 55.14430056087
+   },
+   "geography": {
+    "lat": 25.083189748036,
+    "lng": 55.14430056087
+   },
+   "geo_point": [
+    55.14430056087,
+    25.083189748036
+   ],
+   "level": 2,
+   "hierarchy": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "name_l4": "VAE",
+     "name_l5": "EAU",
+     "name_l6": "EAU",
+     "name_l7": "EAU",
+     "name_l8": "VAE",
+     "name_l9": "UAE",
+     "name_l10": "UAE",
+     "name_l11": "UAE",
+     "name_l12": "UAE",
+     "name_l13": "UAE",
+     "name_l14": "UAE",
+     "slug": "/uae",
+     "slug_l1": "/uae",
+     "slug_l2": "/uae",
+     "slug_l3": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "name_l4": "Dubai",
+     "name_l5": "Dubai",
+     "name_l6": "Dubai",
+     "name_l7": "Dubai",
+     "name_l8": "Dubai",
+     "name_l9": "Dubai",
+     "name_l10": "Dubai",
+     "name_l11": "Dubai",
+     "name_l12": "Dubai",
+     "name_l13": "Dubai",
+     "name_l14": "Dubai",
+     "slug": "/dubai",
+     "slug_l1": "/dubai",
+     "slug_l2": "/dubai",
+     "slug_l3": "/dubai"
+    },
+    {
+     "id": 36,
+     "level": 2,
+     "externalID": "5003",
+     "name": "Dubai Marina",
+     "name_l1": "دبي مارينا",
+     "name_l2": "迪拜码头",
+     "name_l3": "Дубай Марина",
+     "name_l4": "Dubai Marina",
+     "name_l5": "Dubai Marina",
+     "name_l6": "Dubai Marina",
+     "name_l7": "Dubai Marina",
+     "name_l8": "Dubai Marina",
+     "name_l9": "Dubai Marina",
+     "name_l10": "Dubai Marina",
+     "name_l11": "Dubai Marina",
+     "name_l12": "Dubai Marina",
+     "name_l13": "Dubai Marina",
+     "name_l14": "Dubai Marina",
+     "slug": "/dubai/dubai-marina",
+     "slug_l1": "/dubai/dubai-marina",
+     "slug_l2": "/dubai/dubai-marina",
+     "slug_l3": "/dubai/dubai-marina",
+     "type": "neighbourhood"
+    }
+   ],
+   "adCount": 10277,
+   "aliases": [
+    "Marina Dubai",
+    "Marsa Dubai",
+    "Dubai Marsa"
+   ],
+   "type": "neighbourhood",
+   "trackID": "5003",
+   "roles": null,
+   "completionStatus": "both",
+   "hasChildren": true,
+   "objectID": "36",
+   "_highlightResult": {
+    "name": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l1": {
+     "value": "دبي مارينا",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "迪拜码头",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Дубай Марина",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l4": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l5": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l6": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l7": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l8": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l9": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l10": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l11": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l12": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l13": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l14": {
+     "value": "Dubai Marina",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "5003",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "hierarchy": [
+     {
+      "externalID": {
+       "value": "5001",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/uae",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5002",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/dubai",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     },
+     {
+      "externalID": {
+       "value": "5003",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug": {
+       "value": "/dubai/dubai-marina",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l1": {
+       "value": "/dubai/dubai-marina",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l2": {
+       "value": "/dubai/dubai-marina",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      "slug_l3": {
+       "value": "/dubai/dubai-marina",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     }
+    ],
+    "aliases": [
+     {
+      "value": "Marina Dubai",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     {
+      "value": "Marsa Dubai",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     {
+      "value": "Dubai Marsa",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    ]
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "hitsPerPage=1&filters=externalID:5003",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "queue": 1,
+   "roundTrip": 25
+  },
+  "total": 0
+ },
+ "serverTimeMS": 1
+}

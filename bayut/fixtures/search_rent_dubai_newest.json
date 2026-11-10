@@ -1,0 +1,630 @@
+{
+ "hits": [
+  {
+   "id": 13616184,
+   "ownerID": 2605348,
+   "userExternalID": "2605348",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.224712570052,
+    "lng": 55.268449148653
+   },
+   "geography": {
+    "lat": 25.224712570052,
+    "lng": 55.268449148653
+   },
+   "purpose": "for-rent",
+   "price": 185000.0,
+   "product": "premium",
+   "productLabel": "default",
+   "productScore": 3,
+   "rentFrequency": "yearly",
+   "referenceNumber": "PR7079-1",
+   "title": "Lowest in the market || Dream home || Spacious layout || Jumeirah Al Bada’a",
+   "title_l1": "فیلا في البدع 3 غرف 185000 درهم - 17126257",
+   "title_l2": "位于艾巴达住宅区 3 卧室的别墅 185000 AED - 17126257",
+   "title_l3": "Вилла в Аль Бадаа, 3 cпальни, 185000 AED - 17126257",
+   "title_l4": "Villa in Al Badaa, 3 schlafzimmer, 185000 AED - 17126257",
+   "title_l5": "Villa à Al Badaa, 3 chambres, 185000 AED - 17126257",
+   "title_l6": "Villa en Al Badaa, 3 dormitorios, 185000 AED - 17126257",
+   "title_l7": "Villa a Al Badaa, 3 camere da letto, 185000 AED - 17126257",
+   "title_l8": "Villa in Al Badaa, 3 slaapkamers, 185000 AED - 17126257",
+   "title_l9": "Villa i Al Badaa, 3 soveværelser, 185000 AED - 17126257",
+   "title_l10": "Villa i Al Badaa, 3 soverom, 185000 AED - 17126257",
+   "title_l11": "Villa i Al Badaa, 3 sovrum, 185000 AED - 17126257",
+   "title_l12": "Huvila kohteessa Al Badaa, 3 makuuhuonetta, 185000 AED - 17126257",
+   "title_l13": "Moradia em Al Badaa, 3 quartos, 185000 AED - 17126257",
+   "title_l14": "Βίλα σε Al Badaa, 3 υπνοδωμάτια, 185000 AED - 17126257",
+   "externalID": "17126257",
+   "slug": "details_17126257",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 197,
+     "level": 2,
+     "externalID": "5653",
+     "name": "Al Badaa",
+     "name_l1": "البدع",
+     "name_l2": "艾巴达住宅区",
+     "name_l3": "Аль Бадаа",
+     "slug": "/dubai/al-badaa",
+     "type": "neighbourhood"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 5,
+     "level": 1,
+     "externalID": "3",
+     "name": "Villas",
+     "name_l1": "فلل",
+     "name_l2": "别墅",
+     "name_l3": "Виллы",
+     "slug": "villas",
+     "nameSingular": "Villa",
+     "nameSingular_l1": "فیلا",
+     "nameSingular_l2": "别墅",
+     "nameSingular_l3": "Вилла"
+    }
+   ],
+   "createdAt": 1794047875.0,
+   "updatedAt": 1794047881.0,
+   "reactivatedAt": 1794047875.0,
+   "rooms": 3,
+   "baths": 3,
+   "area": 268.9998232896,
+   "coverPhoto": {
+    "id": 878393169,
+    "title": "4. jpg"
+   },
+   "photoCount": 9,
+   "phoneNumber": {
+    "mobile": "+971521298470",
+    "phone": "+97144439780",
+    "proxyMobile": "+971528956487",
+    "proxyPhone": "+97145882856",
+    "phoneNumbers": [
+     "+97144439780"
+    ],
+    "mobileNumbers": [
+     "+971521298470"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": false,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Saoud Bayazeed",
+   "agency": {
+    "name": "7EI8HT6 Properties",
+    "name_l1": "سبعة ثمانية ستة العقارات",
+    "id": 29535863,
+    "externalID": "8883",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 74223862
+    },
+    "logoID": 74223862,
+    "slug": "7ei8ht6-properties-8883",
+    "tr": 5,
+    "type": "agency"
+   },
+   "hash": "481408d",
+   "isVerified": false,
+   "verifiedScore": 2,
+   "trucheckedScore": 0,
+   "occupancyStatus": "vacant",
+   "furnishingStatus": "unfurnished",
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2605348",
+    "name": "Saoud Bayazeed",
+    "user_image_id": 797291616,
+    "isTruBroker": true,
+    "slug": "saoud-bayazeed-2605348",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "completionStatus": "completed",
+   "hasProject": false,
+   "adFeatures": [
+    "atm facility",
+    "balcony or terrace",
+    "barbeque area",
+    "broadband internet",
+    "cafeteria or canteen",
+    "centrally air-conditioned",
+    "day care center",
+    "double glazed windows",
+    "fitted",
+    "intercom",
+    "kids play area",
+    "laundry room",
+    "lawn or garden",
+    "maids room",
+    "satellite/cable tv",
+    "spacious",
+    "storage areas",
+    "store room",
+    "waste disposal"
+   ],
+   "indyScore": 785,
+   "indyScore_l1": 785,
+   "indyScore_l2": 638,
+   "indyScore_l3": 638,
+   "photoIDs": [
+    878393169,
+    878393172,
+    878393174,
+    878393175,
+    878393176,
+    878393177,
+    878393178,
+    878393179,
+    878393180
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 3,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 0,
+   "truBrokerScore": 0,
+   "popularBiScore": 785,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 0,
+   "v6ReactivatedAt": 1794047875,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 0,
+   "objectID": "13616184",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "PR7079-1",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Lowest in the market || Dream home || Spacious layout || Jumeirah Al Bada’a",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "فیلا في البدع 3 غرف 185000 درهم - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于艾巴达住宅区 3 卧室的别墅 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Вилла в Аль Бадаа, 3 cпальни, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Villa in Al Badaa, 3 schlafzimmer, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Villa à Al Badaa, 3 chambres, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Villa en Al Badaa, 3 dormitorios, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Villa a Al Badaa, 3 camere da letto, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Villa in Al Badaa, 3 slaapkamers, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Villa i Al Badaa, 3 soveværelser, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Villa i Al Badaa, 3 soverom, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Villa i Al Badaa, 3 sovrum, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Huvila kohteessa Al Badaa, 3 makuuhuonetta, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Moradia em Al Badaa, 3 quartos, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Βίλα σε Al Badaa, 3 υπνοδωμάτια, 185000 AED - 17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "17126257",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "id": 13616164,
+   "ownerID": 2234785,
+   "userExternalID": "2234785",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.242402343577,
+    "lng": 55.278919573309
+   },
+   "geography": {
+    "lat": 25.242402343577,
+    "lng": 55.278919573309
+   },
+   "purpose": "for-rent",
+   "price": 82999.0,
+   "product": "premium",
+   "productLabel": "default",
+   "productScore": 3,
+   "rentFrequency": "yearly",
+   "referenceNumber": "PFAhm-1bhk3076",
+   "title": "Large 1 Bedroom Apartment | Prime Al Hudaiba",
+   "title_l1": "شقة في الحضيبة 1 غرفة 82999 درهم - 17126237",
+   "title_l2": "位于胡达巴 1 卧室的公寓 82999 AED - 17126237",
+   "title_l3": "Квартира в Аль Худайба, 1 спальня, 82999 AED - 17126237",
+   "title_l4": "Wohnung in Al Hudaiba, 1 schlafzimmer, 82999 AED - 17126237",
+   "title_l5": "Appartement à Al Hudaiba, 1 chambre, 82999 AED - 17126237",
+   "title_l6": "Apartamento en Al Hudaiba, 1 dormitorio, 82999 AED - 17126237",
+   "title_l7": "Appartamento a Al Hudaiba, 1 camera da letto, 82999 AED - 17126237",
+   "title_l8": "Appartement in Al Hudaiba, 1 slaapkamer, 82999 AED - 17126237",
+   "title_l9": "Lejlighed i Al Hudaiba, 1 soveværelse, 82999 AED - 17126237",
+   "title_l10": "Leilighet i Al Hudaiba, 1 soverom, 82999 AED - 17126237",
+   "title_l11": "Lägenhet i Al Hudaiba, 1 sovrum, 82999 AED - 17126237",
+   "title_l12": "Asunto kohteessa Al Hudaiba, 1 makuuhuone, 82999 AED - 17126237",
+   "title_l13": "Apartamento em Al Hudaiba, 1 quarto, 82999 AED - 17126237",
+   "title_l14": "Διαμέρισμα σε Al Hudaiba, 1 υπνοδωμάτιο, 82999 AED - 17126237",
+   "externalID": "17126237",
+   "slug": "details_17126237",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 2347,
+     "level": 2,
+     "externalID": "5650",
+     "name": "Al Hudaiba",
+     "name_l1": "الحضيبة",
+     "name_l2": "胡达巴",
+     "name_l3": "Аль Худайба",
+     "slug": "/dubai/al-hudaiba",
+     "type": "neighbourhood"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "createdAt": 1794047811.0,
+   "updatedAt": 1794047816.0,
+   "reactivatedAt": 1794047811.0,
+   "rooms": 1,
+   "baths": 2,
+   "area": 103.49398656,
+   "coverPhoto": {
+    "id": 878392829,
+    "title": "1bk (53). png"
+   },
+   "photoCount": 7,
+   "phoneNumber": {
+    "mobile": "+971503116220",
+    "phone": "+97143471944",
+    "whatsapp": "971545695868",
+    "proxyPhone": "+97144243191",
+    "phoneNumbers": [
+     "+97143471944"
+    ],
+    "mobileNumbers": [
+     "+971503116220"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Jinisha Prajosh",
+   "agency": {
+    "name": "L Y D Real Estate",
+    "name_l1": "ال واي دي للعقارات",
+    "id": 29780375,
+    "externalID": "103857",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 570217625
+    },
+    "logoID": 570217625,
+    "slug": "l-y-d-real-estate-103857",
+    "tr": 6,
+    "type": "agency"
+   },
+   "hash": "MISIMG",
+   "isVerified": false,
+   "verification": {
+    "eligible": true,
+    "verifiedAt": 1794047815.0
+   },
+   "verifiedScore": 1,
+   "trucheckedScore": 0,
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2234785",
+    "name": "Jinisha Prajosh",
+    "user_image_id": 843273365,
+    "isTruBroker": false,
+    "slug": "jinisha-prajosh-2234785",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "completionStatus": "completed",
+   "hasProject": false,
+   "adFeatures": [
+    "balcony or terrace",
+    "built-in wardrobe",
+    "cctv security",
+    "cleaning services",
+    "electricity backup",
+    "lobby in building",
+    "maintenance staff",
+    "modern",
+    "ready to move",
+    "reception",
+    "security staff",
+    "service elevators",
+    "spacious",
+    "store room",
+    "vacant",
+    "wardrobe",
+    "waste disposal"
+   ],
+   "indyScore": 749,
+   "indyScore_l1": 749,
+   "indyScore_l2": 602,
+   "indyScore_l3": 602,
+   "photoIDs": [
+    878392829,
+    878392830,
+    878392831,
+    878392832,
+    878392887,
+    878392888,
+    878392889
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 3,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 0,
+   "truBrokerScore": 1,
+   "popularBiScore": 749,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 0,
+   "v6ReactivatedAt": 1794047811,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 1,
+   "objectID": "13616164",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "PFAhm-1bhk3076",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Large 1 Bedroom Apartment | Prime Al Hudaiba",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "شقة في الحضيبة 1 غرفة 82999 درهم - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于胡达巴 1 卧室的公寓 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Квартира в Аль Худайба, 1 спальня, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Wohnung in Al Hudaiba, 1 schlafzimmer, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Appartement à Al Hudaiba, 1 chambre, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Apartamento en Al Hudaiba, 1 dormitorio, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Appartamento a Al Hudaiba, 1 camera da letto, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Appartement in Al Hudaiba, 1 slaapkamer, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Lejlighed i Al Hudaiba, 1 soveværelse, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Leilighet i Al Hudaiba, 1 soverom, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Lägenhet i Al Hudaiba, 1 sovrum, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Asunto kohteessa Al Hudaiba, 1 makuuhuone, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Apartamento em Al Hudaiba, 1 quarto, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Διαμέρισμα σε Al Hudaiba, 1 υπνοδωμάτιο, 82999 AED - 17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "17126237",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 139137,
+ "page": 0,
+ "nbPages": 25000,
+ "hitsPerPage": 2,
+ "exhaustiveNbHits": false,
+ "exhaustive": {
+  "nbHits": false
+ },
+ "query": "",
+ "params": "hitsPerPage=2&page=0&filters=purpose:for-rent AND rentFrequency:yearly AND location.externalID:5002&attributesToRetrieve=*",
+ "processingTimeMS": 5,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 25
+  },
+  "fetch": {
+   "scanning": 4,
+   "total": 5
+  },
+  "total": 5
+ },
+ "serverTimeMS": 6
+}

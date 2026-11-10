@@ -1,0 +1,1018 @@
+{
+ "hits": [
+  {
+   "id": 13282179,
+   "ownerID": 2287543,
+   "userExternalID": "2287543",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.087214,
+    "lng": 55.145463
+   },
+   "geography": {
+    "lat": 25.087214,
+    "lng": 55.145463
+   },
+   "purpose": "for-sale",
+   "price": 3292000.0,
+   "product": "superhot",
+   "productLabel": "default",
+   "productScore": 0,
+   "productVariant": "Signature 14 days",
+   "referenceNumber": "ADM266096",
+   "title": "Priced to Sell | Rare + Fully Upgraded Home | VOT",
+   "title_l1": "شقة في داماك هايتس،دبي مارينا 2 غرف 3292000 درهم - 16786646",
+   "title_l2": "位于迪拜码头，达马克塔楼 2 卧室的公寓 3292000 AED - 16786646",
+   "title_l3": "Квартира в Дубай Марина，ДАМАК Хайтс, 2 cпальни, 3292000 AED - 16786646",
+   "title_l4": "Wohnung in Dubai Marina，DAMAC Heights, 2 schlafzimmer, 3292000 AED - 16786646",
+   "title_l5": "Appartement à Dubai Marina，DAMAC Heights, 2 chambres, 3292000 AED - 16786646",
+   "title_l6": "Apartamento en Dubai Marina，DAMAC Heights, 2 dormitorios, 3292000 AED - 16786646",
+   "title_l7": "Appartamento a Dubai Marina，DAMAC Heights, 2 camere da letto, 3292000 AED - 16786646",
+   "title_l8": "Appartement in Dubai Marina，DAMAC Heights, 2 slaapkamers, 3292000 AED - 16786646",
+   "title_l9": "Lejlighed i Dubai Marina，DAMAC Heights, 2 soveværelser, 3292000 AED - 16786646",
+   "title_l10": "Leilighet i Dubai Marina，DAMAC Heights, 2 soverom, 3292000 AED - 16786646",
+   "title_l11": "Lägenhet i Dubai Marina，DAMAC Heights, 2 sovrum, 3292000 AED - 16786646",
+   "title_l12": "Asunto kohteessa Dubai Marina，DAMAC Heights, 2 makuuhuonetta, 3292000 AED - 16786646",
+   "title_l13": "Apartamento em Dubai Marina，DAMAC Heights, 2 quartos, 3292000 AED - 16786646",
+   "title_l14": "Διαμέρισμα σε Dubai Marina，DAMAC Heights, 2 υπνοδωμάτια, 3292000 AED - 16786646",
+   "externalID": "16786646",
+   "slug": "priced-to-sell-rare-fully-upgraded-home-vot-16786646",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 36,
+     "level": 2,
+     "externalID": "5003",
+     "name": "Dubai Marina",
+     "name_l1": "دبي مارينا",
+     "name_l2": "迪拜码头",
+     "name_l3": "Дубай Марина",
+     "slug": "/dubai/dubai-marina",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 1567,
+     "level": 3,
+     "externalID": "8775",
+     "name": "DAMAC Heights",
+     "name_l1": "داماك هايتس",
+     "name_l2": "达马克塔楼",
+     "name_l3": "ДАМАК Хайтс",
+     "slug": "/dubai/dubai-marina/damac-heights",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "createdAt": 1791460616.0,
+   "updatedAt": 1793975266.0,
+   "reactivatedAt": 1791460616.0,
+   "rooms": 2,
+   "baths": 3,
+   "area": 143.0706816,
+   "coverPhoto": {
+    "id": 871703250,
+    "title": null
+   },
+   "photoCount": 23,
+   "phoneNumber": {
+    "mobile": "+971585116264",
+    "whatsapp": "971545695868",
+    "proxyPhone": "+97122356405",
+    "mobileNumbers": [
+     "+971585116264"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Lewis Dady",
+   "agency": {
+    "name": "haus & haus Real Estate",
+    "name_l1": "هاس أند هاس العقارية",
+    "id": 14,
+    "externalID": "6415",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 27679864
+    },
+    "logoID": 27679864,
+    "slug": "haus-haus-real-estate-6415",
+    "tr": 1,
+    "type": "agency"
+   },
+   "hash": "718dcd4",
+   "isVerified": true,
+   "verification": {
+    "eligible": true,
+    "status": "verified",
+    "verifiedAt": 1793975266.0
+   },
+   "verifiedScore": 0,
+   "trucheckedScore": 1793975266.0,
+   "floorPlanID": 55075,
+   "furnishingStatus": "furnished",
+   "extraFields": {
+    "dldBuildingNK": "tabu+ejari-16765565",
+    "hasRentTransactions": true,
+    "hasSaleTransactions": true
+   },
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2287543",
+    "name": "Lewis Dady",
+    "user_image_id": 647800150,
+    "isTruBroker": true,
+    "slug": "lewis-dady-2287543",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "completionStatus": "completed",
+   "hasProject": false,
+   "adFeatures": [
+    "gym or health club",
+    "marina view",
+    "office",
+    "sauna",
+    "security staff",
+    "steam room",
+    "swimming pool",
+    "upgraded",
+    "vacant"
+   ],
+   "indyScore": 350,
+   "indyScore_l1": 350,
+   "indyScore_l2": 293,
+   "indyScore_l3": 293,
+   "hasMatchingFloorPlans": true,
+   "photoIDs": [
+    871703250,
+    871703251,
+    871703253,
+    871703252,
+    871703254,
+    871703255,
+    871703257,
+    871703256,
+    871703258,
+    871703259,
+    871703260,
+    871703261,
+    871703262,
+    871703263,
+    871703264,
+    871703265,
+    871703266,
+    871703267,
+    871703268,
+    871703269,
+    871703270,
+    871703271,
+    871703272
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 1,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 1793975266.0,
+   "truBrokerScore": 0,
+   "popularBiScore": 350,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 1793975266.0,
+   "v6ReactivatedAt": 0,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 1,
+   "objectID": "13282179",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "ADM266096",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Priced to Sell | Rare + Fully Upgraded Home | VOT",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "شقة في داماك هايتس،دبي مارينا 2 غرف 3292000 درهم - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于迪拜码头，达马克塔楼 2 卧室的公寓 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Квартира в Дубай Марина，ДАМАК Хайтс, 2 cпальни, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Wohnung in Dubai Marina，DAMAC Heights, 2 schlafzimmer, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Appartement à Dubai Marina，DAMAC Heights, 2 chambres, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Apartamento en Dubai Marina，DAMAC Heights, 2 dormitorios, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Appartamento a Dubai Marina，DAMAC Heights, 2 camere da letto, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Appartement in Dubai Marina，DAMAC Heights, 2 slaapkamers, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Lejlighed i Dubai Marina，DAMAC Heights, 2 soveværelser, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Leilighet i Dubai Marina，DAMAC Heights, 2 soverom, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Lägenhet i Dubai Marina，DAMAC Heights, 2 sovrum, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Asunto kohteessa Dubai Marina，DAMAC Heights, 2 makuuhuonetta, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Apartamento em Dubai Marina，DAMAC Heights, 2 quartos, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Διαμέρισμα σε Dubai Marina，DAMAC Heights, 2 υπνοδωμάτια, 3292000 AED - 16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "16786646",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "id": 13496721,
+   "ownerID": 2182121,
+   "userExternalID": "2182121",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.086438,
+    "lng": 55.147157
+   },
+   "geography": {
+    "lat": 25.086438,
+    "lng": 55.147157
+   },
+   "purpose": "for-sale",
+   "price": 4850000.0,
+   "product": "superhot",
+   "productLabel": "default",
+   "productScore": 0,
+   "productVariant": "Signature 14 days",
+   "referenceNumber": "103427-JsxlJ1",
+   "title": "Exclusive | Upgraded | Premium 01 Layout",
+   "title_l1": "شقة في مارينا جيت 1،مارينا جيت،دبي مارينا 2 غرف 4850000 درهم - 17003826",
+   "title_l2": "位于迪拜码头，滨海之门，滨海之门1号 2 卧室的公寓 4850000 AED - 17003826",
+   "title_l3": "Квартира в Дубай Марина，Марина Гейт，Марина Гейт 1, 2 cпальни, 4850000 AED - 17003826",
+   "title_l4": "Wohnung in Dubai Marina，Marina Gate，Marina Gate 1, 2 schlafzimmer, 4850000 AED - 17003826",
+   "title_l5": "Appartement à Dubai Marina，Marina Gate，Marina Gate 1, 2 chambres, 4850000 AED - 17003826",
+   "title_l6": "Apartamento en Dubai Marina，Marina Gate，Marina Gate 1, 2 dormitorios, 4850000 AED - 17003826",
+   "title_l7": "Appartamento a Dubai Marina，Marina Gate，Marina Gate 1, 2 camere da letto, 4850000 AED - 17003826",
+   "title_l8": "Appartement in Dubai Marina，Marina Gate，Marina Gate 1, 2 slaapkamers, 4850000 AED - 17003826",
+   "title_l9": "Lejlighed i Dubai Marina，Marina Gate，Marina Gate 1, 2 soveværelser, 4850000 AED - 17003826",
+   "title_l10": "Leilighet i Dubai Marina，Marina Gate，Marina Gate 1, 2 soverom, 4850000 AED - 17003826",
+   "title_l11": "Lägenhet i Dubai Marina，Marina Gate，Marina Gate 1, 2 sovrum, 4850000 AED - 17003826",
+   "title_l12": "Asunto kohteessa Dubai Marina，Marina Gate，Marina Gate 1, 2 makuuhuonetta, 4850000 AED - 17003826",
+   "title_l13": "Apartamento em Dubai Marina，Marina Gate，Marina Gate 1, 2 quartos, 4850000 AED - 17003826",
+   "title_l14": "Διαμέρισμα σε Dubai Marina，Marina Gate，Marina Gate 1, 2 υπνοδωμάτια, 4850000 AED - 17003826",
+   "externalID": "17003826",
+   "slug": "exclusive-upgraded-premium-01-layout-17003826",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 36,
+     "level": 2,
+     "externalID": "5003",
+     "name": "Dubai Marina",
+     "name_l1": "دبي مارينا",
+     "name_l2": "迪拜码头",
+     "name_l3": "Дубай Марина",
+     "slug": "/dubai/dubai-marina",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 772,
+     "level": 3,
+     "externalID": "8500",
+     "name": "Marina Gate",
+     "name_l1": "مارينا جيت",
+     "name_l2": "滨海之门",
+     "name_l3": "Марина Гейт",
+     "slug": "/dubai/dubai-marina/marina-gate"
+    },
+    {
+     "id": 1340,
+     "level": 4,
+     "externalID": "9101",
+     "name": "Marina Gate 1",
+     "name_l1": "مارينا جيت 1",
+     "name_l2": "滨海之门1号",
+     "name_l3": "Марина Гейт 1",
+     "slug": "/dubai/dubai-marina/marina-gate/marina-gate-1",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "createdAt": 1793112090.0,
+   "updatedAt": 1793950015.0,
+   "reactivatedAt": 1793112090.0,
+   "rooms": 2,
+   "baths": 3,
+   "area": 136.66037184,
+   "coverPhoto": {
+    "id": 876030538,
+    "title": "1. jpg"
+   },
+   "photoCount": 25,
+   "phoneNumber": {
+    "mobile": "+971553494595",
+    "phone": "+97158168046",
+    "whatsapp": "971545695868",
+    "proxyPhone": "+97145426280",
+    "phoneNumbers": [
+     "+97158168046"
+    ],
+    "mobileNumbers": [
+     "+971553494595"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Nick Lee",
+   "agency": {
+    "name": "Aventa Real Estate",
+    "name_l1": "افينتا للعقارات",
+    "id": 29763564,
+    "externalID": "103427",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 497660856
+    },
+    "logoID": 497660856,
+    "slug": "aventa-real-estate-103427",
+    "tr": 3,
+    "type": "agency"
+   },
+   "hash": "43531aa",
+   "isVerified": true,
+   "verification": {
+    "eligible": true,
+    "status": "verified",
+    "verifiedAt": 1793950015.0
+   },
+   "verifiedScore": 0,
+   "trucheckedScore": 1793950015.0,
+   "floorPlanID": 29017,
+   "furnishingStatus": "furnished",
+   "extraFields": {
+    "dldBuildingNK": "tabu-18016154",
+    "hasRentTransactions": true,
+    "hasSaleTransactions": true
+   },
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2182121",
+    "name": "Nick Lee",
+    "user_image_id": 500369007,
+    "isTruBroker": true,
+    "slug": "nick-lee-2182121",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "completionStatus": "completed",
+   "hasProject": false,
+   "adFeatures": [
+    "balcony or terrace",
+    "centrally air-conditioned",
+    "furnished",
+    "gym or health club",
+    "lobby in building",
+    "marina view",
+    "parking spaces",
+    "reception",
+    "resale",
+    "sauna",
+    "spacious",
+    "steam room",
+    "swimming pool",
+    "upgraded",
+    "waterfront"
+   ],
+   "indyScore": 633,
+   "indyScore_l1": 633,
+   "indyScore_l2": 533,
+   "indyScore_l3": 533,
+   "hasMatchingFloorPlans": true,
+   "photoIDs": [
+    876030538,
+    876030539,
+    876030540,
+    876030541,
+    876030542,
+    876030543,
+    876030544,
+    876030545,
+    876030546,
+    876030547,
+    876030548,
+    876030549,
+    876030550,
+    876030551,
+    876030552,
+    876030553,
+    876030554,
+    876030555,
+    876030556,
+    876030557,
+    876030578,
+    876030579,
+    876030580,
+    876030581,
+    876030582
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 1,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 1793950015.0,
+   "truBrokerScore": 0,
+   "popularBiScore": 633,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 1793950015.0,
+   "v6ReactivatedAt": 0,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 1,
+   "objectID": "13496721",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "103427-JsxlJ1",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Exclusive | Upgraded | Premium 01 Layout",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "شقة في مارينا جيت 1،مارينا جيت،دبي مارينا 2 غرف 4850000 درهم - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于迪拜码头，滨海之门，滨海之门1号 2 卧室的公寓 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Квартира в Дубай Марина，Марина Гейт，Марина Гейт 1, 2 cпальни, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Wohnung in Dubai Marina，Marina Gate，Marina Gate 1, 2 schlafzimmer, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Appartement à Dubai Marina，Marina Gate，Marina Gate 1, 2 chambres, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Apartamento en Dubai Marina，Marina Gate，Marina Gate 1, 2 dormitorios, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Appartamento a Dubai Marina，Marina Gate，Marina Gate 1, 2 camere da letto, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Appartement in Dubai Marina，Marina Gate，Marina Gate 1, 2 slaapkamers, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Lejlighed i Dubai Marina，Marina Gate，Marina Gate 1, 2 soveværelser, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Leilighet i Dubai Marina，Marina Gate，Marina Gate 1, 2 soverom, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Lägenhet i Dubai Marina，Marina Gate，Marina Gate 1, 2 sovrum, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Asunto kohteessa Dubai Marina，Marina Gate，Marina Gate 1, 2 makuuhuonetta, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Apartamento em Dubai Marina，Marina Gate，Marina Gate 1, 2 quartos, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Διαμέρισμα σε Dubai Marina，Marina Gate，Marina Gate 1, 2 υπνοδωμάτια, 4850000 AED - 17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "17003826",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "id": 13559796,
+   "ownerID": 2182206,
+   "userExternalID": "2182206",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.068587776114,
+    "lng": 55.128804889821
+   },
+   "geography": {
+    "lat": 25.068587776114,
+    "lng": 55.128804889821
+   },
+   "purpose": "for-sale",
+   "price": 1440000.0,
+   "product": "superhot",
+   "productLabel": "default",
+   "productScore": 0,
+   "productVariant": "Signature 14 days",
+   "referenceNumber": "MAR230521",
+   "title": "Vacant | High ROI | Furnished | Sea View",
+   "title_l1": "شقة في برج استوديو ون،دبي مارينا 1 غرفة 1440000 درهم - 17068394",
+   "title_l2": "位于迪拜码头，单身公寓壹号大厦 1 卧室的公寓 1440000 AED - 17068394",
+   "title_l3": "Квартира в Дубай Марина，Студио Ван Тауэр, 1 спальня, 1440000 AED - 17068394",
+   "title_l4": "Wohnung in Dubai Marina，Studio One Tower, 1 schlafzimmer, 1440000 AED - 17068394",
+   "title_l5": "Appartement à Dubai Marina，Studio One Tower, 1 chambre, 1440000 AED - 17068394",
+   "title_l6": "Apartamento en Dubai Marina，Studio One Tower, 1 dormitorio, 1440000 AED - 17068394",
+   "title_l7": "Appartamento a Dubai Marina，Studio One Tower, 1 camera da letto, 1440000 AED - 17068394",
+   "title_l8": "Appartement in Dubai Marina，Studio One Tower, 1 slaapkamer, 1440000 AED - 17068394",
+   "title_l9": "Lejlighed i Dubai Marina，Studio One Tower, 1 soveværelse, 1440000 AED - 17068394",
+   "title_l10": "Leilighet i Dubai Marina，Studio One Tower, 1 soverom, 1440000 AED - 17068394",
+   "title_l11": "Lägenhet i Dubai Marina，Studio One Tower, 1 sovrum, 1440000 AED - 17068394",
+   "title_l12": "Asunto kohteessa Dubai Marina，Studio One Tower, 1 makuuhuone, 1440000 AED - 17068394",
+   "title_l13": "Apartamento em Dubai Marina，Studio One Tower, 1 quarto, 1440000 AED - 17068394",
+   "title_l14": "Διαμέρισμα σε Dubai Marina，Studio One Tower, 1 υπνοδωμάτιο, 1440000 AED - 17068394",
+   "externalID": "17068394",
+   "slug": "vacant-high-roi-furnished-sea-view-17068394",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 36,
+     "level": 2,
+     "externalID": "5003",
+     "name": "Dubai Marina",
+     "name_l1": "دبي مارينا",
+     "name_l2": "迪拜码头",
+     "name_l3": "Дубай Марина",
+     "slug": "/dubai/dubai-marina",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 113,
+     "level": 3,
+     "externalID": "8891",
+     "name": "Studio One Tower",
+     "name_l1": "برج استوديو ون",
+     "name_l2": "单身公寓壹号大厦",
+     "name_l3": "Студио Ван Тауэр",
+     "slug": "/dubai/dubai-marina/studio-one-tower",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "createdAt": 1793628063.0,
+   "updatedAt": 1794038783.0,
+   "reactivatedAt": 1793628063.0,
+   "rooms": 1,
+   "baths": 2,
+   "area": 66.33277056,
+   "coverPhoto": {
+    "id": 877290899,
+    "title": null
+   },
+   "photoCount": 19,
+   "phoneNumber": {
+    "mobile": "+971585077810",
+    "whatsapp": "971545695868",
+    "proxyPhone": "+97145427184",
+    "mobileNumbers": [
+     "+971585077810"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Xavier Xiros",
+   "agency": {
+    "name": "haus & haus Real Estate",
+    "name_l1": "هاس أند هاس العقارية",
+    "id": 14,
+    "externalID": "6415",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 27679864
+    },
+    "logoID": 27679864,
+    "slug": "haus-haus-real-estate-6415",
+    "tr": 1,
+    "type": "agency"
+   },
+   "hash": "abf3dcc",
+   "isVerified": true,
+   "verification": {
+    "eligible": true,
+    "status": "verified",
+    "verifiedAt": 1793897914.0
+   },
+   "verifiedScore": 0,
+   "trucheckedScore": 1793897914.0,
+   "furnishingStatus": "unfurnished",
+   "extraFields": {
+    "dldBuildingNK": "tabu-35712710",
+    "hasSaleTransactions": true
+   },
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2182206",
+    "name": "Xavier Xiros",
+    "user_image_id": 624196568,
+    "isTruBroker": true,
+    "slug": "xavier-xiros-2182206",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "completionStatus": "completed",
+   "hasProject": false,
+   "adFeatures": [
+    "furnished",
+    "gym or health club",
+    "high floor",
+    "high roi",
+    "office",
+    "sea view",
+    "security staff",
+    "sunset view",
+    "swimming pool",
+    "vacant"
+   ],
+   "indyScore": 620,
+   "indyScore_l1": 620,
+   "indyScore_l2": 501,
+   "indyScore_l3": 501,
+   "hasMatchingFloorPlans": true,
+   "photoIDs": [
+    877290899,
+    877290898,
+    877290901,
+    877290904,
+    877290906,
+    877290908,
+    877290911,
+    877290913,
+    877290915,
+    877290917,
+    877290919,
+    877290921,
+    877290922,
+    877290923,
+    877290924,
+    877290925,
+    877290926,
+    877290927,
+    877290928
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 1,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 1793897914.0,
+   "truBrokerScore": 0,
+   "popularBiScore": 620,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 1793897914.0,
+   "v6ReactivatedAt": 0,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 1,
+   "objectID": "13559796",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "MAR230521",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Vacant | High ROI | Furnished | Sea View",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "شقة في برج استوديو ون،دبي مارينا 1 غرفة 1440000 درهم - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于迪拜码头，单身公寓壹号大厦 1 卧室的公寓 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Квартира в Дубай Марина，Студио Ван Тауэр, 1 спальня, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Wohnung in Dubai Marina，Studio One Tower, 1 schlafzimmer, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Appartement à Dubai Marina，Studio One Tower, 1 chambre, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Apartamento en Dubai Marina，Studio One Tower, 1 dormitorio, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Appartamento a Dubai Marina，Studio One Tower, 1 camera da letto, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Appartement in Dubai Marina，Studio One Tower, 1 slaapkamer, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Lejlighed i Dubai Marina，Studio One Tower, 1 soveværelse, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Leilighet i Dubai Marina，Studio One Tower, 1 soverom, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Lägenhet i Dubai Marina，Studio One Tower, 1 sovrum, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Asunto kohteessa Dubai Marina，Studio One Tower, 1 makuuhuone, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Apartamento em Dubai Marina，Studio One Tower, 1 quarto, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Διαμέρισμα σε Dubai Marina，Studio One Tower, 1 υπνοδωμάτιο, 1440000 AED - 17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "17068394",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 3575,
+ "page": 0,
+ "nbPages": 1192,
+ "hitsPerPage": 3,
+ "exhaustiveNbHits": true,
+ "exhaustive": {
+  "nbHits": true
+ },
+ "query": "",
+ "params": "hitsPerPage=3&page=0&filters=purpose:for-sale AND category.slug:apartments AND location.slug:/dubai/dubai-marina&attributesToRetrieve=*",
+ "processingTimeMS": 4,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 26
+  },
+  "fetch": {
+   "scanning": 3,
+   "total": 4
+  },
+  "total": 4
+ },
+ "serverTimeMS": 5
+}

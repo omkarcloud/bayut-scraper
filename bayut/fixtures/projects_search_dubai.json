@@ -1,0 +1,1265 @@
+{
+ "hits": [
+  {
+   "id": 13443116,
+   "ownerID": 2828701,
+   "externalID": "2932",
+   "type": "project",
+   "hash": "e96be8e",
+   "slug": "cresswell_homes-2932",
+   "state": "active",
+   "purpose": "for-sale",
+   "_geoloc": {
+    "lat": 24.941767963279,
+    "lng": 55.21693652252
+   },
+   "geography": {
+    "lat": 24.941767963279,
+    "lng": 55.21693652252
+   },
+   "product": null,
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 3355,
+     "level": 2,
+     "externalID": "8881",
+     "name": "Dubai South",
+     "name_l1": "دبي الجنوب",
+     "name_l2": "迪拜南部街区",
+     "name_l3": "Дубай Саут",
+     "slug": "/dubai/dubai-south",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 18375,
+     "level": 3,
+     "externalID": "14037",
+     "name": "Residential District",
+     "name_l1": "المنطقة السكنية جنوب دبي",
+     "name_l2": "居住区",
+     "name_l3": "Жилой Район",
+     "slug": "/dubai/dubai-south/residential-district",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 87786,
+     "level": 4,
+     "externalID": "20896",
+     "name": "Cresswell Homes",
+     "name_l1": "منازل كريسويل",
+     "name_l2": "Cresswell Homes",
+     "name_l3": "Cresswell Homes",
+     "slug": "/dubai/dubai-south/residential-district/cresswell-homes",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "slug_l1": "residential",
+     "slug_l2": "residential",
+     "slug_l3": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    }
+   ],
+   "agency": {
+    "id": 29955185,
+    "objectID": 29955185,
+    "name": "Merath Development",
+    "name_l1": "Merath Development",
+    "name_l2": "Merath Development",
+    "name_l3": "Merath Development",
+    "externalID": "1351",
+    "product": null,
+    "productScore": null,
+    "location": null,
+    "licenses": [],
+    "logo": {
+     "id": 824389996,
+     "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/824389996/af33f284a6d04d718d24741b0d8c3d6a"
+    },
+    "logoID": 824389996,
+    "slug": "merath-development",
+    "slug_l1": "merath-development",
+    "slug_l2": "merath-development",
+    "slug_l3": "merath-development",
+    "tr": 4,
+    "active": true,
+    "createdAt": "2026-03-03T08:09:39.970770+00:00",
+    "commercialNumber": null,
+    "shortNumber": null,
+    "type": "developer"
+   },
+   "rooms": null,
+   "baths": null,
+   "area": 0.0,
+   "price": 0.0,
+   "hidePrice": false,
+   "createdAt": 1792684017.882476,
+   "updatedAt": 1792684017.882481,
+   "extraFields": {
+    "projectOwnerAgencyExternalID": "110057",
+    "dldPropertySK": "2932"
+   },
+   "coverPhoto": {
+    "id": 875597383,
+    "externalID": "21112",
+    "title": "Cover Image",
+    "orderIndex": 1,
+    "nimaScore": 6.00899073180008,
+    "main": true,
+    "type": "listing"
+   },
+   "photoIDs": [
+    875597383,
+    875597384,
+    875597385,
+    875597386
+   ],
+   "amenities": [
+    {
+     "externalGroupID": 2,
+     "groupRank": 4,
+     "text": "Recreation and Family",
+     "text_l1": "الترفيه والأسرة",
+     "text_l2": "景观",
+     "text_l3": "Отдых и семья",
+     "amenities": [
+      {
+       "text": "Kids Play Area",
+       "text_l1": "منطقة لعب للأطفال",
+       "text_l2": "儿童娱乐区",
+       "text_l3": "Детская игровая площадка",
+       "value": "",
+       "rank": 3,
+       "slug": "kids-play-area",
+       "format": "checkbox",
+       "externalID": 34
+      },
+      {
+       "text": "Lawn or Garden",
+       "text_l1": "حديقة",
+       "text_l2": "绿化",
+       "text_l3": "Газон или сад",
+       "value": "",
+       "rank": 5,
+       "slug": "lawn-or-garden",
+       "format": "checkbox",
+       "externalID": 36
+      },
+      {
+       "text": "Barbeque Area",
+       "text_l1": "مكان مخصص للشواء",
+       "text_l2": "烧烤区",
+       "text_l3": "Зона барбекю",
+       "value": "",
+       "rank": 7,
+       "slug": "barbeque-area",
+       "format": "checkbox",
+       "externalID": 4
+      }
+     ]
+    }
+   ],
+   "completionDetails": {
+    "startDate": null,
+    "completionDate": 1798660800.0,
+    "completionPercentage": 29.0
+   },
+   "paymentPlanSummaries": [
+    {
+     "preHandoverPercentageSum": 25,
+     "postHandoverPercentageSum": 75,
+     "breakdown": {
+      "downPaymentPercentage": 10,
+      "preHandoverPercentage": 15,
+      "handoverPercentage": 75,
+      "postHandoverPercentage": null
+     }
+    }
+   ],
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": false,
+    "email": false,
+    "call": false
+   },
+   "title": "Cresswell Homes",
+   "title_l1": "كريسويل ريزيدنسز",
+   "description": "<p>Merath Developmentt has launched Cresswell Homes, a low-rise apartment complex in Dubai South’s Residential District. It will feature 72 luxury 1, 2 and 3-bedroom apartments spread across G+6 floors. Designed with a focus on architectural excellence, residences will combine contemporary urban elegance with a peaceful living environment. </p><p>Each apartment will be crafted to maximise natural sunlight, creating bright and welcoming interiors. Emirates Road (E611) will be in proximity to the off-plan project in Dubai South, providing easy connectivity. Offering a balance of comfort, style and exclusivity, Cresswell Homes will provide a refined living experience within a well-connected and serene community. </p>",
+   "description_l1": "<p>أطلقت شركة إسناد لإدارة المشاريع مشروع كريسويل رزيدنسز في قلب منطقة دبي الجنوب، وهو مشروع سكني منخفص الارتفاع يتألف من 6 طوابق علوية بالإضافة إلى طابق أرضي، ويضم 72 شقة فاخرة مكونة من غرفة أو غرفتين أو ثلاث وصالة، والتي تجمع بين التصميم المعماري الأنيق والبيئة السكنية الهادئة. </p><p>تم تصميم كل شقة في المشروع لضمان الاستفادة القصوى من ضوء الشمس الطبيعي، مما يضفي أجواء دافئة ومشرقة، فضلاً عن موقعه المميز بالقرب من شارع الإمارات. وبفضل التوازن المثالي بين الرفاهية والأناقة والخصوصية، سيقدم كريسويل رزيدنسز تجربة سكنية راقية ضمن مجمع سكني عصري وهادئ. </p><p>\n</p>",
+   "completionStatus": "under-construction",
+   "unitCategories": [],
+   "unitRooms": [],
+   "unitBaths": [],
+   "hasPropertyAds": true,
+   "hasAllPropertyAdsCompleted": false,
+   "propertyAdCount": 66,
+   "locationCompletionStatus": "off-plan",
+   "completionProximity": 0,
+   "isProjectOwned": true,
+   "documents": [],
+   "tierSlot": 1,
+   "additionalCategories": [
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "شقق",
+      "name_l2": "公寓",
+      "name_l3": "Апартаменты",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "slug_l3": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "شقة",
+      "nameSingular_l2": "公寓",
+      "nameSingular_l3": "Квартира"
+     }
+    ]
+   ],
+   "projectScore": 101,
+   "rankingTierSlot": 0,
+   "objectID": "13443116",
+   "_highlightResult": {
+    "externalID": {
+     "value": "2932",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Cresswell Homes",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "كريسويل ريزيدنسز",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "id": 11262041,
+   "ownerID": 2346391,
+   "externalID": "3627",
+   "type": "project",
+   "hash": "fcc28fe",
+   "slug": "binghatti_skyflame_1-3627",
+   "state": "active",
+   "purpose": "for-sale",
+   "_geoloc": {
+    "lat": 25.090813566325,
+    "lng": 55.32188921802
+   },
+   "geography": {
+    "lat": 25.090813566325,
+    "lng": 55.32188921802
+   },
+   "product": null,
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 800,
+     "level": 2,
+     "externalID": "5787",
+     "name": "Majan",
+     "name_l1": "مجان",
+     "name_l2": "马岩街区",
+     "name_l3": "Маджан",
+     "slug": "/dubai/majan",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 90490,
+     "level": 3,
+     "externalID": "23457",
+     "name": "Binghatti Skyflame",
+     "name_l1": "بن غاطي سكاي فليم",
+     "name_l2": "Binghatti Skyflame",
+     "name_l3": "Binghatti Skyflame",
+     "slug": "/dubai/majan/binghatti-skyflame"
+    },
+    {
+     "id": 90493,
+     "level": 4,
+     "externalID": "23458",
+     "name": "Binghatti Skyflame 1",
+     "name_l1": "بن غاطي سكاي فليم 1",
+     "name_l2": "Binghatti Skyflame 1",
+     "name_l3": "Binghatti Skyflame 1",
+     "slug": "/dubai/majan/binghatti-skyflame/binghatti-skyflame-1",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "slug_l1": "residential",
+     "slug_l2": "residential",
+     "slug_l3": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "slug_l1": "apartments",
+     "slug_l2": "apartments",
+     "slug_l3": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "agency": {
+    "id": 29796270,
+    "objectID": 29796270,
+    "name": "Binghatti",
+    "name_l1": "بن غاطي للتطوير العقاري",
+    "name_l2": "Binghatti",
+    "name_l3": "Binghatti",
+    "externalID": "85",
+    "product": null,
+    "productScore": null,
+    "location": null,
+    "licenses": [],
+    "logo": {
+     "id": 676991230,
+     "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/676991230/42c24118e04a49be883d019f8d5b1355"
+    },
+    "logoID": 676991230,
+    "slug": "binghatti",
+    "slug_l1": "بن-غاطي-للتطوير-العقاري",
+    "slug_l2": "binghatti",
+    "slug_l3": "binghatti",
+    "tr": 4,
+    "active": true,
+    "createdAt": "2024-04-24T10:26:37.942445+00:00",
+    "commercialNumber": null,
+    "shortNumber": null,
+    "type": "developer"
+   },
+   "rooms": 0,
+   "baths": 1,
+   "area": 37.25411904,
+   "price": 585000.0,
+   "hidePrice": false,
+   "createdAt": 1775036775.651477,
+   "updatedAt": 1775036775.651483,
+   "extraFields": {
+    "projectOwnerAgencyExternalID": "7796",
+    "dldPropertySK": "3627"
+   },
+   "coverPhoto": {
+    "id": 828953280,
+    "externalID": "18793",
+    "title": "Cover Image",
+    "orderIndex": 1,
+    "nimaScore": 5.999025947715982,
+    "main": true,
+    "type": "listing"
+   },
+   "photoIDs": [
+    828953280,
+    828953281,
+    828953282,
+    828953283,
+    828953284,
+    828953285
+   ],
+   "amenities": [
+    {
+     "externalGroupID": 5,
+     "groupRank": 2,
+     "text": "Building",
+     "text_l1": "البناء",
+     "text_l2": "入户大堂",
+     "text_l3": "Здание",
+     "amenities": [
+      {
+       "text": "Lobby in Building",
+       "text_l1": "ردهة إستقبال",
+       "text_l2": "入户大堂",
+       "text_l3": "Лобби в здании",
+       "value": "",
+       "rank": 2,
+       "slug": "lobby-in-building",
+       "format": "checkbox",
+       "externalID": 5
+      }
+     ]
+    },
+    {
+     "externalGroupID": 3,
+     "groupRank": 3,
+     "text": "Health and Fitness",
+     "text_l1": "الصحة و اللياقة",
+     "text_l2": "阳台",
+     "text_l3": "Здоровье и Фитнесс",
+     "amenities": [
+      {
+       "text": "Gym or Health Club",
+       "text_l1": "صالة رياضية أو نادي صحي",
+       "text_l2": "健身房或健身俱乐部",
+       "text_l3": "Тренажерный зал или оздоровительный клуб",
+       "value": "",
+       "rank": 3,
+       "slug": "gym-or-health-club",
+       "format": "checkbox",
+       "externalID": 22
+      },
+      {
+       "text": "Swimming Pool",
+       "text_l1": "مسبح",
+       "text_l2": "附近医院",
+       "text_l3": "Бассейн",
+       "value": "",
+       "rank": 6,
+       "slug": "swimming-pool",
+       "format": "checkbox",
+       "externalID": 45
+      }
+     ]
+    },
+    {
+     "externalGroupID": 2,
+     "groupRank": 4,
+     "text": "Recreation and Family",
+     "text_l1": "الترفيه والأسرة",
+     "text_l2": "景观",
+     "text_l3": "Отдых и семья",
+     "amenities": [
+      {
+       "text": "Kids Play Area",
+       "text_l1": "منطقة لعب للأطفال",
+       "text_l2": "儿童娱乐区",
+       "text_l3": "Детская игровая площадка",
+       "value": "",
+       "rank": 3,
+       "slug": "kids-play-area",
+       "format": "checkbox",
+       "externalID": 34
+      }
+     ]
+    }
+   ],
+   "completionDetails": {
+    "startDate": 1769889600.0,
+    "completionDate": 1830196800.0,
+    "completionPercentage": null
+   },
+   "paymentPlanSummaries": [
+    {
+     "preHandoverPercentageSum": 40,
+     "postHandoverPercentageSum": 60,
+     "breakdown": {
+      "downPaymentPercentage": 20,
+      "preHandoverPercentage": 20,
+      "handoverPercentage": 60,
+      "postHandoverPercentage": null
+     }
+    }
+   ],
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": false,
+    "email": true,
+    "call": true
+   },
+   "title": "Binghatti Skyflame 1",
+   "title_l1": "بن غاطي سكاي فليم 1",
+   "description": "Binghatti Skyflame 1 is an off-plan residential development in Majan, Dubai, offering a community-oriented setting with structured surroundings and open views. The project by Binghatti Developers will feature studios, 1 and 2-bedroom residences, along with exclusive 2-bedroom Royal Suites designed with functional layouts and efficient space planning. \n\nUpon completion, residents will benefit from over 15 premium amenities, private pools on every level and a variety of leisure spaces across the community, supporting comfort and convenience within a resort-inspired environment. Strategically situated along Sheikh Mohammed Bin Zayed Road (E311), the development ensures seamless connectivity to Dubai’s key districts and major transport arteries.",
+   "description_l1": "بن غاطي سكاي فليم 1 هو مشروع سكني قيد الإنشاء من شركة بن غاطي للتطوير العقاري في منطقة مجان بدبي، سيضم شقق استوديو وشقق مكوّنة من غرفة وغرفتين، فضلاً عن أجنحة رويال حصرية مكوّنة من غرفتين بمخططات داخلية عملية تتيح الاستفادة المثلى من المساحات، ضمن بيئة مجتمعية منظمة تتميز بإطلالات مفتوحة ومحيط راقي مستوحى من أجواء المنتجعات الفاخرة. \n\nعند اكتمال المشروع، سيتمكن السكان من الاستمتاع بأكثر من 15 مرفق متميز، تشمل مسابح خاصة في كل طابق ومساحات ترفيهية متنوعة، مما يعزز أسلوب حياة متكامل يجمع بين الراحة والرفاهية. كما يتمتع المشروع بموقع استراتيجي على شارع الشيخ محمد بن زايد، مما يضمن الاتصال السلس بأبرز أحياء دبي والمحاور الرئيسية للمواصلات في الإمارة.",
+   "completionStatus": "under-construction",
+   "unitCategories": [
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "شقق",
+      "name_l2": "公寓",
+      "name_l3": "Апартаменты",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "slug_l3": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "شقة",
+      "nameSingular_l2": "公寓",
+      "nameSingular_l3": "Квартира"
+     }
+    ]
+   ],
+   "unitRooms": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2
+   ],
+   "unitBaths": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "hasPropertyAds": true,
+   "hasAllPropertyAdsCompleted": false,
+   "propertyAdCount": 381,
+   "locationCompletionStatus": "off-plan",
+   "completionProximity": -4,
+   "isProjectOwned": true,
+   "documents": [
+    {
+     "title": {
+      "en": null,
+      "ar": null,
+      "zh": null,
+      "ru": null
+     },
+     "fileSource": "https://bayut-production.s3.eu-central-1.amazonaws.com/file/1605356/04f2ab381bb7459db6a14dd759c2f2a6.pdf",
+     "isActive": true,
+     "tag": "project_brochure"
+    }
+   ],
+   "tierSlot": 1,
+   "additionalCategories": [
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "شقق",
+      "name_l2": "公寓",
+      "name_l3": "Апартаменты",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "slug_l3": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "شقة",
+      "nameSingular_l2": "公寓",
+      "nameSingular_l3": "Квартира"
+     }
+    ],
+    [
+     {
+      "id": 3,
+      "level": 0,
+      "externalID": "2",
+      "name": "Commercial",
+      "name_l1": "تجاري",
+      "name_l2": "商用物业",
+      "name_l3": "Коммерческие",
+      "slug": "commercial",
+      "slug_l1": "commercial",
+      "slug_l2": "commercial",
+      "slug_l3": "commercial",
+      "nameSingular": "Commercial",
+      "nameSingular_l1": "تجاري",
+      "nameSingular_l2": "商用物业",
+      "nameSingular_l3": "Коммерческий"
+     },
+     {
+      "id": 13,
+      "level": 1,
+      "externalID": "6",
+      "name": "Shops",
+      "name_l1": "محلات تجارية",
+      "name_l2": "商铺",
+      "name_l3": "Магазины",
+      "slug": "shops",
+      "slug_l1": "shops",
+      "slug_l2": "shops",
+      "slug_l3": "shops",
+      "nameSingular": "Shop",
+      "nameSingular_l1": "محل تجاري",
+      "nameSingular_l2": "商铺",
+      "nameSingular_l3": "Магазин"
+     }
+    ],
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 16,
+      "level": 1,
+      "externalID": "18",
+      "name": "Penthouses",
+      "name_l1": "بنتهاوس",
+      "name_l2": "顶楼公寓",
+      "name_l3": "Пентхаусы",
+      "slug": "penthouse",
+      "slug_l1": "penthouse",
+      "slug_l2": "penthouse",
+      "slug_l3": "penthouse",
+      "nameSingular": "Penthouse",
+      "nameSingular_l1": "بنتهاوس",
+      "nameSingular_l2": "顶楼公寓",
+      "nameSingular_l3": "Пентхаус"
+     }
+    ]
+   ],
+   "projectScore": 97,
+   "rankingTierSlot": 0,
+   "objectID": "11262041",
+   "_highlightResult": {
+    "externalID": {
+     "value": "3627",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Binghatti Skyflame 1",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "بن غاطي سكاي فليم 1",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "id": 7168519,
+   "ownerID": 2651057,
+   "externalID": "2163",
+   "type": "project",
+   "hash": "ec0ffc5",
+   "slug": "verdana_residence_4-2163",
+   "state": "active",
+   "purpose": "for-sale",
+   "_geoloc": {
+    "lat": 24.994741552627,
+    "lng": 55.176286676935
+   },
+   "geography": {
+    "lat": 24.994741552627,
+    "lng": 55.176286676935
+   },
+   "product": null,
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 79,
+     "level": 2,
+     "externalID": "5241",
+     "name": "Dubai Investments Park (DIP)",
+     "name_l1": "مجمع دبي للاستثمار",
+     "name_l2": "迪拜投资园区（DIP）",
+     "name_l3": "Дубай Инвестиционный Парк (ДИП)",
+     "slug": "/dubai/dubai-investment-park-dip",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 15852,
+     "level": 3,
+     "externalID": "12050",
+     "name": "Dubai Investments Park 1",
+     "name_l1": "مجمع دبي للاستثمار 1",
+     "name_l2": "1期",
+     "name_l3": "Фаза 1",
+     "slug": "/dubai/dubai-investment-park-dip/dubai-investment-park-1",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 87920,
+     "level": 4,
+     "externalID": "21028",
+     "name": "Verdana 4",
+     "name_l1": "فيردانا 4",
+     "name_l2": "Verdana 4",
+     "name_l3": "Verdana 4",
+     "slug": "/dubai/dubai-investment-park-dip/dubai-investment-park-1/verdana-4",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 87921,
+     "level": 5,
+     "externalID": "21029",
+     "name": "Verdana Residence 4",
+     "name_l1": "فيردانا ريزيدنس 4",
+     "name_l2": "Verdana Residence 4",
+     "name_l3": "Verdana Residence 4",
+     "slug": "/dubai/dubai-investment-park-dip/dubai-investment-park-1/verdana-4/verdana-residence-4",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "slug_l1": "residential",
+     "slug_l2": "residential",
+     "slug_l3": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "slug_l1": "apartments",
+     "slug_l2": "apartments",
+     "slug_l3": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "agency": {
+    "id": 29796597,
+    "objectID": 29796597,
+    "name": "Reportage Properties",
+    "name_l1": "ريبورتاج العقارية",
+    "name_l2": "Reportage Properties",
+    "name_l3": "Reportage Properties",
+    "externalID": "416",
+    "product": null,
+    "productScore": null,
+    "location": null,
+    "licenses": [],
+    "logo": {
+     "id": 676991301,
+     "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/676991301/e0e91d5716294fe1a1f0dc4b3c16a15d"
+    },
+    "logoID": 676991301,
+    "slug": "reportage-properties",
+    "slug_l1": "ريبورتاج-العقارية",
+    "slug_l2": "reportage-properties",
+    "slug_l3": "reportage-properties",
+    "tr": 4,
+    "active": true,
+    "createdAt": "2024-04-24T10:26:43.679625+00:00",
+    "commercialNumber": null,
+    "shortNumber": null,
+    "type": "developer"
+   },
+   "rooms": 0,
+   "baths": 0,
+   "area": 33.72380352,
+   "price": 456660.0,
+   "hidePrice": false,
+   "createdAt": 1731528000.0,
+   "updatedAt": 1732704936.550239,
+   "extraFields": {
+    "projectOwnerAgencyExternalID": "100062",
+    "dldPropertySK": "2163"
+   },
+   "coverPhoto": {
+    "id": 749526482,
+    "externalID": "12831",
+    "title": "Cover Image",
+    "orderIndex": 1,
+    "nimaScore": 6.093401910307162,
+    "main": true,
+    "type": "listing"
+   },
+   "photoIDs": [
+    749526482,
+    749526483,
+    749526484
+   ],
+   "amenities": [
+    {
+     "externalGroupID": 3,
+     "groupRank": 3,
+     "text": "Health and Fitness",
+     "text_l1": "الصحة و اللياقة",
+     "text_l2": "阳台",
+     "text_l3": "Здоровье и Фитнесс",
+     "amenities": [
+      {
+       "text": "Gym or Health Club",
+       "text_l1": "صالة رياضية أو نادي صحي",
+       "text_l2": "健身房或健身俱乐部",
+       "text_l3": "Тренажерный зал или оздоровительный клуб",
+       "value": "",
+       "rank": 3,
+       "slug": "gym-or-health-club",
+       "format": "checkbox",
+       "externalID": 22
+      },
+      {
+       "text": "Swimming Pool",
+       "text_l1": "مسبح",
+       "text_l2": "附近医院",
+       "text_l3": "Бассейн",
+       "value": "",
+       "rank": 6,
+       "slug": "swimming-pool",
+       "format": "checkbox",
+       "externalID": 45
+      }
+     ]
+    },
+    {
+     "externalGroupID": 2,
+     "groupRank": 4,
+     "text": "Recreation and Family",
+     "text_l1": "الترفيه والأسرة",
+     "text_l2": "景观",
+     "text_l3": "Отдых и семья",
+     "amenities": [
+      {
+       "text": "Kids Play Area",
+       "text_l1": "منطقة لعب للأطفال",
+       "text_l2": "儿童娱乐区",
+       "text_l3": "Детская игровая площадка",
+       "value": "",
+       "rank": 3,
+       "slug": "kids-play-area",
+       "format": "checkbox",
+       "externalID": 34
+      },
+      {
+       "text": "Barbeque Area",
+       "text_l1": "مكان مخصص للشواء",
+       "text_l2": "烧烤区",
+       "text_l3": "Зона барбекю",
+       "value": "",
+       "rank": 7,
+       "slug": "barbeque-area",
+       "format": "checkbox",
+       "externalID": 4
+      }
+     ]
+    }
+   ],
+   "completionDetails": {
+    "startDate": null,
+    "completionDate": 1853870400.0,
+    "completionPercentage": null
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": false,
+    "email": true,
+    "call": false
+   },
+   "title": "Verdana Residence 4",
+   "title_l1": "فيردانا ريزيدنس 4",
+   "description": "Verdana Residence 4 at Dubai Investments Park (DIP) offers an exclusive residential community featuring stylish apartments. The new development by Reportage Properties perfectly blends modern urban sophistication with tranquil natural surroundings. Conveniently located in DIP, the off-plan project ensures seamless connectivity to major landmarks while being surrounded by essential amenities such as parks, schools, mosques and community facilities, providing everything residents need within easy reach. \n\nEach apartment in Verdana Residence 4 is thoughtfully designed, featuring contemporary kitchen cabinetry, fully tiled bathrooms and built-in wardrobes. Residents also benefit from private parking, combining luxury with practicality for a secure and comfortable living experience.",
+   "description_l1": "أطلقت شركة ريبورتاج العقارية مشروع فيردانا ريزيدنس 4 في قلب مجمع دبي للاستثمار، وهو مشروع سكني قيد الإنشاء يجمع بين التجربة الحضرية الحديثة والبيئة الطبيعية الهادئة، ويضم شقق سكنية أنيقة، تتمتع بتصاميم داخلية فريدة، وتشتمل على مطابخ حديثة وحمامات فاخرة وخزائن مدمجة، كما سيستفيد السكان من مواقف السيارات الفسيحة. \n\nيتمتع مشروع فيردانا ريزيدنس 4 بموقع مثالي في مجمع دبي للاستثمار، على مقربة من العديد من المرافق الخدمية، بما في ذلك الحدائق والمدارس والمساجد والمرافق المجتمعية، فضلاً عن سهولة الوصول إلى المعالم والوجهات النابضة بالحياة في دبي، مما يضمن توفير تجربة سكن مريحة وهادئة، حيث تتوفر كافة متطلبات السكان في متناول اليد.",
+   "completionStatus": "under-construction",
+   "unitCategories": [
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "شقق",
+      "name_l2": "公寓",
+      "name_l3": "Апартаменты",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "slug_l3": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "شقة",
+      "nameSingular_l2": "公寓",
+      "nameSingular_l3": "Квартира"
+     }
+    ]
+   ],
+   "unitRooms": [
+    0,
+    1,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3
+   ],
+   "unitBaths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "hasPropertyAds": true,
+   "hasAllPropertyAdsCompleted": false,
+   "propertyAdCount": 37,
+   "locationCompletionStatus": "off-plan",
+   "completionProximity": -7,
+   "isProjectOwned": true,
+   "documents": [
+    {
+     "title": {
+      "en": null,
+      "ar": null,
+      "zh": null,
+      "ru": null
+     },
+     "fileSource": "https://bayut-production.s3.eu-central-1.amazonaws.com/file/1293523/92953cba1f61468aaa2412887e58d540.pdf",
+     "isActive": true,
+     "tag": "project_brochure"
+    }
+   ],
+   "tierSlot": 1,
+   "additionalCategories": [
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "شقق",
+      "name_l2": "公寓",
+      "name_l3": "Апартаменты",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "slug_l3": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "شقة",
+      "nameSingular_l2": "公寓",
+      "nameSingular_l3": "Квартира"
+     }
+    ],
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 5,
+      "level": 1,
+      "externalID": "3",
+      "name": "Villas",
+      "name_l1": "فلل",
+      "name_l2": "别墅",
+      "name_l3": "Виллы",
+      "slug": "villas",
+      "slug_l1": "villas",
+      "slug_l2": "villas",
+      "slug_l3": "villas",
+      "nameSingular": "Villa",
+      "nameSingular_l1": "فیلا",
+      "nameSingular_l2": "别墅",
+      "nameSingular_l3": "Вилла"
+     }
+    ],
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 8,
+      "level": 1,
+      "externalID": "16",
+      "name": "Townhouses",
+      "name_l1": "تاون هاوس",
+      "name_l2": "联排别墅",
+      "name_l3": "Таунхаусы",
+      "slug": "townhouses",
+      "slug_l1": "townhouses",
+      "slug_l2": "townhouses",
+      "slug_l3": "townhouses",
+      "nameSingular": "Townhouse",
+      "nameSingular_l1": "تاون هاوس",
+      "nameSingular_l2": "联排别墅",
+      "nameSingular_l3": "Таунхаус"
+     }
+    ]
+   ],
+   "projectScore": 92,
+   "rankingTierSlot": 0,
+   "objectID": "7168519",
+   "_highlightResult": {
+    "externalID": {
+     "value": "2163",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Verdana Residence 4",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "فيردانا ريزيدنس 4",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 2005,
+ "page": 0,
+ "nbPages": 669,
+ "hitsPerPage": 3,
+ "exhaustiveNbHits": true,
+ "exhaustive": {
+  "nbHits": true
+ },
+ "query": "",
+ "params": "hitsPerPage=3&filters=location.externalID:5002 AND completionStatus:under-construction",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "queue": 1,
+   "roundTrip": 28
+  },
+  "total": 0
+ },
+ "serverTimeMS": 2
+}

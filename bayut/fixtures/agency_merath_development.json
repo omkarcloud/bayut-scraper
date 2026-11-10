@@ -1,0 +1,372 @@
+{
+ "hits": [
+  {
+   "id": 29955185,
+   "name": "Merath Development",
+   "name_l1": "Merath Development",
+   "name_l2": "Merath Development",
+   "name_l3": "Merath Development",
+   "agentsCount": 0,
+   "externalID": "1351",
+   "product": null,
+   "productScore": null,
+   "location": null,
+   "licenses": [],
+   "logo": {
+    "id": 824389996,
+    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/824389996/af33f284a6d04d718d24741b0d8c3d6a"
+   },
+   "slug": "merath-development",
+   "slug_l1": "merath-development",
+   "slug_l2": "merath-development",
+   "slug_l3": "merath-development",
+   "locations": [],
+   "stats": {
+    "adsSaleCount": 4,
+    "adsRentCount": 0,
+    "agentCount": 0,
+    "trubrokerAgentCount": 0,
+    "trubrokerAgentsProfileImageIDs": [],
+    "serviceAreasCount": 2,
+    "categoryTypesCount": 2,
+    "categoryTypes": [
+     "Residential",
+     "Apartments"
+    ],
+    "categoryTypes_l1": [
+     "سكني",
+     "شقق"
+    ],
+    "categoryTypes_l2": [
+     "居住物业",
+     "公寓"
+    ],
+    "categoryTypes_l3": [
+     "Жилые",
+     "Апартаменты"
+    ],
+    "categoryTypes_l4": [
+     "Wohnen",
+     "Wohnungen"
+    ],
+    "categoryTypes_l5": [
+     "Résidentiel",
+     "Appartements"
+    ],
+    "categoryTypes_l6": [
+     "Residencial",
+     "Apartamentos"
+    ],
+    "categoryTypes_l7": [
+     "Residenziale",
+     "Appartamenti"
+    ],
+    "categoryTypes_l8": [
+     "Residentieel",
+     "Appartementen"
+    ],
+    "categoryTypes_l9": [
+     "Bolig",
+     "Lejligheder"
+    ],
+    "categoryTypes_l10": [
+     "Bolig",
+     "Leiligheter"
+    ],
+    "categoryTypes_l11": [
+     "Bostad",
+     "Lägenheter"
+    ],
+    "categoryTypes_l12": [
+     "Asuinkiinteistöt",
+     "Asunnot"
+    ],
+    "categoryTypes_l13": [
+     "Residencial",
+     "Apartamentos"
+    ],
+    "categoryTypes_l14": [
+     "Κατοικίες",
+     "Διαμερίσματα"
+    ],
+    "categoryTypesSample": [
+     "Residential",
+     "Apartments"
+    ],
+    "categoryTypesSample_l1": [
+     "سكني",
+     "شقق"
+    ],
+    "categoryTypesSample_l2": [
+     "居住物业",
+     "公寓"
+    ],
+    "categoryTypesSample_l3": [
+     "Жилые",
+     "Апартаменты"
+    ],
+    "categoryTypesSample_l4": [
+     "Wohnen",
+     "Wohnungen"
+    ],
+    "categoryTypesSample_l5": [
+     "Résidentiel",
+     "Appartements"
+    ],
+    "categoryTypesSample_l6": [
+     "Residencial",
+     "Apartamentos"
+    ],
+    "categoryTypesSample_l7": [
+     "Residenziale",
+     "Appartamenti"
+    ],
+    "categoryTypesSample_l8": [
+     "Residentieel",
+     "Appartementen"
+    ],
+    "categoryTypesSample_l9": [
+     "Bolig",
+     "Lejligheder"
+    ],
+    "categoryTypesSample_l10": [
+     "Bolig",
+     "Leiligheter"
+    ],
+    "categoryTypesSample_l11": [
+     "Bostad",
+     "Lägenheter"
+    ],
+    "categoryTypesSample_l12": [
+     "Asuinkiinteistöt",
+     "Asunnot"
+    ],
+    "categoryTypesSample_l13": [
+     "Residencial",
+     "Apartamentos"
+    ],
+    "categoryTypesSample_l14": [
+     "Κατοικίες",
+     "Διαμερίσματα"
+    ],
+    "serviceAreas": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l1": [
+     "جزيرة ياس",
+     "دبي الجنوب"
+    ],
+    "serviceAreas_l2": [
+     "雅斯岛",
+     "迪拜南部街区"
+    ],
+    "serviceAreas_l3": [
+     "Яс Айленд",
+     "Дубай Саут"
+    ],
+    "serviceAreas_l4": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l5": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l6": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l7": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l8": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l9": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l10": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l11": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l12": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l13": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreas_l14": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreasSample": [
+     "Yas Island",
+     "Dubai South"
+    ],
+    "serviceAreasSample_l1": [
+     "جزيرة ياس",
+     "دبي الجنوب"
+    ],
+    "serviceAreasSample_l2": [
+     "雅斯岛",
+     "迪拜南部街区"
+    ],
+    "serviceAreasSample_l3": [
+     "Яс Айленд",
+     "Дубай Саут"
+    ],
+    "adsCount": 4,
+    "purposes": [
+     "for-sale"
+    ],
+    "locationsWithAds": [
+     1,
+     2,
+     3,
+     90438,
+     18375,
+     87786,
+     89243,
+     87221,
+     3355,
+     62
+    ]
+   },
+   "phoneNumber": {},
+   "contactMethodAvailability": {
+    "sms": false,
+    "email": false,
+    "call": false
+   },
+   "createdAt": "2026-03-03T08:09:39.970770+00:00",
+   "language_codes": [],
+   "speciality_codes": [],
+   "isFeatured": false,
+   "type": "developer",
+   "hash": "b71b24e",
+   "agencySg": null,
+   "exStatus": 0,
+   "eliteStatus": false,
+   "purpose": [
+    "for-sale"
+   ],
+   "roles": [],
+   "objectID": "29955185",
+   "_highlightResult": {
+    "id": {
+     "value": "29955185",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name": {
+     "value": "Merath Development",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l1": {
+     "value": "Merath Development",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "Merath Development",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Merath Development",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "1351",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "stats": {
+     "locationsWithAds": [
+      {
+       "value": "1",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90438",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "18375",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87786",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89243",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87221",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3355",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "62",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "hitsPerPage=1&filters=slug:merath-development",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 27
+  },
+  "total": 0
+ }
+}

@@ -1,0 +1,1157 @@
+{
+ "hits": [
+  {
+   "id": 13566165,
+   "ownerID": 2401468,
+   "userExternalID": "2401468",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.011324214142,
+    "lng": 55.433246865556
+   },
+   "geography": {
+    "lat": 25.011324214142,
+    "lng": 55.433246865556
+   },
+   "purpose": "for-sale",
+   "price": 8599000.0,
+   "product": "superhot",
+   "productLabel": "default",
+   "productScore": 0,
+   "productVariant": "Signature 14 days",
+   "referenceNumber": "101720-6VRrba",
+   "title": "Luxury Standalone Villa | Only 10% Downpayment | Best Price | No Commission",
+   "title_l1": "فيلا فاخرة مستقلة | دفعة أولى ١٠٪ فقط | أفضل سعر | بدون عمولة",
+   "title_l2": "位于山谷小区，Ovelle 5 卧室的别墅 8599000 AED - 17074730",
+   "title_l3": "Вилла в Валли，Ovelle, 5 спален, 8599000 AED - 17074730",
+   "title_l4": "Villa in The Valley by Emaar，Ovelle, 5 schlafzimmer, 8599000 AED - 17074730",
+   "title_l5": "Villa à The Valley by Emaar，Ovelle, 5 chambres, 8599000 AED - 17074730",
+   "title_l6": "Villa en The Valley by Emaar，Ovelle, 5 dormitorios, 8599000 AED - 17074730",
+   "title_l7": "Villa a The Valley by Emaar，Ovelle, 5 camere da letto, 8599000 AED - 17074730",
+   "title_l8": "Villa in The Valley by Emaar，Ovelle, 5 slaapkamers, 8599000 AED - 17074730",
+   "title_l9": "Villa i The Valley by Emaar，Ovelle, 5 soveværelser, 8599000 AED - 17074730",
+   "title_l10": "Villa i The Valley by Emaar，Ovelle, 5 soverom, 8599000 AED - 17074730",
+   "title_l11": "Villa i The Valley by Emaar，Ovelle, 5 sovrum, 8599000 AED - 17074730",
+   "title_l12": "Huvila kohteessa The Valley by Emaar，Ovelle, 5 makuuhuonetta, 8599000 AED - 17074730",
+   "title_l13": "Moradia em The Valley by Emaar，Ovelle, 5 quartos, 8599000 AED - 17074730",
+   "title_l14": "Βίλα σε The Valley by Emaar，Ovelle, 5 υπνοδωμάτια, 8599000 AED - 17074730",
+   "externalID": "17074730",
+   "slug": "details_17074730",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 16770,
+     "level": 2,
+     "externalID": "12790",
+     "name": "The Valley by Emaar",
+     "name_l1": "ذا فالي من اعمار",
+     "name_l2": "山谷小区",
+     "name_l3": " Валли",
+     "slug": "/dubai/the-valley-by-emaar",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 89820,
+     "level": 3,
+     "externalID": "22790",
+     "name": "Ovelle",
+     "name_l1": "أوفيل",
+     "name_l2": "Ovelle",
+     "name_l3": "Ovelle",
+     "slug": "/dubai/the-valley-by-emaar/ovelle",
+     "type": "neighbourhood"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 5,
+     "level": 1,
+     "externalID": "3",
+     "name": "Villas",
+     "name_l1": "فلل",
+     "name_l2": "别墅",
+     "name_l3": "Виллы",
+     "slug": "villas",
+     "nameSingular": "Villa",
+     "nameSingular_l1": "فیلا",
+     "nameSingular_l2": "别墅",
+     "nameSingular_l3": "Вилла"
+    }
+   ],
+   "project": {
+    "id": 10095478,
+    "externalID": "3288",
+    "completionStatus": "under-construction",
+    "agency": {
+     "externalID": "12",
+     "name": "Emaar",
+     "name_l1": "Emaar",
+     "slug": "emaar"
+    }
+   },
+   "createdAt": 1793694731.0,
+   "updatedAt": 1794047853.0,
+   "reactivatedAt": 1793694731.0,
+   "rooms": 5,
+   "baths": 7,
+   "area": 523.8895328640001,
+   "coverPhoto": {
+    "id": 877414331,
+    "title": "OVELLE_TV_BR9. jpg"
+   },
+   "photoCount": 10,
+   "phoneNumber": {
+    "mobile": "+971503385063",
+    "phone": "+97143260575",
+    "whatsapp": "971545695868",
+    "proxyMobile": "+971589982881",
+    "proxyPhone": "+97144483993",
+    "phoneNumbers": [
+     "+97143260575"
+    ],
+    "mobileNumbers": [
+     "+971503385063"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Tony Yannieh",
+   "agency": {
+    "name": "First & Top Real Estate",
+    "name_l1": "فيرست آند توب العقارية",
+    "id": 29681262,
+    "externalID": "101720",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 331956472
+    },
+    "logoID": 331956472,
+    "slug": "first-top-real-estate-101720",
+    "tr": 3,
+    "type": "agency"
+   },
+   "hash": "76d8228",
+   "isVerified": true,
+   "verification": {
+    "eligible": true,
+    "status": "verified",
+    "verifiedAt": 1794047853.0
+   },
+   "verifiedScore": 0,
+   "trucheckedScore": 1794047853.0,
+   "furnishingStatus": "unfurnished",
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2401468",
+    "name": "Tony Yannieh",
+    "user_image_id": 741104684,
+    "isTruBroker": true,
+    "slug": "tony-yannieh-2401468",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "offplanDetails": {
+    "saleType": "new"
+   },
+   "completionStatus": "under-construction",
+   "completionDetails": {
+    "completionDate": 1893355200.0,
+    "completionPercentage": 2.0
+   },
+   "paymentPlanSummaries": [
+    {
+     "preHandoverPercentageSum": 80,
+     "postHandoverPercentageSum": 20,
+     "breakdown": {
+      "downPaymentPercentage": 10,
+      "preHandoverPercentage": 70,
+      "handoverPercentage": 20,
+      "postHandoverPercentage": null
+     }
+    }
+   ],
+   "hasProject": true,
+   "adFeatures": [
+    "24 hours concierge",
+    "atm facility",
+    "balcony or terrace",
+    "barbeque area",
+    "broadband internet",
+    "business center",
+    "cctv security",
+    "central heating",
+    "centrally air-conditioned",
+    "cleaning services",
+    "conference room",
+    "day care center",
+    "double glazed windows",
+    "electricity backup",
+    "first aid medical center",
+    "freehold",
+    "gated community",
+    "gym or health club",
+    "intercom",
+    "jacuzzi",
+    "kids play area",
+    "laundry facility",
+    "laundry room",
+    "lawn or garden",
+    "luxury",
+    "maids room",
+    "maintenance staff",
+    "modern",
+    "no commission",
+    "parking spaces",
+    "satellite/cable tv",
+    "sauna",
+    "security staff",
+    "steam room",
+    "storage areas",
+    "study room",
+    "swimming pool",
+    "waste disposal"
+   ],
+   "indyScore": 610,
+   "indyScore_l1": 610,
+   "indyScore_l2": 487,
+   "indyScore_l3": 487,
+   "photoIDs": [
+    877414331,
+    877414330,
+    877414332,
+    877414333,
+    877414334,
+    877414335,
+    877414336,
+    877414337,
+    877414338,
+    877414339
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 2,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 1794047853.0,
+   "truBrokerScore": 0,
+   "popularBiScore": 610,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 1794047853.0,
+   "v6ReactivatedAt": 0,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 1,
+   "objectID": "13566165",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "101720-6VRrba",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Luxury Standalone Villa | Only 10% Downpayment | Best Price | No Commission",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "فيلا فاخرة مستقلة | دفعة أولى ١٠٪ فقط | أفضل سعر | بدون عمولة",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于山谷小区，Ovelle 5 卧室的别墅 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Вилла в Валли，Ovelle, 5 спален, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Villa in The Valley by Emaar，Ovelle, 5 schlafzimmer, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Villa à The Valley by Emaar，Ovelle, 5 chambres, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Villa en The Valley by Emaar，Ovelle, 5 dormitorios, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Villa a The Valley by Emaar，Ovelle, 5 camere da letto, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Villa in The Valley by Emaar，Ovelle, 5 slaapkamers, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Villa i The Valley by Emaar，Ovelle, 5 soveværelser, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Villa i The Valley by Emaar，Ovelle, 5 soverom, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Villa i The Valley by Emaar，Ovelle, 5 sovrum, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Huvila kohteessa The Valley by Emaar，Ovelle, 5 makuuhuonetta, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Moradia em The Valley by Emaar，Ovelle, 5 quartos, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Βίλα σε The Valley by Emaar，Ovelle, 5 υπνοδωμάτια, 8599000 AED - 17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "17074730",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "id": 13565845,
+   "ownerID": 2401468,
+   "userExternalID": "2401468",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.007860315254,
+    "lng": 55.429840427816
+   },
+   "geography": {
+    "lat": 25.007860315254,
+    "lng": 55.429840427816
+   },
+   "purpose": "for-sale",
+   "price": 7030000.0,
+   "product": "superhot",
+   "productLabel": "default",
+   "productScore": 0,
+   "productVariant": "Signature 14 days",
+   "referenceNumber": "101720-lVFLMK",
+   "title": "Spacious Luxury Standalone Villa | Direct From Emaar | Best Price | 0% Commission",
+   "title_l1": "فيلا فاخرة واسعة مستقلة | مباشرة من إعمار | أفضل سعر | بدون عمولة",
+   "title_l2": "位于山谷小区，Avelia 4 卧室的别墅 7030000 AED - 17074383",
+   "title_l3": "Вилла в Валли，Avelia, 4 cпальни, 7030000 AED - 17074383",
+   "title_l4": "Villa in The Valley by Emaar，Avelia, 4 schlafzimmer, 7030000 AED - 17074383",
+   "title_l5": "Villa à The Valley by Emaar，Avelia, 4 chambres, 7030000 AED - 17074383",
+   "title_l6": "Villa en The Valley by Emaar，Avelia, 4 dormitorios, 7030000 AED - 17074383",
+   "title_l7": "Villa a The Valley by Emaar，Avelia, 4 camere da letto, 7030000 AED - 17074383",
+   "title_l8": "Villa in The Valley by Emaar，Avelia, 4 slaapkamers, 7030000 AED - 17074383",
+   "title_l9": "Villa i The Valley by Emaar，Avelia, 4 soveværelser, 7030000 AED - 17074383",
+   "title_l10": "Villa i The Valley by Emaar，Avelia, 4 soverom, 7030000 AED - 17074383",
+   "title_l11": "Villa i The Valley by Emaar，Avelia, 4 sovrum, 7030000 AED - 17074383",
+   "title_l12": "Huvila kohteessa The Valley by Emaar，Avelia, 4 makuuhuonetta, 7030000 AED - 17074383",
+   "title_l13": "Moradia em The Valley by Emaar，Avelia, 4 quartos, 7030000 AED - 17074383",
+   "title_l14": "Βίλα σε The Valley by Emaar，Avelia, 4 υπνοδωμάτια, 7030000 AED - 17074383",
+   "externalID": "17074383",
+   "slug": "spacious-luxury-standalone-villa-direct-from-emaar-best-price-0-commission-17074383",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 16770,
+     "level": 2,
+     "externalID": "12790",
+     "name": "The Valley by Emaar",
+     "name_l1": "ذا فالي من اعمار",
+     "name_l2": "山谷小区",
+     "name_l3": " Валли",
+     "slug": "/dubai/the-valley-by-emaar",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 89821,
+     "level": 3,
+     "externalID": "22791",
+     "name": "Avelia",
+     "name_l1": "افيليا",
+     "name_l2": "Avelia",
+     "name_l3": "Avelia",
+     "slug": "/dubai/the-valley-by-emaar/avelia",
+     "type": "neighbourhood"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 5,
+     "level": 1,
+     "externalID": "3",
+     "name": "Villas",
+     "name_l1": "فلل",
+     "name_l2": "别墅",
+     "name_l3": "Виллы",
+     "slug": "villas",
+     "nameSingular": "Villa",
+     "nameSingular_l1": "فیلا",
+     "nameSingular_l2": "别墅",
+     "nameSingular_l3": "Вилла"
+    }
+   ],
+   "project": {
+    "id": 10095476,
+    "externalID": "3286",
+    "completionStatus": "under-construction",
+    "agency": {
+     "externalID": "12",
+     "name": "Emaar",
+     "name_l1": "Emaar",
+     "slug": "emaar"
+    }
+   },
+   "createdAt": 1793693742.0,
+   "updatedAt": 1794047616.0,
+   "reactivatedAt": 1793693742.0,
+   "rooms": 4,
+   "baths": 5,
+   "area": 404.694932544,
+   "coverPhoto": {
+    "id": 877409105,
+    "title": "AVELIA_TV_BR15. jpg"
+   },
+   "photoCount": 10,
+   "phoneNumber": {
+    "mobile": "+971503385063",
+    "phone": "+97143260575",
+    "whatsapp": "971545695868",
+    "proxyPhone": "+97144483993",
+    "phoneNumbers": [
+     "+97143260575"
+    ],
+    "mobileNumbers": [
+     "+971503385063"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Tony Yannieh",
+   "agency": {
+    "name": "First & Top Real Estate",
+    "name_l1": "فيرست آند توب العقارية",
+    "id": 29681262,
+    "externalID": "101720",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 331956472
+    },
+    "logoID": 331956472,
+    "slug": "first-top-real-estate-101720",
+    "tr": 3,
+    "type": "agency"
+   },
+   "hash": "855fc01",
+   "isVerified": true,
+   "verification": {
+    "eligible": true,
+    "status": "verified",
+    "verifiedAt": 1794047616.0
+   },
+   "verifiedScore": 0,
+   "trucheckedScore": 1794047616.0,
+   "furnishingStatus": "unfurnished",
+   "extraFields": {
+    "dldBuildingNK": "tabu-844414552"
+   },
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2401468",
+    "name": "Tony Yannieh",
+    "user_image_id": 741104684,
+    "isTruBroker": true,
+    "slug": "tony-yannieh-2401468",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "offplanDetails": {
+    "saleType": "new"
+   },
+   "completionStatus": "under-construction",
+   "completionDetails": {
+    "completionDate": 1893355200.0,
+    "completionPercentage": 2.0
+   },
+   "paymentPlanSummaries": [
+    {
+     "preHandoverPercentageSum": 80,
+     "postHandoverPercentageSum": 20,
+     "breakdown": {
+      "downPaymentPercentage": 10,
+      "preHandoverPercentage": 70,
+      "handoverPercentage": 20,
+      "postHandoverPercentage": null
+     }
+    }
+   ],
+   "hasProject": true,
+   "adFeatures": [
+    "24 hours concierge",
+    "atm facility",
+    "balcony or terrace",
+    "barbeque area",
+    "broadband internet",
+    "business center",
+    "cctv security",
+    "central heating",
+    "centrally air-conditioned",
+    "cleaning services",
+    "conference room",
+    "day care center",
+    "double glazed windows",
+    "electricity backup",
+    "first aid medical center",
+    "freehold",
+    "gated community",
+    "gym or health club",
+    "intercom",
+    "jacuzzi",
+    "kids play area",
+    "laundry facility",
+    "laundry room",
+    "lawn or garden",
+    "luxury",
+    "maids room",
+    "maintenance staff",
+    "modern",
+    "parking spaces",
+    "satellite/cable tv",
+    "sauna",
+    "security staff",
+    "spacious",
+    "steam room",
+    "storage areas",
+    "study room",
+    "swimming pool",
+    "waste disposal"
+   ],
+   "indyScore": 607,
+   "indyScore_l1": 607,
+   "indyScore_l2": 484,
+   "indyScore_l3": 484,
+   "photoIDs": [
+    877409105,
+    877409106,
+    877409107,
+    877409108,
+    877409109,
+    877409110,
+    877409111,
+    877409112,
+    877409113,
+    877409114
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 2,
+   "plotArea": 519.9783148800001,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 1794047616.0,
+   "truBrokerScore": 0,
+   "popularBiScore": 607,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 1794047616.0,
+   "v6ReactivatedAt": 0,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 1,
+   "objectID": "13565845",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "101720-lVFLMK",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Spacious Luxury Standalone Villa | Direct From Emaar | Best Price | 0% Commission",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "فيلا فاخرة واسعة مستقلة | مباشرة من إعمار | أفضل سعر | بدون عمولة",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于山谷小区，Avelia 4 卧室的别墅 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Вилла в Валли，Avelia, 4 cпальни, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Villa in The Valley by Emaar，Avelia, 4 schlafzimmer, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Villa à The Valley by Emaar，Avelia, 4 chambres, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Villa en The Valley by Emaar，Avelia, 4 dormitorios, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Villa a The Valley by Emaar，Avelia, 4 camere da letto, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Villa in The Valley by Emaar，Avelia, 4 slaapkamers, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Villa i The Valley by Emaar，Avelia, 4 soveværelser, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Villa i The Valley by Emaar，Avelia, 4 soverom, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Villa i The Valley by Emaar，Avelia, 4 sovrum, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Huvila kohteessa The Valley by Emaar，Avelia, 4 makuuhuonetta, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Moradia em The Valley by Emaar，Avelia, 4 quartos, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Βίλα σε The Valley by Emaar，Avelia, 4 υπνοδωμάτια, 7030000 AED - 17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "17074383",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "id": 13556036,
+   "ownerID": 2401468,
+   "userExternalID": "2401468",
+   "sourceID": 1,
+   "state": "active",
+   "_geoloc": {
+    "lat": 25.06573933,
+    "lng": 55.21738904
+   },
+   "geography": {
+    "lat": 25.06573933,
+    "lng": 55.21738904
+   },
+   "purpose": "for-sale",
+   "price": 1480000.0,
+   "product": "superhot",
+   "productLabel": "default",
+   "productScore": 0,
+   "productVariant": "Signature 14 days",
+   "referenceNumber": "101720-EZA2po",
+   "title": "Limited Offer | Luxury Apartment | Only 10% Downpayment | 0% Commission",
+   "title_l1": "عرض محدود | شقة فاخرة | دفعة أولى ١٠٪ فقط | عمولة ٠٪",
+   "title_l2": "位于朱美拉环形村(JVC)，JVC第11区，Binghatti Etherea 2 卧室的公寓 1480000 AED - 17064424",
+   "title_l3": "Квартира в Джумейра Вилладж Серкл (ДЖВС)，JVC Дистрикт 11，Binghatti Etherea, 2 cпальни, 1480000 AED - 17064424",
+   "title_l4": "Wohnung in Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 schlafzimmer, 1480000 AED - 17064424",
+   "title_l5": "Appartement à Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 chambres, 1480000 AED - 17064424",
+   "title_l6": "Apartamento en Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 dormitorios, 1480000 AED - 17064424",
+   "title_l7": "Appartamento a Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 camere da letto, 1480000 AED - 17064424",
+   "title_l8": "Appartement in Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 slaapkamers, 1480000 AED - 17064424",
+   "title_l9": "Lejlighed i Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 soveværelser, 1480000 AED - 17064424",
+   "title_l10": "Leilighet i Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 soverom, 1480000 AED - 17064424",
+   "title_l11": "Lägenhet i Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 sovrum, 1480000 AED - 17064424",
+   "title_l12": "Asunto kohteessa Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 makuuhuonetta, 1480000 AED - 17064424",
+   "title_l13": "Apartamento em Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 quartos, 1480000 AED - 17064424",
+   "title_l14": "Διαμέρισμα σε Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 υπνοδωμάτια, 1480000 AED - 17064424",
+   "externalID": "17064424",
+   "slug": "limited-offer-luxury-apartment-only-10-downpayment-0-commission-17064424",
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 59,
+     "level": 2,
+     "externalID": "5416",
+     "name": "Jumeirah Village Circle (JVC)",
+     "name_l1": "قرية جميرا الدائرية",
+     "name_l2": "朱美拉环形村(JVC)",
+     "name_l3": "Джумейра Вилладж Серкл (ДЖВС)",
+     "slug": "/dubai/jumeirah-village-circle-jvc",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 2758,
+     "level": 3,
+     "externalID": "11435",
+     "name": "JVC District 11",
+     "name_l1": "الضاحية 11",
+     "name_l2": "JVC第11区",
+     "name_l3": "JVC Дистрикт 11",
+     "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-11",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 90129,
+     "level": 4,
+     "externalID": "23100",
+     "name": "Binghatti Etherea",
+     "name_l1": "بن غاطي إيثيريا",
+     "name_l2": "Binghatti Etherea",
+     "name_l3": "Binghatti Etherea",
+     "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-11/binghatti-etherea",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "project": {
+    "id": 10828482,
+    "externalID": "3505",
+    "completionStatus": "under-construction",
+    "agency": {
+     "externalID": "85",
+     "name": "Binghatti",
+     "name_l1": "بن غاطي للتطوير العقاري",
+     "slug": "binghatti"
+    }
+   },
+   "createdAt": 1793617492.0,
+   "updatedAt": 1794047485.0,
+   "reactivatedAt": 1793617492.0,
+   "rooms": 2,
+   "baths": 3,
+   "area": 81.29016,
+   "coverPhoto": {
+    "id": 877226406,
+    "title": "25017_Etheria_Final_Aerial_N001. jpeg"
+   },
+   "photoCount": 21,
+   "phoneNumber": {
+    "mobile": "+971503385063",
+    "phone": "+97143260575",
+    "whatsapp": "971545695868",
+    "proxyPhone": "+97144483993",
+    "phoneNumbers": [
+     "+97143260575"
+    ],
+    "mobileNumbers": [
+     "+971503385063"
+    ]
+   },
+   "contactMethodAvailability": {
+    "whatsapp": true,
+    "sms": true,
+    "email": true,
+    "call": true
+   },
+   "contactName": "Tony Yannieh",
+   "agency": {
+    "name": "First & Top Real Estate",
+    "name_l1": "فيرست آند توب العقارية",
+    "id": 29681262,
+    "externalID": "101720",
+    "location": "Dubai",
+    "location_l1": "دبي",
+    "location_l2": "迪拜",
+    "location_l3": "Дубай",
+    "logo": {
+     "id": 331956472
+    },
+    "logoID": 331956472,
+    "slug": "first-top-real-estate-101720",
+    "tr": 3,
+    "type": "agency"
+   },
+   "hash": "46088e1",
+   "isVerified": true,
+   "verification": {
+    "eligible": true,
+    "status": "verified",
+    "verifiedAt": 1794047472.0
+   },
+   "verifiedScore": 0,
+   "trucheckedScore": 1794047472.0,
+   "furnishingStatus": "unfurnished",
+   "extraFields": {
+    "dldBuildingNK": "tabu-880705573"
+   },
+   "type": "property",
+   "ownerAgent": {
+    "externalID": "2401468",
+    "name": "Tony Yannieh",
+    "user_image_id": 741104684,
+    "isTruBroker": true,
+    "slug": "tony-yannieh-2401468",
+    "state": "active",
+    "isProfileCompleted": true,
+    "isComplete": true
+   },
+   "offplanDetails": {
+    "saleType": "new"
+   },
+   "completionStatus": "under-construction",
+   "completionDetails": {
+    "completionDate": 1830196800.0,
+    "completionPercentage": 7.0
+   },
+   "paymentPlanSummaries": [
+    {
+     "preHandoverPercentageSum": 70,
+     "postHandoverPercentageSum": 30,
+     "breakdown": {
+      "downPaymentPercentage": 20,
+      "preHandoverPercentage": 50,
+      "handoverPercentage": 30,
+      "postHandoverPercentage": null
+     }
+    }
+   ],
+   "hasProject": true,
+   "adFeatures": [
+    "24 hours concierge",
+    "atm facility",
+    "balcony or terrace",
+    "barbeque area",
+    "broadband internet",
+    "business center",
+    "cctv security",
+    "central heating",
+    "centrally air-conditioned",
+    "cleaning services",
+    "conference room",
+    "covered parking",
+    "day care center",
+    "double glazed windows",
+    "electricity backup",
+    "family",
+    "first aid medical center",
+    "freehold",
+    "gym or health club",
+    "intercom",
+    "jacuzzi",
+    "kids play area",
+    "laundry facility",
+    "laundry room",
+    "lawn or garden",
+    "lobby in building",
+    "luxury",
+    "maintenance staff",
+    "modern",
+    "parking spaces",
+    "reception",
+    "satellite/cable tv",
+    "sauna",
+    "security staff",
+    "service elevators",
+    "steam room",
+    "storage areas",
+    "swimming pool",
+    "waste disposal"
+   ],
+   "indyScore": 640,
+   "indyScore_l1": 640,
+   "indyScore_l2": 522,
+   "indyScore_l3": 522,
+   "photoIDs": [
+    877226406,
+    877226407,
+    877226408,
+    877226409,
+    877226410,
+    877226411,
+    877226412,
+    877226413,
+    877226414,
+    877226415,
+    877226416,
+    877226417,
+    877226418,
+    877226419,
+    877226420,
+    877226421,
+    877226422,
+    877226423,
+    877226424,
+    877226425,
+    877226426
+   ],
+   "hidePrice": false,
+   "locationPurposeTier": 1,
+   "verifiedPopularScore": 0,
+   "trucheckedPopularScore": 1794047472.0,
+   "truBrokerScore": 0,
+   "popularBiScore": 640,
+   "v6VerifiedScore": 0,
+   "v6TruCheckedScore": 1794047472.0,
+   "v6ReactivatedAt": 0,
+   "v6RentTermRank": 0,
+   "truBrokerBIRankingScore": 1,
+   "objectID": "13556036",
+   "_highlightResult": {
+    "referenceNumber": {
+     "value": "101720-EZA2po",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Limited Offer | Luxury Apartment | Only 10% Downpayment | 0% Commission",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "عرض محدود | شقة فاخرة | دفعة أولى ١٠٪ فقط | عمولة ٠٪",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l2": {
+     "value": "位于朱美拉环形村(JVC)，JVC第11区，Binghatti Etherea 2 卧室的公寓 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l3": {
+     "value": "Квартира в Джумейра Вилладж Серкл (ДЖВС)，JVC Дистрикт 11，Binghatti Etherea, 2 cпальни, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l4": {
+     "value": "Wohnung in Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 schlafzimmer, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l5": {
+     "value": "Appartement à Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 chambres, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l6": {
+     "value": "Apartamento en Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 dormitorios, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l7": {
+     "value": "Appartamento a Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 camere da letto, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l8": {
+     "value": "Appartement in Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 slaapkamers, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l9": {
+     "value": "Lejlighed i Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 soveværelser, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l10": {
+     "value": "Leilighet i Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 soverom, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l11": {
+     "value": "Lägenhet i Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 sovrum, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l12": {
+     "value": "Asunto kohteessa Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 makuuhuonetta, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l13": {
+     "value": "Apartamento em Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 quartos, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l14": {
+     "value": "Διαμέρισμα σε Jumeirah Village Circle (JVC)，JVC District 11，Binghatti Etherea, 2 υπνοδωμάτια, 1480000 AED - 17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "17064424",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 43,
+ "page": 0,
+ "nbPages": 15,
+ "hitsPerPage": 3,
+ "exhaustiveNbHits": true,
+ "exhaustive": {
+  "nbHits": true
+ },
+ "query": "",
+ "params": "hitsPerPage=3&filters=ownerID:2401468&attributesToRetrieve=*",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 26
+  },
+  "total": 0
+ },
+ "serverTimeMS": 1
+}

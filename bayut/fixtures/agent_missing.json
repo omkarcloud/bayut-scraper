@@ -1,0 +1,22 @@
+{
+ "hits": [],
+ "nbHits": 0,
+ "page": 0,
+ "nbPages": 0,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "hitsPerPage=1&filters=externalID:999999999",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 25
+  },
+  "total": 0
+ }
+}

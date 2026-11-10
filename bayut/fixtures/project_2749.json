@@ -1,0 +1,394 @@
+{
+ "hits": [
+  {
+   "id": 8642097,
+   "ownerID": null,
+   "externalID": "2749",
+   "type": "project",
+   "hash": "a9ef97c",
+   "slug": "beverly_grande-2749",
+   "state": "active",
+   "purpose": "for-sale",
+   "_geoloc": {
+    "lat": 25.045056,
+    "lng": 55.230667
+   },
+   "geography": {
+    "lat": 25.045056,
+    "lng": 55.230667
+   },
+   "product": null,
+   "location": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "5001",
+     "name": "UAE",
+     "name_l1": "الإمارات",
+     "name_l2": "阿联酋",
+     "name_l3": "ОАЭ",
+     "slug": "/uae"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "5002",
+     "name": "Dubai",
+     "name_l1": "دبي",
+     "name_l2": "迪拜",
+     "name_l3": "Дубай",
+     "slug": "/dubai"
+    },
+    {
+     "id": 268,
+     "level": 2,
+     "externalID": "7153",
+     "name": "Motor City",
+     "name_l1": "موتور سيتي",
+     "name_l2": "汽车城",
+     "name_l3": "Мотор Сити",
+     "slug": "/dubai/motor-city",
+     "type": "neighbourhood"
+    },
+    {
+     "id": 89108,
+     "level": 3,
+     "externalID": "22092",
+     "name": "Beverly Grande",
+     "name_l1": "بيفرلي غراندي",
+     "name_l2": "Beverly Grande",
+     "name_l3": "Beverly Grande",
+     "slug": "/dubai/motor-city/beverly-grande",
+     "type": "condo-building"
+    }
+   ],
+   "category": [
+    {
+     "id": 1,
+     "level": 0,
+     "externalID": "1",
+     "name": "Residential",
+     "name_l1": "سكني",
+     "name_l2": "居住物业",
+     "name_l3": "Жилые",
+     "slug": "residential",
+     "slug_l1": "residential",
+     "slug_l2": "residential",
+     "slug_l3": "residential",
+     "nameSingular": "Residential",
+     "nameSingular_l1": "سكني",
+     "nameSingular_l2": "居住物业",
+     "nameSingular_l3": "Жилые"
+    },
+    {
+     "id": 2,
+     "level": 1,
+     "externalID": "4",
+     "name": "Apartments",
+     "name_l1": "شقق",
+     "name_l2": "公寓",
+     "name_l3": "Апартаменты",
+     "slug": "apartments",
+     "slug_l1": "apartments",
+     "slug_l2": "apartments",
+     "slug_l3": "apartments",
+     "nameSingular": "Apartment",
+     "nameSingular_l1": "شقة",
+     "nameSingular_l2": "公寓",
+     "nameSingular_l3": "Квартира"
+    }
+   ],
+   "agency": {
+    "id": 29797096,
+    "objectID": 29797096,
+    "name": "HMB Homes",
+    "name_l1": "إتش إم بي هومز للتطوير العقاري",
+    "name_l2": "HMB Homes",
+    "name_l3": "HMB Homes",
+    "externalID": "932",
+    "product": null,
+    "productScore": null,
+    "location": null,
+    "licenses": [],
+    "logo": {
+     "id": 676991522,
+     "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/676991522/8102b2b4fa6a4f66a9f187ed290e6205"
+    },
+    "logoID": 676991522,
+    "slug": "hmb-homes",
+    "slug_l1": "إتش-إم-بي-هومز-للتطوير-العقاري",
+    "slug_l2": "hmb-homes",
+    "slug_l3": "hmb-homes",
+    "tr": 4,
+    "active": true,
+    "createdAt": "2024-04-24T10:26:52.438112+00:00",
+    "commercialNumber": null,
+    "shortNumber": null,
+    "type": "developer"
+   },
+   "rooms": 0,
+   "baths": 0,
+   "area": 38.18314944,
+   "price": 791000.0,
+   "hidePrice": false,
+   "createdAt": 1748980800.0,
+   "updatedAt": 1749469716.218962,
+   "extraFields": {
+    "dldPropertySK": "2749"
+   },
+   "coverPhoto": {
+    "id": 839879772,
+    "externalID": "20625",
+    "title": "Cover Image",
+    "orderIndex": 1,
+    "nimaScore": 5.974813584807393,
+    "main": true,
+    "type": "listing"
+   },
+   "photoIDs": [
+    839879772,
+    840695923,
+    840695926,
+    839879771
+   ],
+   "amenities": [
+    {
+     "externalGroupID": 3,
+     "groupRank": 3,
+     "text": "Health and Fitness",
+     "text_l1": "الصحة و اللياقة",
+     "text_l2": "阳台",
+     "text_l3": "Здоровье и Фитнесс",
+     "amenities": [
+      {
+       "text": "Gym or Health Club",
+       "text_l1": "صالة رياضية أو نادي صحي",
+       "text_l2": "健身房或健身俱乐部",
+       "text_l3": "Тренажерный зал или оздоровительный клуб",
+       "value": "",
+       "rank": 3,
+       "slug": "gym-or-health-club",
+       "format": "checkbox",
+       "externalID": 22
+      },
+      {
+       "text": "Swimming Pool",
+       "text_l1": "مسبح",
+       "text_l2": "附近医院",
+       "text_l3": "Бассейн",
+       "value": "",
+       "rank": 6,
+       "slug": "swimming-pool",
+       "format": "checkbox",
+       "externalID": 45
+      }
+     ]
+    },
+    {
+     "externalGroupID": 2,
+     "groupRank": 4,
+     "text": "Recreation and Family",
+     "text_l1": "الترفيه والأسرة",
+     "text_l2": "景观",
+     "text_l3": "Отдых и семья",
+     "amenities": [
+      {
+       "text": "Kids Play Area",
+       "text_l1": "منطقة لعب للأطفال",
+       "text_l2": "儿童娱乐区",
+       "text_l3": "Детская игровая площадка",
+       "value": "",
+       "rank": 3,
+       "slug": "kids-play-area",
+       "format": "checkbox",
+       "externalID": 34
+      }
+     ]
+    }
+   ],
+   "completionDetails": {
+    "startDate": null,
+    "completionDate": 1830196800.0,
+    "completionPercentage": 2.0
+   },
+   "paymentPlanSummaries": [
+    {
+     "preHandoverPercentageSum": 60,
+     "postHandoverPercentageSum": 40,
+     "breakdown": {
+      "downPaymentPercentage": 20,
+      "preHandoverPercentage": 40,
+      "handoverPercentage": 40,
+      "postHandoverPercentage": null
+     }
+    }
+   ],
+   "contactMethodAvailability": {
+    "whatsapp": false,
+    "sms": false,
+    "email": false,
+    "call": false
+   },
+   "title": "Beverly Grande",
+   "title_l1": "بيفرلي غراندي",
+   "description": "<p>Beverly Grande by HMB Homes Development is an upcoming residential project in Motor City, Dubai. The project will offer studio, 1 and 2-bedroom apartments. Inspired by the relaxed sophistication of California living, it will combine modern architecture, functional layouts and high-quality finishes. Strategically located near Sheikh Mohammed Bin Zayed Road (E311) and Hessa Street (D61), the development will ensure easy connectivity across Dubai. </p><p>Beverly Grande will stand out with its exceptional lifestyle amenities, including a water wellness zone, a sunset meditation terrace, an indoor wellness centre, and a shaded rooftop café zone. Residents can enjoy the BBQ social hub, outdoor dining zone, scenic jogging track and clubhouse. </p>",
+   "description_l1": "<p>بيفرلي غراندي هو مشروع سكني مرتقب من شركة إتش إم بي هومز للتطوير العقاري، يقع في منطقة موتور سيتي بإمارة دبي، ويقدم مجموعة عصرية من شقق الاستوديو، والشقق المكونة من غرفة وغرفتين، استلهم تصميم المشروع من أسلوب الحياة الهادئ والأنيق في كاليفورنيا، حيث سيجمع بين العمارة العصرية، والتصاميم الداخلية العملية، والتشطيبات عالية الجودة. </p><p>يتميز بيفرلي غراندي بمرافق عصرية تشمل حديقة مائية للاسترخاء وشرفة تأمل، ومركز استجمام داخلي، ومقهى مظلل على السطح، كما يمكن للسكان الاستمتاع بمرافق الشواء، والمساحات الخارجية المخصصة لتناول الطعام، ومسارات المشي، والنادي الاجتماعي، يتمتع المشروع كذلك بموقع استراتيجي بالقرب من شارع الشيخ محمد بن زايد، وشارع حصة، مما يتيح سهولة الوصول إلى مختلف مناطق دبي. </p>",
+   "completionStatus": "under-construction",
+   "unitCategories": [
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "شقق",
+      "name_l2": "公寓",
+      "name_l3": "Апартаменты",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "slug_l3": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "شقة",
+      "nameSingular_l2": "公寓",
+      "nameSingular_l3": "Квартира"
+     }
+    ]
+   ],
+   "unitRooms": [
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3
+   ],
+   "unitBaths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "hasPropertyAds": true,
+   "hasAllPropertyAdsCompleted": false,
+   "propertyAdCount": 100,
+   "locationCompletionStatus": "off-plan",
+   "completionProximity": -4,
+   "isProjectOwned": false,
+   "documents": [
+    {
+     "title": {
+      "en": null,
+      "ar": null,
+      "zh": null,
+      "ru": null
+     },
+     "fileSource": "https://bayut-production.s3.eu-central-1.amazonaws.com/file/1293792/93dea66388b646fb8ec347a53d6ee607.pdf",
+     "isActive": true,
+     "tag": "project_brochure"
+    }
+   ],
+   "tierSlot": 1,
+   "additionalCategories": [
+    [
+     {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "سكني",
+      "name_l2": "居住物业",
+      "name_l3": "Жилые",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "slug_l3": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "سكني",
+      "nameSingular_l2": "居住物业",
+      "nameSingular_l3": "Жилые"
+     },
+     {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "شقق",
+      "name_l2": "公寓",
+      "name_l3": "Апартаменты",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "slug_l3": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "شقة",
+      "nameSingular_l2": "公寓",
+      "nameSingular_l3": "Квартира"
+     }
+    ]
+   ],
+   "projectScore": 0,
+   "rankingTierSlot": 1,
+   "objectID": "8642097",
+   "_highlightResult": {
+    "externalID": {
+     "value": "2749",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Beverly Grande",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title_l1": {
+     "value": "بيفرلي غراندي",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustive": {
+  "nbHits": true
+ },
+ "query": "",
+ "params": "hitsPerPage=1&filters=externalID:2749&attributesToRetrieve=*",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 31
+  },
+  "total": 0
+ }
+}

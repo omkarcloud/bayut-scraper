@@ -1,0 +1,5737 @@
+{
+ "hits": [
+  {
+   "id": 29796198,
+   "name": "Emaar",
+   "name_l1": "Emaar",
+   "name_l2": "Emaar",
+   "name_l3": "Emaar",
+   "agentsCount": 0,
+   "externalID": "12",
+   "product": null,
+   "productScore": null,
+   "location": null,
+   "licenses": [],
+   "logo": {
+    "id": 676991143,
+    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/676991143/2fd7882d383648fda7609019a3d08e8f"
+   },
+   "slug": "emaar",
+   "slug_l1": "emaar",
+   "slug_l2": "emaar",
+   "slug_l3": "emaar",
+   "locations": [],
+   "stats": {
+    "adsSaleCount": 294,
+    "adsRentCount": 0,
+    "agentCount": 0,
+    "trubrokerAgentCount": 0,
+    "trubrokerAgentsProfileImageIDs": [],
+    "categoryTypes": [
+     "Villas",
+     "Apartments",
+     "Residential",
+     "Townhouses"
+    ],
+    "categoryTypes_l1": [
+     "فلل",
+     "شقق",
+     "سكني",
+     "تاون هاوس"
+    ],
+    "categoryTypes_l2": [
+     "别墅",
+     "公寓",
+     "居住物业",
+     "联排别墅"
+    ],
+    "categoryTypes_l3": [
+     "Виллы",
+     "Апартаменты",
+     "Жилые",
+     "Таунхаусы"
+    ],
+    "categoryTypes_l4": [
+     "Villen",
+     "Wohnungen",
+     "Wohnen",
+     "Reihenhäuser"
+    ],
+    "categoryTypes_l5": [
+     "Villas",
+     "Appartements",
+     "Résidentiel",
+     "Maisons de ville"
+    ],
+    "categoryTypes_l6": [
+     "Villas",
+     "Apartamentos",
+     "Residencial",
+     "Casas adosadas"
+    ],
+    "categoryTypes_l7": [
+     "Ville",
+     "Appartamenti",
+     "Residenziale",
+     "Villette a schiera"
+    ],
+    "categoryTypes_l8": [
+     "Villa's",
+     "Appartementen",
+     "Residentieel",
+     "Rijwoningen"
+    ],
+    "categoryTypes_l9": [
+     "Villaer",
+     "Lejligheder",
+     "Bolig",
+     "Rækkehuse"
+    ],
+    "categoryTypes_l10": [
+     "Villaer",
+     "Leiligheter",
+     "Bolig",
+     "Rekkehus"
+    ],
+    "categoryTypes_l11": [
+     "Villor",
+     "Lägenheter",
+     "Bostad",
+     "Radhus"
+    ],
+    "categoryTypes_l12": [
+     "Huvilat",
+     "Asunnot",
+     "Asuinkiinteistöt",
+     "Rivitalot"
+    ],
+    "categoryTypes_l13": [
+     "Moradias",
+     "Apartamentos",
+     "Residencial",
+     "Casas geminadas"
+    ],
+    "categoryTypes_l14": [
+     "Βίλες",
+     "Διαμερίσματα",
+     "Κατοικίες",
+     "Μεζονέτες"
+    ],
+    "serviceAreas": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l1": [
+     "ذا فالي من اعمار",
+     "دبي مارينا",
+     "ميناء راشد",
+     "المرابع العربية 3",
+     "زعبيل",
+     "وسط مدينة دبي",
+     "ذا أويسيس من إعمار",
+     "الميناء",
+     "جزيرة المرجان",
+     "مرسى خور دبي",
+     "دبي هيلز استيت",
+     "دبي هاربور‬",
+     "مدينة اكسبو",
+     "دبي الجنوب",
+     "ذا فيوز",
+     "الخليج التجاري",
+     "ذا هايتس كانتري كلوب آند ويلنيس",
+     "جراند بولو كلوب آند ريزورت"
+    ],
+    "serviceAreas_l2": [
+     "山谷小区",
+     "迪拜码头",
+     "米娜拉希德港区",
+     "阿拉伯牧场3号",
+     "萨阿比尔",
+     "迪拜市中心",
+     "梅艾瑟姆2号社区",
+     "阿尔米娜",
+     "阿尔马扬岛",
+     "迪拜溪港",
+     "迪拜山庄",
+     "迪拜港",
+     "世博城",
+     "迪拜南部街区",
+     "景观公寓社区",
+     "商业湾",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l3": [
+     " Валли",
+     "Дубай Марина",
+     "Мина Рашид",
+     "Арабиан Ранчес 3",
+     "Заабил",
+     "Дубай Даунтаун",
+     "Меаисем 2",
+     "Аль Мина",
+     "Аль Марджан Айленд",
+     "Дубай Крик Харбор",
+     "Дубай Хиллс Истейт",
+     "Дубай Харбор",
+     "Экспо Сити",
+     "Дубай Саут",
+     "Вьюз",
+     "Бизнес Бей",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l4": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l5": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l6": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l7": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l8": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l9": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l10": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l11": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l12": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l13": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "serviceAreas_l14": [
+     "The Valley by Emaar",
+     "Dubai Marina",
+     "Mina Rashid",
+     "Arabian Ranches 3",
+     "Za'abeel",
+     "Downtown Dubai",
+     "The Oasis by Emaar",
+     "Al Mina",
+     "Al Marjan Island",
+     "Dubai Creek Harbour",
+     "Dubai Hills Estate",
+     "Dubai Harbour",
+     "Expo City",
+     "Dubai South",
+     "The Views",
+     "Business Bay",
+     "The Heights Country Club and Wellness",
+     "Grand Polo Club & Resort"
+    ],
+    "adsCount": 294,
+    "purposes": [
+     "for-sale"
+    ],
+    "locationsWithAds": [
+     1,
+     2,
+     18437,
+     7,
+     1034,
+     87051,
+     87052,
+     87053,
+     87054,
+     87050,
+     10,
+     88075,
+     88079,
+     88082,
+     86037,
+     86038,
+     36,
+     75814,
+     87078,
+     87080,
+     87079,
+     16433,
+     16436,
+     16437,
+     53,
+     54,
+     75836,
+     88125,
+     84031,
+     87114,
+     87115,
+     87116,
+     22606,
+     87118,
+     87119,
+     87120,
+     87123,
+     86101,
+     85082,
+     86106,
+     87139,
+     87140,
+     16485,
+     88169,
+     108,
+     90221,
+     90222,
+     90223,
+     90224,
+     87153,
+     86139,
+     86140,
+     86141,
+     84093,
+     87167,
+     88193,
+     87173,
+     87174,
+     87175,
+     87176,
+     89235,
+     89236,
+     88222,
+     88230,
+     88240,
+     88241,
+     89272,
+     87230,
+     88269,
+     88270,
+     88271,
+     21722,
+     84187,
+     84188,
+     85214,
+     88287,
+     88286,
+     76012,
+     88301,
+     88302,
+     84208,
+     84209,
+     242,
+     84210,
+     84213,
+     87285,
+     76027,
+     76029,
+     76030,
+     17662,
+     84225,
+     76034,
+     21763,
+     94469,
+     84230,
+     84231,
+     84232,
+     84233,
+     84234,
+     86284,
+     87310,
+     83217,
+     83221,
+     83222,
+     83223,
+     83224,
+     87319,
+     76058,
+     3355,
+     3358,
+     286,
+     89380,
+     87333,
+     87337,
+     87338,
+     83243,
+     87339,
+     90411,
+     88366,
+     88367,
+     88368,
+     76079,
+     90413,
+     90412,
+     83252,
+     76089,
+     76090,
+     76091,
+     83259,
+     87354,
+     87353,
+     87359,
+     84290,
+     88394,
+     87376,
+     87377,
+     87378,
+     83286,
+     89435,
+     89436,
+     83304,
+     89461,
+     89462,
+     89463,
+     83318,
+     76157,
+     16770,
+     83336,
+     76178,
+     87445,
+     87448,
+     87449,
+     87450,
+     87451,
+     87452,
+     84387,
+     88485,
+     88486,
+     88488,
+     88489,
+     89514,
+     86452,
+     3512,
+     3513,
+     87497,
+     87498,
+     87504,
+     87505,
+     87506,
+     75225,
+     76250,
+     75233,
+     87536,
+     76275,
+     84477,
+     80394,
+     88595,
+     1556,
+     88596,
+     89627,
+     90659,
+     90660,
+     89647,
+     87608,
+     87619,
+     87620,
+     16966,
+     88649,
+     88650,
+     83530,
+     86604,
+     86605,
+     86606,
+     76366,
+     83540,
+     85589,
+     87638,
+     85591,
+     87639,
+     88673,
+     88685,
+     88686,
+     85615,
+     85616,
+     88689,
+     88690,
+     88691,
+     85617,
+     15989,
+     89714,
+     89716,
+     89717,
+     86657,
+     86658,
+     86659,
+     87684,
+     89733,
+     89735,
+     89736,
+     89737,
+     83591,
+     80523,
+     88711,
+     86670,
+     89746,
+     86676,
+     86677,
+     86678,
+     86679,
+     86680,
+     89756,
+     80541,
+     83614,
+     89758,
+     89757,
+     86695,
+     80555,
+     80565,
+     80566,
+     87742,
+     83651,
+     83652,
+     83653,
+     83654,
+     80583,
+     707,
+     89797,
+     80593,
+     83667,
+     83668,
+     87771,
+     89820,
+     75485,
+     89821,
+     75501,
+     75503,
+     80624,
+     87792,
+     87793,
+     87795,
+     87796,
+     89844,
+     86774,
+     87799,
+     87800,
+     89846,
+     89854,
+     86784,
+     86785,
+     86786,
+     86797,
+     2830,
+     80666,
+     89885,
+     89886,
+     80675,
+     83755,
+     75565,
+     80689,
+     89908,
+     89919,
+     89920,
+     89921,
+     89922,
+     89923,
+     84804,
+     86855,
+     17226,
+     90961,
+     90962,
+     87894,
+     83811,
+     80740,
+     22373,
+     88935,
+     88936,
+     88937,
+     88938,
+     88939,
+     1902,
+     90993,
+     90994,
+     90995,
+     86902,
+     91002,
+     75644,
+     86913,
+     86914,
+     89987,
+     89988,
+     86917,
+     86918,
+     86915,
+     86916,
+     89994,
+     88971,
+     88972,
+     86925,
+     1937,
+     86929,
+     76691,
+     86941,
+     86942,
+     88992,
+     86947,
+     16296,
+     87981,
+     75695,
+     90042,
+     90048,
+     90049,
+     90050,
+     86976,
+     83912,
+     75722,
+     89036,
+     86989,
+     75732,
+     80857,
+     75739,
+     75740,
+     994,
+     93158,
+     87021,
+     87022,
+     87023,
+     90099,
+     88055,
+     88057,
+     88058,
+     88059,
+     88060
+    ]
+   },
+   "phoneNumber": {
+    "phone": "+97143661688",
+    "phoneNumbers": [
+     "+97143661688"
+    ]
+   },
+   "contactMethodAvailability": {
+    "sms": false,
+    "email": true,
+    "call": true
+   },
+   "createdAt": "2024-04-24T10:26:36.143750+00:00",
+   "language_codes": [],
+   "speciality_codes": [],
+   "isFeatured": false,
+   "type": "developer",
+   "hash": "c05738c",
+   "agencySg": null,
+   "exStatus": 0,
+   "eliteStatus": false,
+   "purpose": [
+    "for-sale"
+   ],
+   "roles": [],
+   "objectID": "29796198",
+   "_highlightResult": {
+    "id": {
+     "value": "29796198",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name": {
+     "value": "Emaar",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l1": {
+     "value": "Emaar",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "Emaar",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Emaar",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "12",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "stats": {
+     "locationsWithAds": [
+      {
+       "value": "1",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "18437",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "7",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1034",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87051",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87052",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87053",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87054",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87050",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "10",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88075",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88079",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88082",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86037",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86038",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "36",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75814",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87078",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87080",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87079",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16433",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16436",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16437",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "53",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "54",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75836",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88125",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84031",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87114",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87115",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87116",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "22606",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87118",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87119",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87120",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87123",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86101",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85082",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86106",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87139",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87140",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16485",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88169",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "108",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90221",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90222",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90223",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90224",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87153",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86139",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86140",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86141",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84093",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87167",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88193",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87173",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87174",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87175",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87176",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89235",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89236",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88222",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88230",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88240",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88241",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89272",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87230",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88269",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88270",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88271",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "21722",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84187",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84188",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85214",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88287",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88286",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76012",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88301",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88302",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84208",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84209",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "242",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84210",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84213",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87285",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76027",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76029",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76030",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "17662",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84225",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76034",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "21763",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94469",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84230",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84231",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84232",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84233",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84234",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86284",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87310",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83217",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83221",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83222",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83223",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83224",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87319",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76058",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3355",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3358",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "286",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89380",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87333",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87337",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87338",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83243",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87339",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90411",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88366",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88367",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88368",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76079",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90413",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90412",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83252",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76089",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76090",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76091",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83259",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87354",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87353",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87359",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84290",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88394",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87376",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87377",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87378",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83286",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89435",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89436",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83304",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89461",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89462",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89463",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83318",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76157",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16770",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83336",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76178",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87445",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87448",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87449",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87450",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87451",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87452",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84387",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88485",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88486",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88488",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88489",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89514",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86452",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3512",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3513",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87497",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87498",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87504",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87505",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87506",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75225",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76250",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75233",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87536",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76275",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84477",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80394",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88595",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1556",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88596",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89627",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90659",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90660",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89647",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87608",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87619",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87620",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16966",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88649",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88650",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83530",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86604",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86605",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86606",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76366",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83540",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85589",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87638",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85591",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87639",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88673",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88685",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88686",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85615",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85616",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88689",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88690",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88691",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85617",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "15989",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89714",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89716",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89717",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86657",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86658",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86659",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87684",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89733",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89735",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89736",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89737",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83591",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80523",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88711",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86670",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89746",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86676",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86677",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86678",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86679",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86680",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89756",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80541",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83614",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89758",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89757",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86695",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80555",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80565",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80566",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87742",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83651",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83652",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83653",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83654",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80583",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "707",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89797",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80593",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83667",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83668",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87771",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89820",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75485",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89821",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75501",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75503",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80624",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87792",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87793",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87795",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87796",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89844",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86774",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87799",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87800",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89846",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89854",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86784",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86785",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86786",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86797",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2830",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80666",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89885",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89886",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80675",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83755",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75565",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80689",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89908",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89919",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89920",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89921",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89922",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89923",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84804",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86855",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "17226",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90961",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90962",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87894",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83811",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80740",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "22373",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88935",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88936",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88937",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88938",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88939",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1902",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90993",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90994",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90995",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86902",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91002",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75644",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86913",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86914",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89987",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89988",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86917",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86918",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86915",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86916",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89994",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88971",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88972",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86925",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1937",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86929",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76691",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86941",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86942",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88992",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86947",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16296",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87981",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75695",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90042",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90048",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90049",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90050",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86976",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83912",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75722",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89036",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86989",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75732",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80857",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75739",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75740",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "994",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "93158",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87021",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87022",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87023",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90099",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88055",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88057",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88058",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88059",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88060",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 29796188,
+   "name": "DAMAC Properties",
+   "name_l1": "DAMAC Properties",
+   "name_l2": "DAMAC Properties",
+   "name_l3": "DAMAC Properties",
+   "agentsCount": 0,
+   "externalID": "2",
+   "product": null,
+   "productScore": null,
+   "location": null,
+   "licenses": [],
+   "logo": {
+    "id": 676991133,
+    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/676991133/71627fababf743db996c996701a62073"
+   },
+   "slug": "damac-properties",
+   "slug_l1": "damac-properties",
+   "slug_l2": "damac-properties",
+   "slug_l3": "damac-properties",
+   "locations": [],
+   "stats": {
+    "adsSaleCount": 159,
+    "adsRentCount": 0,
+    "agentCount": 0,
+    "trubrokerAgentCount": 0,
+    "trubrokerAgentsProfileImageIDs": [],
+    "serviceAreasCount": 15,
+    "categoryTypesCount": 5,
+    "categoryTypes": [
+     "Residential",
+     "Offices",
+     "Villas",
+     "Apartments",
+     "Townhouses"
+    ],
+    "categoryTypes_l1": [
+     "سكني",
+     "مکاتب",
+     "فلل",
+     "شقق",
+     "تاون هاوس"
+    ],
+    "categoryTypes_l2": [
+     "居住物业",
+     "写字楼",
+     "别墅",
+     "公寓",
+     "联排别墅"
+    ],
+    "categoryTypes_l3": [
+     "Жилые",
+     "Офисы",
+     "Виллы",
+     "Апартаменты",
+     "Таунхаусы"
+    ],
+    "categoryTypes_l4": [
+     "Wohnen",
+     "Büros",
+     "Villen",
+     "Wohnungen",
+     "Reihenhäuser"
+    ],
+    "categoryTypes_l5": [
+     "Résidentiel",
+     "Bureaux",
+     "Villas",
+     "Appartements",
+     "Maisons de ville"
+    ],
+    "categoryTypes_l6": [
+     "Residencial",
+     "Oficinas",
+     "Villas",
+     "Apartamentos",
+     "Casas adosadas"
+    ],
+    "categoryTypes_l7": [
+     "Residenziale",
+     "Uffici",
+     "Ville",
+     "Appartamenti",
+     "Villette a schiera"
+    ],
+    "categoryTypes_l8": [
+     "Residentieel",
+     "Kantoren",
+     "Villa's",
+     "Appartementen",
+     "Rijwoningen"
+    ],
+    "categoryTypes_l9": [
+     "Bolig",
+     "Kontorer",
+     "Villaer",
+     "Lejligheder",
+     "Rækkehuse"
+    ],
+    "categoryTypes_l10": [
+     "Bolig",
+     "Kontorer",
+     "Villaer",
+     "Leiligheter",
+     "Rekkehus"
+    ],
+    "categoryTypes_l11": [
+     "Bostad",
+     "Kontor",
+     "Villor",
+     "Lägenheter",
+     "Radhus"
+    ],
+    "categoryTypes_l12": [
+     "Asuinkiinteistöt",
+     "Toimistot",
+     "Huvilat",
+     "Asunnot",
+     "Rivitalot"
+    ],
+    "categoryTypes_l13": [
+     "Residencial",
+     "Escritórios",
+     "Moradias",
+     "Apartamentos",
+     "Casas geminadas"
+    ],
+    "categoryTypes_l14": [
+     "Κατοικίες",
+     "Γραφεία",
+     "Βίλες",
+     "Διαμερίσματα",
+     "Μεζονέτες"
+    ],
+    "categoryTypesSample": [
+     "Residential",
+     "Offices",
+     "Villas"
+    ],
+    "categoryTypesSample_l1": [
+     "سكني",
+     "مکاتب",
+     "فلل"
+    ],
+    "categoryTypesSample_l2": [
+     "居住物业",
+     "写字楼",
+     "别墅"
+    ],
+    "categoryTypesSample_l3": [
+     "Жилые",
+     "Офисы",
+     "Виллы"
+    ],
+    "categoryTypesSample_l4": [
+     "Wohnen",
+     "Büros",
+     "Villen"
+    ],
+    "categoryTypesSample_l5": [
+     "Résidentiel",
+     "Bureaux",
+     "Villas"
+    ],
+    "categoryTypesSample_l6": [
+     "Residencial",
+     "Oficinas",
+     "Villas"
+    ],
+    "categoryTypesSample_l7": [
+     "Residenziale",
+     "Uffici",
+     "Ville"
+    ],
+    "categoryTypesSample_l8": [
+     "Residentieel",
+     "Kantoren",
+     "Villa's"
+    ],
+    "categoryTypesSample_l9": [
+     "Bolig",
+     "Kontorer",
+     "Villaer"
+    ],
+    "categoryTypesSample_l10": [
+     "Bolig",
+     "Kontorer",
+     "Villaer"
+    ],
+    "categoryTypesSample_l11": [
+     "Bostad",
+     "Kontor",
+     "Villor"
+    ],
+    "categoryTypesSample_l12": [
+     "Asuinkiinteistöt",
+     "Toimistot",
+     "Huvilat"
+    ],
+    "categoryTypesSample_l13": [
+     "Residencial",
+     "Escritórios",
+     "Moradias"
+    ],
+    "categoryTypesSample_l14": [
+     "Κατοικίες",
+     "Γραφεία",
+     "Βίλες"
+    ],
+    "serviceAreas": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l1": [
+     "مدينة دبي الملاحية",
+     "(أكويا من داماك) داماك هيلز 2",
+     "داماك لاجونز",
+     "دبي مارينا",
+     "داماك آيلاندز",
+     "وسط مدينة دبي",
+     "جزيرة المرجان",
+     "الوصل",
+     "الخليج التجاري",
+     "داماك هيلز",
+     "دبي هاربور‬",
+     "مدينة دبي للإعلام",
+     "جزر داماك 2",
+     "داماك صن سيتي",
+     "داماك ريفرسايد"
+    ],
+    "serviceAreas_l2": [
+     "迪拜海港城",
+     "达马克山庄2号（达马克阿克雅）",
+     "大马士革湖住宅",
+     "迪拜码头",
+     "DAMAC Islands",
+     "迪拜市中心",
+     "阿尔马扬岛",
+     "阿尔瓦斯尔",
+     "商业湾",
+     "达马克山庄",
+     "迪拜港",
+     "迪拜媒体城",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l3": [
+     "Дубай Морской Город",
+     "Дамак Хиллс 2",
+     "Дамак Лагунс",
+     "Дубай Марина",
+     "DAMAC Islands",
+     "Дубай Даунтаун",
+     "Аль Марджан Айленд",
+     "Аль Васль",
+     "Бизнес Бей",
+     "Дамак Хиллс",
+     "Дубай Харбор",
+     "Дубай Медиа Сити",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l4": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l5": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l6": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l7": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l8": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l9": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l10": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l11": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l12": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l13": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreas_l14": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons",
+     "Dubai Marina",
+     "DAMAC Islands",
+     "Downtown Dubai",
+     "Al Marjan Island",
+     "Al Wasl",
+     "Business Bay",
+     "DAMAC Hills",
+     "Dubai Harbour",
+     "Dubai Media City",
+     "DAMAC Islands 2",
+     "DAMAC Sun City",
+     "DAMAC Riverside"
+    ],
+    "serviceAreasSample": [
+     "Dubai Maritime City",
+     "DAMAC Hills 2 (Akoya by DAMAC)",
+     "DAMAC Lagoons"
+    ],
+    "serviceAreasSample_l1": [
+     "مدينة دبي الملاحية",
+     "(أكويا من داماك) داماك هيلز 2",
+     "داماك لاجونز"
+    ],
+    "serviceAreasSample_l2": [
+     "迪拜海港城",
+     "达马克山庄2号（达马克阿克雅）",
+     "大马士革湖住宅"
+    ],
+    "serviceAreasSample_l3": [
+     "Дубай Морской Город",
+     "Дамак Хиллс 2",
+     "Дамак Лагунс"
+    ],
+    "adsCount": 159,
+    "purposes": [
+     "for-sale"
+    ],
+    "locationsWithAds": [
+     1,
+     2,
+     75266,
+     89604,
+     89605,
+     7,
+     10,
+     89099,
+     89100,
+     89101,
+     89102,
+     89103,
+     89104,
+     86545,
+     86546,
+     86547,
+     89105,
+     89106,
+     1553,
+     87070,
+     88607,
+     88606,
+     88609,
+     88610,
+     88611,
+     36,
+     86052,
+     88612,
+     88608,
+     54,
+     90678,
+     90680,
+     86585,
+     80442,
+     75321,
+     86591,
+     86592,
+     2112,
+     15940,
+     83529,
+     89164,
+     89165,
+     89166,
+     89167,
+     89168,
+     88143,
+     83538,
+     86620,
+     75871,
+     90208,
+     87137,
+     90209,
+     90210,
+     90212,
+     90213,
+     90214,
+     90215,
+     90216,
+     87675,
+     80508,
+     87165,
+     84094,
+     75908,
+     99472,
+     88209,
+     88211,
+     88212,
+     88213,
+     88214,
+     1182,
+     80549,
+     83624,
+     75957,
+     89788,
+     89789,
+     80576,
+     87240,
+     84175,
+     84186,
+     87262,
+     75487,
+     75488,
+     88289,
+     88290,
+     94444,
+     94445,
+     94446,
+     94447,
+     76026,
+     22540,
+     80640,
+     21770,
+     86799,
+     86800,
+     86801,
+     89872,
+     279,
+     87320,
+     87321,
+     87322,
+     86810,
+     86814,
+     2848,
+     80690,
+     89396,
+     76597,
+     89402,
+     88380,
+     86848,
+     86849,
+     86851,
+     86852,
+     86853,
+     87876,
+     87879,
+     87880,
+     87881,
+     90954,
+     90955,
+     90956,
+     90957,
+     90958,
+     84309,
+     88919,
+     80727,
+     89945,
+     352,
+     88416,
+     17251,
+     1902,
+     84855,
+     86903,
+     89975,
+     89977,
+     89976,
+     18300,
+     83328,
+     75789,
+     89474,
+     88454,
+     75656,
+     83341,
+     76687,
+     1936,
+     89488,
+     89489,
+     89491,
+     89490,
+     914,
+     75679,
+     87457,
+     87458,
+     87459,
+     84394,
+     89005,
+     89006,
+     89007,
+     89008,
+     89009,
+     90031,
+     90032,
+     75701,
+     3512,
+     90044,
+     90045,
+     75199,
+     86977,
+     88003,
+     83404,
+     90573,
+     80340,
+     95,
+     80874,
+     87535,
+     88050,
+     83959,
+     80888
+    ]
+   },
+   "phoneNumber": {
+    "phone": "+97144508777",
+    "phoneNumbers": [
+     "+97144508777"
+    ]
+   },
+   "contactMethodAvailability": {
+    "sms": false,
+    "email": true,
+    "call": true
+   },
+   "createdAt": "2024-04-24T10:26:35.765883+00:00",
+   "language_codes": [],
+   "speciality_codes": [],
+   "isFeatured": false,
+   "type": "developer",
+   "hash": "5b51c25",
+   "agencySg": null,
+   "exStatus": 0,
+   "eliteStatus": false,
+   "purpose": [
+    "for-sale"
+   ],
+   "roles": [],
+   "objectID": "29796188",
+   "_highlightResult": {
+    "id": {
+     "value": "29796188",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name": {
+     "value": "DAMAC Properties",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l1": {
+     "value": "DAMAC Properties",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "DAMAC Properties",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "DAMAC Properties",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "2",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "stats": {
+     "locationsWithAds": [
+      {
+       "value": "1",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75266",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89604",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89605",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "7",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "10",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89099",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89100",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89101",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89102",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89103",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89104",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86545",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86546",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86547",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89105",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89106",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1553",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87070",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88607",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88606",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88609",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88610",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88611",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "36",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86052",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88612",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88608",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "54",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90678",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90680",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86585",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80442",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75321",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86591",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86592",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2112",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "15940",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83529",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89164",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89165",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89166",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89167",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89168",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88143",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83538",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86620",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75871",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90208",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87137",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90209",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90210",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90212",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90213",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90214",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90215",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90216",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87675",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80508",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87165",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84094",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75908",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "99472",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88209",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88211",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88212",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88213",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88214",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1182",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80549",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83624",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75957",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89788",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89789",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80576",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87240",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84175",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84186",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87262",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75487",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75488",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88289",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88290",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94444",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94445",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94446",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94447",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76026",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "22540",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80640",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "21770",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86799",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86800",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86801",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89872",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "279",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87320",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87321",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87322",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86810",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86814",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2848",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80690",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89396",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76597",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89402",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88380",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86848",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86849",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86851",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86852",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86853",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87876",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87879",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87880",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87881",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90954",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90955",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90956",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90957",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90958",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84309",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88919",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80727",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89945",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "352",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88416",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "17251",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1902",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84855",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86903",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89975",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89977",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89976",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "18300",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83328",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75789",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89474",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88454",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75656",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83341",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76687",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1936",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89488",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89489",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89491",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89490",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "914",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75679",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87457",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87458",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87459",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84394",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89005",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89006",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89007",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89008",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89009",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90031",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90032",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75701",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3512",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90044",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90045",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75199",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86977",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88003",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83404",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90573",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80340",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "95",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80874",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87535",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88050",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83959",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80888",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 29796200,
+   "name": "Aldar",
+   "name_l1": "الدار العقارية",
+   "name_l2": "Aldar",
+   "name_l3": "Aldar",
+   "agentsCount": 0,
+   "externalID": "14",
+   "product": null,
+   "productScore": null,
+   "location": null,
+   "licenses": [],
+   "logo": {
+    "id": 676991145,
+    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/676991145/3812e2f5835e4d91ba65a0ccd16a63d6"
+   },
+   "slug": "aldar",
+   "slug_l1": "الدار-العقارية",
+   "slug_l2": "aldar",
+   "slug_l3": "aldar",
+   "locations": [],
+   "stats": {
+    "adsSaleCount": 139,
+    "adsRentCount": 0,
+    "agentCount": 0,
+    "trubrokerAgentCount": 0,
+    "trubrokerAgentsProfileImageIDs": [],
+    "serviceAreasCount": 10,
+    "categoryTypesCount": 6,
+    "categoryTypes": [
+     "Residential",
+     "Villas",
+     "Apartments",
+     "Plots",
+     "Plots",
+     "Townhouses"
+    ],
+    "categoryTypes_l1": [
+     "سكني",
+     "فلل",
+     "شقق",
+     "اراضي تجارية",
+     "اراضي سكنية",
+     "تاون هاوس"
+    ],
+    "categoryTypes_l2": [
+     "居住物业",
+     "别墅",
+     "公寓",
+     "商业地块",
+     "住宅地块",
+     "联排别墅"
+    ],
+    "categoryTypes_l3": [
+     "Жилые",
+     "Виллы",
+     "Апартаменты",
+     "Участки",
+     "Участки",
+     "Таунхаусы"
+    ],
+    "categoryTypes_l4": [
+     "Wohnen",
+     "Villen",
+     "Wohnungen",
+     "Grundstücke",
+     "Grundstücke",
+     "Reihenhäuser"
+    ],
+    "categoryTypes_l5": [
+     "Résidentiel",
+     "Villas",
+     "Appartements",
+     "Terrains",
+     "Terrains",
+     "Maisons de ville"
+    ],
+    "categoryTypes_l6": [
+     "Residencial",
+     "Villas",
+     "Apartamentos",
+     "Parcelas",
+     "Parcelas",
+     "Casas adosadas"
+    ],
+    "categoryTypes_l7": [
+     "Residenziale",
+     "Ville",
+     "Appartamenti",
+     "Terreni",
+     "Terreni",
+     "Villette a schiera"
+    ],
+    "categoryTypes_l8": [
+     "Residentieel",
+     "Villa's",
+     "Appartementen",
+     "Kavels",
+     "Kavels",
+     "Rijwoningen"
+    ],
+    "categoryTypes_l9": [
+     "Bolig",
+     "Villaer",
+     "Lejligheder",
+     "Erhvervsgrunde",
+     "Grunde",
+     "Rækkehuse"
+    ],
+    "categoryTypes_l10": [
+     "Bolig",
+     "Villaer",
+     "Leiligheter",
+     "Næringstomter",
+     "Tomter",
+     "Rekkehus"
+    ],
+    "categoryTypes_l11": [
+     "Bostad",
+     "Villor",
+     "Lägenheter",
+     "Kommersiella tomter",
+     "Tomter",
+     "Radhus"
+    ],
+    "categoryTypes_l12": [
+     "Asuinkiinteistöt",
+     "Huvilat",
+     "Asunnot",
+     "Liiketontit",
+     "Tontit",
+     "Rivitalot"
+    ],
+    "categoryTypes_l13": [
+     "Residencial",
+     "Moradias",
+     "Apartamentos",
+     "Terrenos comerciais",
+     "Terrenos residenciais",
+     "Casas geminadas"
+    ],
+    "categoryTypes_l14": [
+     "Κατοικίες",
+     "Βίλες",
+     "Διαμερίσματα",
+     "Επαγγελματικά οικόπεδα",
+     "Οικόπεδα κατοικιών",
+     "Μεζονέτες"
+    ],
+    "categoryTypesSample": [
+     "Residential",
+     "Villas",
+     "Apartments"
+    ],
+    "categoryTypesSample_l1": [
+     "سكني",
+     "فلل",
+     "شقق"
+    ],
+    "categoryTypesSample_l2": [
+     "居住物业",
+     "别墅",
+     "公寓"
+    ],
+    "categoryTypesSample_l3": [
+     "Жилые",
+     "Виллы",
+     "Апартаменты"
+    ],
+    "categoryTypesSample_l4": [
+     "Wohnen",
+     "Villen",
+     "Wohnungen"
+    ],
+    "categoryTypesSample_l5": [
+     "Résidentiel",
+     "Villas",
+     "Appartements"
+    ],
+    "categoryTypesSample_l6": [
+     "Residencial",
+     "Villas",
+     "Apartamentos"
+    ],
+    "categoryTypesSample_l7": [
+     "Residenziale",
+     "Ville",
+     "Appartamenti"
+    ],
+    "categoryTypesSample_l8": [
+     "Residentieel",
+     "Villa's",
+     "Appartementen"
+    ],
+    "categoryTypesSample_l9": [
+     "Bolig",
+     "Villaer",
+     "Lejligheder"
+    ],
+    "categoryTypesSample_l10": [
+     "Bolig",
+     "Villaer",
+     "Leiligheter"
+    ],
+    "categoryTypesSample_l11": [
+     "Bostad",
+     "Villor",
+     "Lägenheter"
+    ],
+    "categoryTypesSample_l12": [
+     "Asuinkiinteistöt",
+     "Huvilat",
+     "Asunnot"
+    ],
+    "categoryTypesSample_l13": [
+     "Residencial",
+     "Moradias",
+     "Apartamentos"
+    ],
+    "categoryTypesSample_l14": [
+     "Κατοικίες",
+     "Βίλες",
+     "Διαμερίσματα"
+    ],
+    "serviceAreas": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l1": [
+     "جزيرة فاهد",
+     "الشامخة",
+     "جنان من الدار",
+     "أثلون من الدار",
+     "الباھیة",
+     "جزيرة المرجان",
+     "جزيرة السعديات",
+     "جزيرة ياس",
+     "ذا وايلدز",
+     "الغدیر"
+    ],
+    "serviceAreas_l2": [
+     "阿尔法希德",
+     "阿尔沙穆卡",
+     "奥尔达避风港",
+     "Athlon by Aldar",
+     "阿尔巴伊亚",
+     "阿尔马扬岛",
+     "萨迪亚特岛",
+     "雅斯岛",
+     "The Wilds",
+     "阿尔加迪尔"
+    ],
+    "serviceAreas_l3": [
+     "Аль Фахид",
+     "Аль Шамха",
+     "Хэвен Бай Алдар",
+     "Athlon by Aldar",
+     "Аль Бахия",
+     "Аль Марджан Айленд",
+     "Остров Садият",
+     "Яс Айленд",
+     "The Wilds",
+     "Аль Гхадир"
+    ],
+    "serviceAreas_l4": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l5": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l6": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l7": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l8": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l9": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l10": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l11": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l12": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l13": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreas_l14": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar",
+     "Athlon by Aldar",
+     "Al Bahia",
+     "Al Marjan Island",
+     "Saadiyat Island",
+     "Yas Island",
+     "The Wilds",
+     "Al Ghadeer"
+    ],
+    "serviceAreasSample": [
+     "Fahid Island",
+     "Al Shamkha",
+     "Haven by Aldar"
+    ],
+    "serviceAreasSample_l1": [
+     "جزيرة فاهد",
+     "الشامخة",
+     "جنان من الدار"
+    ],
+    "serviceAreasSample_l2": [
+     "阿尔法希德",
+     "阿尔沙穆卡",
+     "奥尔达避风港"
+    ],
+    "serviceAreasSample_l3": [
+     "Аль Фахид",
+     "Аль Шамха",
+     "Хэвен Бай Алдар"
+    ],
+    "adsCount": 139,
+    "purposes": [
+     "for-sale"
+    ],
+    "locationsWithAds": [
+     88064,
+     1,
+     88065,
+     3,
+     88067,
+     88068,
+     88066,
+     2,
+     7,
+     87049,
+     84490,
+     83979,
+     89091,
+     80397,
+     89094,
+     89615,
+     89616,
+     89617,
+     83474,
+     83475,
+     83476,
+     87572,
+     83471,
+     87065,
+     97305,
+     88603,
+     97314,
+     87592,
+     75817,
+     3633,
+     62,
+     89171,
+     89172,
+     89173,
+     89174,
+     89175,
+     89176,
+     89177,
+     89178,
+     89179,
+     76375,
+     89194,
+     89195,
+     89196,
+     89197,
+     89198,
+     89199,
+     88176,
+     88177,
+     89201,
+     89202,
+     89200,
+     89203,
+     88182,
+     88183,
+     84088,
+     89204,
+     89205,
+     85635,
+     2188,
+     86634,
+     92844,
+     88061,
+     80573,
+     86718,
+     22731,
+     2254,
+     87760,
+     87761,
+     75474,
+     87763,
+     87764,
+     87765,
+     87766,
+     87762,
+     16600,
+     87774,
+     87775,
+     87776,
+     87777,
+     87778,
+     87779,
+     87780,
+     89089,
+     86249,
+     86251,
+     89090,
+     87281,
+     89092,
+     16630,
+     89601,
+     17655,
+     89093,
+     96516,
+     89096,
+     89097,
+     96528,
+     96529,
+     89098,
+     96534,
+     3872,
+     80686,
+     94519,
+     94520,
+     94521,
+     94522,
+     94523,
+     94524,
+     94525,
+     94526,
+     88382,
+     84295,
+     89938,
+     87401,
+     1902,
+     89460,
+     16253,
+     76163,
+     76167,
+     76168,
+     76169,
+     76170,
+     89483,
+     86920,
+     88458,
+     91023,
+     91024,
+     91025,
+     91026,
+     91027,
+     87444,
+     91028,
+     91029,
+     929,
+     75686,
+     422,
+     433,
+     434,
+     90545,
+     89551,
+     89553,
+     75217,
+     89555,
+     89556,
+     88533,
+     89554,
+     89559,
+     89557,
+     89560,
+     89558,
+     86491,
+     75741,
+     87020,
+     86511,
+     498,
+     87026,
+     87027,
+     87029,
+     87028,
+     87031,
+     87032,
+     87033,
+     87034,
+     87030,
+     22525,
+     88062,
+     88063
+    ]
+   },
+   "phoneNumber": {
+    "phone": "+80080025327",
+    "phoneNumbers": [
+     "+80080025327"
+    ]
+   },
+   "contactMethodAvailability": {
+    "sms": false,
+    "email": true,
+    "call": true
+   },
+   "createdAt": "2024-04-24T10:26:36.189886+00:00",
+   "language_codes": [],
+   "speciality_codes": [],
+   "isFeatured": false,
+   "type": "developer",
+   "hash": "bf3dfc8",
+   "agencySg": null,
+   "exStatus": 0,
+   "eliteStatus": false,
+   "purpose": [
+    "for-sale"
+   ],
+   "roles": [],
+   "objectID": "29796200",
+   "_highlightResult": {
+    "id": {
+     "value": "29796200",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name": {
+     "value": "Aldar",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l1": {
+     "value": "الدار العقارية",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l2": {
+     "value": "Aldar",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "name_l3": {
+     "value": "Aldar",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "externalID": {
+     "value": "14",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "stats": {
+     "locationsWithAds": [
+      {
+       "value": "88064",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88065",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88067",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88068",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88066",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "7",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87049",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84490",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83979",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89091",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80397",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89094",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89615",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89616",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89617",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83474",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83475",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83476",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87572",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "83471",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87065",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "97305",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88603",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "97314",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87592",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75817",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3633",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "62",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89171",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89172",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89173",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89174",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89175",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89176",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89177",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89178",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89179",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76375",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89194",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89195",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89196",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89197",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89198",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89199",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88176",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88177",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89201",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89202",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89200",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89203",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88182",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88183",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84088",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89204",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89205",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "85635",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2188",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86634",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "92844",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88061",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80573",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86718",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "22731",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "2254",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87760",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87761",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75474",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87763",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87764",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87765",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87766",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87762",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16600",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87774",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87775",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87776",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87777",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87778",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87779",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87780",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89089",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86249",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86251",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89090",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87281",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89092",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16630",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89601",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "17655",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89093",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "96516",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89096",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89097",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "96528",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "96529",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89098",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "96534",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "3872",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "80686",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94519",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94520",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94521",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94522",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94523",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94524",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94525",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "94526",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88382",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "84295",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89938",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87401",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "1902",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89460",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "16253",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76163",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76167",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76168",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76169",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "76170",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89483",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86920",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88458",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91023",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91024",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91025",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91026",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91027",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87444",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91028",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "91029",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "929",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75686",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "422",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "433",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "434",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "90545",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89551",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89553",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75217",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89555",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89556",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88533",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89554",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89559",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89557",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89560",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "89558",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86491",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "75741",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87020",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "86511",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "498",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87026",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87027",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87029",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87028",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87031",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87032",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87033",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87034",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "87030",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "22525",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88062",
+       "matchLevel": "none",
+       "matchedWords": []
+      },
+      {
+       "value": "88063",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "nbHits": 1434,
+ "page": 0,
+ "nbPages": 478,
+ "hitsPerPage": 3,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "hitsPerPage=3&filters=type:developer",
+ "processingTimeMS": 1,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 27
+  },
+  "afterFetch": {
+   "format": {
+    "total": 1
+   }
+  },
+  "total": 0
+ },
+ "serverTimeMS": 1
+}

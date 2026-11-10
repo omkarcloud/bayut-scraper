@@ -1,0 +1,10 @@
+services:
+  bayut-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Required outside the UAE — bayut.com only serves UAE connections, so use a UAE residential proxy.
+      # - BAYUT_PROXY=http://user:pass@host:port
