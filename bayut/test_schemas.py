@@ -152,6 +152,17 @@ def test_projects_schemas():
     rejects(schemas.ProjectsSearchSchema, "completion_status", completion_status="ready")
 
 
+def test_project_link_matches_only_its_own_project():
+    # a place link (/new-projects/dubai/dubai-hills-estate/) must not resolve
+    # to some project inside that place: the leaf has nothing one level below
+    from bayut import api
+    assert api.project_lookup_filter({"id": "2749"}) == "externalID:2749"
+    assert api.project_lookup_filter({"location_slug": "/dubai/motor-city/beverly-grande"}) == \
+        'location.slug:"/dubai/motor-city/beverly-grande" AND NOT location.level:4'
+    assert api.project_lookup_filter({"location_slug": "/dubai/tilal-binghatti"}) == \
+        'location.slug:"/dubai/tilal-binghatti" AND NOT location.level:3'
+
+
 # ---- locations ---------------------------------------------------------------------------------------
 
 def test_locations_autocomplete_schema():

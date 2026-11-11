@@ -429,11 +429,20 @@ def projects_search(**data):
     return cached_call("bayut.projects_search", data, _projects_search, ttl.DIRECTORY_CACHE)
 
 
-def _project_details(project, language):
+def project_lookup_filter(project):
+    """Algolia filter for one project ref. location.slug matches every level
+    of a project's location chain, so a place link (/new-projects/dubai/
+    dubai-hills-estate/) would match every project inside it: the project's
+    own location is the leaf, i.e. it has no node one level below the slug."""
     if project.get("id"):
-        filters = f"externalID:{project['id']}"
-    else:
-        filters = f"location.slug:{_quote(project['location_slug'])}"
+        return f"externalID:{project['id']}"
+    slug = project["location_slug"]
+    depth = len([part for part in slug.split("/") if part])
+    return f"location.slug:{_quote(slug)} AND NOT location.level:{depth + 1}"
+
+
+def _project_details(project, language):
+    filters = project_lookup_filter(project)
     hits = _hits(algolia_query(refs.PROJECTS_INDEX, algolia_params(hitsPerPage=1, filters=filters),
                                "project lookup"))
     if not hits:
