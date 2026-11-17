@@ -61,6 +61,8 @@ import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from bayut.refs import SITE
+from scraper_utils import retry, sessions
+from scraper_utils.pages import page_title as _page_title
 
 IMPERSONATE = "chrome"
 PAGE_TIMEOUT = 40      # agency pages are ~900 KB
@@ -119,48 +121,19 @@ _local = threading.local()
 
 
 def _session():
-    sess = getattr(_local, "session", None)
-    if sess is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = config.bayut_proxy()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
-        # the language of the exit, never a literal (owner rule 2026-10-29)
-        sess.headers["accept-language"] = egress.accept_language(proxy)
-        _local.session = sess
-    return sess
+    return sessions.thread_session(_local, lambda: sessions.curl_session(
+        IMPERSONATE, proxy_fn=config.bayut_proxy, accept_language=egress.accept_language))
 
 
 def _drop_session():
     """Close the thread's session so the retry rides a fresh exit."""
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def _retrying(fn):
     """Run fn() under the shared retry policy (BayutUpstreamError only;
     NotFound / BadRequest surface immediately)."""
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except BayutUpstreamError as e:
-            last = e
-            _drop_session()
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
-
-
-def _page_title(text):
-    match = _TITLE_RE.search(text or "")
-    return match.group(1).strip() if match else ""
+    return retry.run(fn, config, BayutUpstreamError, lambda e: _drop_session())
 
 
 def _is_challenge(text):

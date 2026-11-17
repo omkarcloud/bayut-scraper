@@ -30,6 +30,7 @@ from datetime import datetime, timezone
 from html import unescape
 
 from bayut import refs
+from scraper_utils.values import bool_or_none as _bool, to_int as _int
 
 PHOTO_SIZE = "800x600"
 THUMB_SIZE = "400x300"
@@ -133,20 +134,6 @@ def _get(obj, *path, default=None):
     return obj
 
 
-def _int(value):
-    if isinstance(value, bool) or value is None:
-        return None
-    if isinstance(value, (int, float)):
-        return int(value)
-    if isinstance(value, str):
-        digits = value.replace(",", "").strip()
-        try:
-            return int(float(digits))
-        except ValueError:
-            return None
-    return None
-
-
 def _float(value, digits=None):
     if isinstance(value, bool) or value is None:
         return None
@@ -170,10 +157,6 @@ def _id(value):
 
 
 record_id = _id
-
-
-def _bool(value):
-    return value if isinstance(value, bool) else None
 
 
 def _clean(value):
